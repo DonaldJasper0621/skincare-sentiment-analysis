@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Data files (too large for git)
+data/raw/
+data/processed/
+
+# Power BI (binary — commit only when ready)
+dashboard/*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
