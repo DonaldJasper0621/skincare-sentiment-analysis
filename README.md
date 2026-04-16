@@ -18,7 +18,7 @@ An end-to-end data pipeline that collects Reddit skincare community data, stores
 
 | Layer | Tool |
 |---|---|
-| Data Collection | Python (`PRAW` Reddit API) |
+| Data Collection | Kaggle (Sephora Reviews dataset) · Reddit `.json` fallback |
 | Storage | PostgreSQL |
 | Processing & NLP | Python (`pandas`, `spaCy`, `VADER`) |
 | Visualization | Power BI |
@@ -168,12 +168,18 @@ Preliminary observations from initial data pull (n = ~2,000 posts):
 ```bash
 # 1. Install dependencies
 pip install -r requirements.txt
+python -m spacy download en_core_web_sm
 
 # 2. Set up PostgreSQL and run schema
 psql -U your_user -d skincare_db -f sql/schema.sql
 
-# 3. Collect data (requires Reddit API credentials — copy .env.example to .env)
-jupyter notebook notebooks/01_data_collection.ipynb
+# 3a. Collect data — Option A: Kaggle (recommended, no API wait)
+#     Place kaggle.json in ~/.kaggle/ then run:
+jupyter notebook notebooks/01_data_collection.ipynb   # run Option A cells
+
+# 3b. Collect data — Option B: Reddit JSON (no API key needed)
+#     Run Option B cells in the same notebook
+#     (~1,000 posts, respects 1 req/sec rate limit automatically)
 
 # 4. Run pipeline in order: 02 → 03 → 04
 
