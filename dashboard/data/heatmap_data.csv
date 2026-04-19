@@ -1,0 +1,81 @@
+ingredient,skin_concern,mentions,negative_count,avg_sentiment,negative_pct
+aha,acne,71,3,0.691,4.2
+aha,aging,19,1,0.646,5.3
+aha,other,59,3,0.634,5.1
+aha,sensitivity,45,4,0.588,8.9
+alcohol,acne,49,8,0.376,16.3
+alcohol,aging,13,1,0.591,7.7
+alcohol,other,96,15,0.466,15.6
+alcohol,sensitivity,40,7,0.387,17.5
+azelaic acid,acne,15,1,0.648,6.7
+bakuchiol,aging,13,0,0.793,0.0
+benzoyl peroxide,acne,49,13,0.401,26.5
+bha,acne,62,11,0.51,17.7
+bha,aging,17,2,0.545,11.8
+bha,other,57,1,0.732,1.8
+bha,sensitivity,32,3,0.638,9.4
+ceramide,acne,12,1,0.809,8.3
+ceramide,aging,10,0,0.716,0.0
+ceramide,other,17,0,0.572,0.0
+ceramide,sensitivity,17,1,0.628,5.9
+collagen,acne,15,2,0.54,13.3
+collagen,aging,126,1,0.769,0.8
+fragrance,acne,168,15,0.617,8.9
+fragrance,aging,208,8,0.775,3.8
+fragrance,hyperpigmentation,13,0,0.824,0.0
+fragrance,other,692,38,0.676,5.5
+fragrance,sensitivity,374,39,0.608,10.4
+glycolic acid,acne,47,6,0.538,12.8
+glycolic acid,other,48,1,0.735,2.1
+glycolic acid,sensitivity,18,2,0.571,11.1
+hyaluronic acid,acne,43,2,0.667,4.7
+hyaluronic acid,aging,85,2,0.816,2.4
+hyaluronic acid,other,237,8,0.731,3.4
+hyaluronic acid,sensitivity,28,2,0.629,7.1
+lactic acid,acne,33,6,0.515,18.2
+lactic acid,aging,16,0,0.82,0.0
+lactic acid,other,49,3,0.62,6.1
+lactic acid,sensitivity,24,1,0.771,4.2
+niacinamide,acne,76,9,0.59,11.8
+niacinamide,aging,54,4,0.771,7.4
+niacinamide,hyperpigmentation,16,0,0.882,0.0
+niacinamide,other,102,6,0.706,5.9
+niacinamide,sensitivity,47,5,0.71,10.6
+peptide,aging,42,2,0.688,4.8
+peptide,other,35,2,0.722,5.7
+peptide,sensitivity,11,2,0.68,18.2
+retinoid,acne,11,2,0.493,18.2
+retinoid,aging,23,0,0.766,0.0
+retinoid,other,29,2,0.665,6.9
+retinoid,sensitivity,16,1,0.635,6.2
+retinol,acne,227,26,0.579,11.5
+retinol,aging,261,15,0.684,5.7
+retinol,hyperpigmentation,19,1,0.787,5.3
+retinol,other,357,15,0.668,4.2
+retinol,sensitivity,213,15,0.626,7.0
+salicylic acid,acne,128,17,0.573,13.3
+salicylic acid,other,40,3,0.614,7.5
+salicylic acid,sensitivity,22,1,0.759,4.5
+spf,acne,146,14,0.591,9.6
+spf,aging,145,5,0.69,3.4
+spf,hyperpigmentation,27,1,0.731,3.7
+spf,other,756,47,0.646,6.2
+spf,sensitivity,148,9,0.637,6.1
+squalane,acne,14,0,0.737,0.0
+squalane,aging,27,0,0.792,0.0
+squalane,other,61,1,0.75,1.6
+squalane,sensitivity,16,1,0.648,6.2
+sunscreen,acne,329,38,0.562,11.6
+sunscreen,aging,193,25,0.634,13.0
+sunscreen,hyperpigmentation,43,1,0.699,2.3
+sunscreen,other,1708,119,0.632,7.0
+sunscreen,sensitivity,247,19,0.622,7.7
+tretinoin,acne,30,2,0.573,6.7
+tretinoin,other,24,2,0.56,8.3
+tretinoin,sensitivity,15,2,0.596,13.3
+vitamin c,acne,136,7,0.739,5.1
+vitamin c,aging,170,8,0.772,4.7
+vitamin c,hyperpigmentation,99,2,0.827,2.0
+vitamin c,other,409,12,0.777,2.9
+vitamin c,sensitivity,118,5,0.731,4.2
+vitamin e,other,16,1,0.692,6.2
