@@ -155,11 +155,33 @@ Key views:
 
 ## Key Findings
 
-*(To be updated after analysis)*
+*Based on 9,729 ingredient mentions extracted from 50,000 Sephora product reviews.*
 
-Preliminary observations from initial data pull (n = ~2,000 posts):
-- Alcohol-based ingredients appear in negative sentiment posts at 2.4× the rate of non-alcohol ingredients
-- Fragrance complaints spike significantly in the sensitivity concern segment
+### Most Negatively-Mentioned Ingredients (≥50 mentions)
+
+| Ingredient | Mentions | Avg Sentiment | Negative Rate |
+|---|---|---|---|
+| Benzoyl Peroxide | 56 | 0.413 | **23.2%** |
+| Alcohol | 202 | 0.434 | **15.3%** |
+| Tretinoin | 75 | 0.604 | 8.0% |
+| Salicylic Acid | 195 | 0.604 | 11.3% |
+| BHA | 171 | 0.607 | 10.5% |
+
+### Sentiment by Skin Concern
+
+Acne-focused posts generated significantly more negative sentiment (11.1% negative rate) compared to aging-focused posts (5.2%) — suggesting acne treatments are perceived as harsher or more irritating.
+
+| Skin Concern | Posts | Avg Sentiment | Negative Rate |
+|---|---|---|---|
+| Acne | 1,089 | 0.588 | 11.1% |
+| Sensitivity | 998 | 0.628 | 8.5% |
+| Other | 3,442 | 0.663 | 5.8% |
+| Aging | 909 | 0.725 | 5.2% |
+| Hyperpigmentation | 172 | 0.764 | 3.4% |
+
+### Actionable Insight: Retinol Sentiment Diverges by Use Case
+
+Retinol's negative rate is **2.7× higher** in acne contexts (11.5%) vs. aging contexts (5.7%) — suggesting formulation or communication strategy should differ by target concern. Alcohol shows similar divergence: 17.5% negative in sensitivity posts vs. 7.7% in aging posts.
 
 ---
 
