@@ -1,11 +1,9 @@
 -- ============================================================
 -- Skincare Sentiment Analysis — PostgreSQL Schema
+-- Run against skincare_db (already created separately)
 -- ============================================================
 
-CREATE DATABASE skincare_db;
-\c skincare_db;
-
--- Posts collected from Reddit
+-- Posts collected from Reddit / Sephora reviews
 CREATE TABLE posts (
     post_id      VARCHAR PRIMARY KEY,
     subreddit    VARCHAR      NOT NULL DEFAULT 'SkincareAddiction',
