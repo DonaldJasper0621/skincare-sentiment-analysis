@@ -1,0 +1,6 @@
+data/raw/
+outputs/processed_reviews.csv
+.env
+__pycache__/
+*.pyc
+.DS_Store
