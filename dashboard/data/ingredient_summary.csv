@@ -1,0 +1,25 @@
+ingredient,mention_count,avg_sentiment,negative_count,positive_count,negative_pct
+benzoyl peroxide,56,0.413,13,41,23.2
+alcohol,202,0.434,31,159,15.3
+tretinoin,75,0.604,6,62,8.0
+salicylic acid,195,0.604,22,161,11.3
+bha,171,0.607,18,144,10.5
+sunscreen,2520,0.623,202,2187,8.0
+vitamin e,30,0.641,3,26,10.0
+glycolic acid,128,0.642,10,113,7.8
+spf,1222,0.645,76,1079,6.2
+retinol,1077,0.647,72,947,6.7
+aha,200,0.648,11,177,5.5
+lactic acid,126,0.648,11,110,8.7
+retinoid,79,0.664,5,70,6.3
+ceramide,56,0.666,2,50,3.6
+fragrance,1455,0.667,100,1298,6.9
+azelaic acid,23,0.678,1,22,4.3
+mineral oil,22,0.681,1,20,4.5
+peptide,91,0.696,7,81,7.7
+niacinamide,295,0.698,24,263,8.1
+hyaluronic acid,402,0.735,14,369,3.5
+collagen,141,0.745,3,129,2.1
+squalane,121,0.747,2,113,1.7
+vitamin c,932,0.77,34,894,3.6
+bakuchiol,28,0.789,1,26,3.6
