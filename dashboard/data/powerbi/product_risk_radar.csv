@@ -1,0 +1,1390 @@
+product_name,brand_name,secondary_category,price_usd,n,avg_rating,avg_sentiment,rec_pct,neg_pct,health_score,risk_flag
+LUNA fofo,FOREO,High Tech Tools,89.0,240,2.89,0.3622,45.4,28.3,0.538,OK
+Clean Cleansing & Gentle Exfoliating Wipes,SEPHORA COLLECTION,Cleansers,6.0,524,2.56,0.3626,37.8,26.0,0.4873,OK
+The Silk Sunscreen Mineral Broad Spectrum SPF 50 PA++++ with Hyaluronic Acid and Niacinamide,Tatcha,Sunscreen,62.0,485,3.4,0.4318,56.3,24.1,0.6255,OK
+Faded Serum for Dark Spots & Discoloration,Topicals,Treatments,38.0,919,3.66,0.3614,68.6,23.9,0.6787,OK
+Mini Faded Serum for Dark Spots & Discoloration,Topicals,Treatments,18.0,919,3.66,0.3614,68.6,23.9,0.6787,OK
+Ultra Sun Protection Lotion Broad Spectrum SPF 50+ WetForce for Sensitive Skin & Children,Shiseido,Sunscreen,42.0,227,3.18,0.3445,29.1,23.8,0.4876,OK
+Acne Solutions Cleansing Gel,CLINIQUE,Treatments,23.5,102,3.87,0.3569,52.9,23.5,0.6288,OK
+Focuspot Micro Tip Patches,Dr. Jart+,Treatments,20.0,577,3.05,0.3806,50.6,23.2,0.5721,OK
+Clean Charcoal Nose Strip,SEPHORA COLLECTION,Masks,3.0,186,2.99,0.3166,47.8,23.1,0.5465,OK
+Supplement Case,SEPHORA COLLECTION,Wellness,10.0,110,3.78,0.4748,68.2,22.7,0.7047,OK
+Pure Skin Clarifying Dietary Supplement,Murad,Wellness,50.0,512,4.07,0.4159,7.6,22.3,0.4703,WATCH
+Instant FIRMx Eye Temporary Eye Tightener,Peter Thomas Roth,Eye Care,38.0,626,3.32,0.3746,21.9,22.0,0.4733,OK
+Trinity + Eye and Lip Enhancer Attachment Bundle,NuFACE,High Tech Tools,429.0,105,3.44,0.4528,52.4,21.9,0.6161,OK
+Trinity + Eye and Lip Enhancer Attachment Bundle,NuFACE,High Tech Tools,449.0,105,3.44,0.4528,52.4,21.9,0.6161,OK
+ESPADA Blue Light Acne Treatment,FOREO,Treatments,159.0,142,3.89,0.4259,56.3,21.8,0.6553,OK
+Moisture Surge Eye 96-Hour Hydro-Filler Concentrate,CLINIQUE,Eye Care,37.0,141,3.35,0.3875,54.6,21.3,0.6084,OK
+Potent-C Vitamin C Bright & Plump Moisturizer,Peter Thomas Roth,Moisturizers,72.0,109,3.62,0.4543,64.2,21.1,0.6754,OK
+Vitamin C Suspension 23% + HA Spheres 2%,The Ordinary,Treatments,7.8,1113,3.45,0.4222,60.5,21.1,0.6436,OK
+DERMAPORE Ultrasonic Pore Extractor & Serum Infuser,DERMAFLASH,High Tech Tools,99.0,281,3.62,0.4706,64.1,21.0,0.6771,OK
+Makeup Setting Spray Organic Sunscreen SPF 30,COOLA,Sunscreen,36.0,623,3.31,0.462,30.2,21.0,0.521,OK
+Jade De-Puffing Face Roller,Herbivore,Wellness,32.0,291,3.54,0.4667,63.9,21.0,0.6713,OK
+pores no more Vacuum Cleaner Pore Purifying Mask,Dr. Brandt Skincare,Masks,44.0,239,3.89,0.458,74.9,20.9,0.7352,OK
+Vitamin C Brightening Cream,The INKEY List,Treatments,10.99,514,3.03,0.4509,51.0,20.8,0.5849,OK
+Clean Lip Balm & Scrub,SEPHORA COLLECTION,Lip Balms & Treatments,7.0,1084,3.25,0.4682,56.6,20.7,0.6242,OK
+Hyaluronic Marine Dew It Right Eye Gel,Dr. Dennis Gross Skincare,Eye Care,55.0,148,3.53,0.4098,61.5,20.3,0.6506,OK
+Clinique iD Custom-Blend Hydrator Collection,CLINIQUE,Moisturizers,41.0,271,3.63,0.4548,66.1,20.3,0.6832,OK
+Blackhead Solutions Self-heating Blackhead Extractor,CLINIQUE,Cleansers,32.0,196,3.1,0.3978,50.0,19.9,0.576,OK
+Face Serum,SEPHORA COLLECTION,Treatments,9.0,238,3.32,0.4257,59.7,19.7,0.6334,OK
+Even Better Eyes Dark Circle Corrector,CLINIQUE,Eye Care,44.0,383,3.24,0.4237,2.9,19.6,0.4008,OK
+Youth or Dare Multi-Acid & C-Serum,tarte,Treatments,42.0,138,3.1,0.4693,52.9,19.6,0.6001,OK
+Rejuvenating Anti-Aging Serum,Tata Harper,Treatments,146.0,241,3.42,0.5165,32.4,19.5,0.5463,OK
+Facial Radiance Niacinamide Dark Spot Serum,First Aid Beauty,Treatments,42.0,186,3.66,0.4549,62.4,19.4,0.6701,OK
+Super Fluid Daily UV Defense Sunscreen Broad Spectrum SPF 50+,Kiehl's Since 1851,Sunscreen,68.0,125,3.62,0.4516,57.6,19.2,0.6479,OK
+Daily Cleanse Clear Skin and Body Detox Supplement,HUM Nutrition,Wellness,26.0,614,4.06,0.4629,61.4,19.2,0.6927,WATCH
+Umbra Sheer Physical Daily Defense SPF 30,Drunk Elephant,Sunscreen,34.0,1361,3.31,0.4642,54.0,19.1,0.6167,OK
+Sex Dust   Adaptogens For Fire*,Moon Juice,Wellness,38.0,136,3.85,0.5312,73.5,19.1,0.7404,OK
+Acne-Clear Invisible Dots,Peter Thomas Roth,Treatments,32.0,554,3.43,0.423,21.3,19.0,0.4861,OK
+Cannabis Sativa Seed Oil Herbal Concentrate (Hemp-Derived),Kiehl's Since 1851,Moisturizers,55.0,222,4.14,0.5081,79.3,18.9,0.7773,WATCH
+LUNA Mini 3,FOREO,High Tech Tools,179.0,107,3.88,0.5283,74.8,18.7,0.7464,OK
+Umbra Tinte Physical Daily Defense SPF 30,Drunk Elephant,Sunscreen,36.0,844,3.3,0.503,48.0,18.7,0.5985,OK
+Instant FIRMx Temporary Face Tightener,Peter Thomas Roth,Treatments,49.0,478,3.55,0.469,13.2,18.6,0.4693,OK
+Succinic Acid Acne Treatment,The INKEY List,Treatments,9.99,920,3.85,0.4511,71.7,18.3,0.7189,OK
+Extra Illuminating Moisture Balm,Bobbi Brown,Moisturizers,74.0,165,3.37,0.4827,46.7,18.2,0.5942,OK
+Plantscription Anti-Aging Power Eye Cream,Origins,Eye Care,58.0,128,3.83,0.4936,20.3,18.0,0.5194,OK
+LUXE+ Advanced Sonic Dermaplaning + Peach Fuzz Removal,DERMAFLASH,High Tech Tools,199.0,189,3.97,0.538,72.5,18.0,0.7449,OK
+Clean Screen Mineral SPF 30 Mattifying Face Sunscreen,REN Clean Skincare,Sunscreen,40.0,414,3.35,0.4961,52.7,17.9,0.6193,OK
+Repairative Anti-Aging Moisturizer,Tata Harper,Moisturizers,130.0,136,3.41,0.5018,33.1,17.6,0.5459,OK
+FAB Skin Lab Retinol Serum 0.25% Pure Concentrate,First Aid Beauty,Treatments,58.0,159,3.98,0.4885,69.8,17.6,0.7261,OK
+Retinol Firming Eye Cream,Kate Somerville,Eye Care,98.0,131,3.44,0.4274,32.1,17.6,0.5307,OK
+Super Spot Remover Acne Treatment Gel,Origins,Treatments,20.0,1703,3.94,0.4387,38.9,17.5,0.5907,OK
+Rapid Relief Acne Spot Treatment,Murad,Treatments,26.0,589,3.93,0.433,71.8,17.5,0.7213,OK
+Squalane + Peptide Brightening & De-Puffing Eye Gel,Biossance,Eye Care,56.0,652,3.64,0.4766,52.5,17.5,0.6333,OK
+GENIUS Ultimate Anti-Aging Vitamin C+ Serum,Algenist,Treatments,118.0,229,3.98,0.5108,15.3,17.5,0.5119,OK
+Hydrating Oil Stick,MILK MAKEUP,Moisturizers,32.0,276,3.85,0.5556,48.6,17.4,0.6444,OK
++Retinol Vita C Power Serum,Kate Somerville,Treatments,110.0,121,3.5,0.5263,67.8,17.4,0.6947,OK
+GLO Brilliant White Smile - At Home Teeth Whitening Device,GLO Science,Value & Gift Sets,159.0,779,4.0,0.5354,35.9,17.3,0.5999,WATCH
+Repairwear Laser Focus Wrinkle Correcting Eye Cream,CLINIQUE,Eye Care,54.0,150,3.91,0.4431,17.3,17.3,0.5035,OK
+Caffeine 5% + EGCG Depuffing Eye Serum,The Ordinary,Treatments,8.9,2114,3.77,0.4396,70.3,17.2,0.7063,OK
+Eczema+ Dermatitis Face Balm,Skinfix,Moisturizers,29.0,462,4.21,0.4987,81.6,17.1,0.7892,HIGH RISK
+Salicylic Acid Acne Treatment Serum,Peace Out,Treatments,34.0,123,3.63,0.5462,66.7,17.1,0.7019,OK
+Purifying Pore & Blackhead Detox Mask,Tata Harper,Masks,75.0,129,3.84,0.5922,39.5,17.1,0.6146,OK
+U.F.O. Salicylic Acid BHA Acne Treatment Face Oil,Sunday Riley,Moisturizers,80.0,2281,4.14,0.5243,53.9,17.0,0.6782,WATCH
+Acne Clearing Wash,Peter Thomas Roth,Cleansers,39.0,137,4.23,0.5289,52.6,16.8,0.6794,HIGH RISK
+"Glow Clear, Color Correcting Self-Tanning Mousse",Isle of Paradise,Self Tanners,32.0,392,3.42,0.5366,61.7,16.8,0.6672,OK
+EradiKate Acne Treatment,Kate Somerville,Treatments,28.0,3151,4.23,0.471,22.2,16.7,0.548,HIGH RISK
+Needles No More Wrinkle Smoothing Cream,Dr. Brandt Skincare,Treatments,89.0,508,3.52,0.4741,18.7,16.7,0.4903,OK
+Instant Masks,SEPHORA COLLECTION,Masks,8.0,447,3.51,0.4871,63.1,16.6,0.6695,OK
+FIRMx Exfoliating Peel Gel,Peter Thomas Roth,Treatments,49.0,1682,4.54,0.526,46.3,16.5,0.6734,HIGH RISK
+Glow Stick Sunscreen SPF 50 PA++++,Supergoop!,Sunscreen,26.0,497,3.65,0.5438,67.4,16.5,0.7054,OK
+Mini FIRMx Exfoliating Peel Gel,Peter Thomas Roth,Mini Size,16.0,1682,4.54,0.526,46.3,16.5,0.6734,HIGH RISK
+PLAY Antioxidant Body Sunscreen Mist SPF 50 PA++++,Supergoop!,Sunscreen,21.0,293,3.91,0.5256,27.3,16.4,0.5584,OK
+Redness Solutions with Probiotic Technology Daily Relief Cream,CLINIQUE,Moisturizers,56.0,584,4.0,0.4869,13.0,16.4,0.4999,WATCH
+Ascorbic Acid 8% + Alpha Arbutin 2%,The Ordinary,Treatments,12.2,499,3.75,0.4918,66.9,16.4,0.7008,OK
+Refillable Magic Night Moisturizer with Retinol,Charlotte Tilbury,Moisturizers,145.0,123,3.53,0.5232,62.6,16.3,0.675,OK
+Melting Cleansing Balm Cleanse + Balance,SEPHORA COLLECTION,Cleansers,12.0,492,3.74,0.5289,67.3,16.3,0.7082,OK
+Superscreen Daily Moisturizer Sunscreen SPF 40 PA+++,Supergoop!,Moisturizers,44.0,648,3.7,0.5363,64.4,16.2,0.6952,OK
+White Lucent Anti-Dark Circles Eye Cream,Shiseido,Eye Care,65.0,391,3.59,0.4409,17.6,16.1,0.4843,OK
+Mini Protini Polypeptide Moisturizer,Drunk Elephant,Mini Size,22.0,162,3.83,0.516,69.8,16.0,0.721,OK
+24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches,Peter Thomas Roth,Eye Care,75.0,321,3.74,0.5289,43.0,15.9,0.6109,OK
+Drying Lotion,Mario Badescu,Treatments,17.0,396,4.1,0.4617,78.5,15.9,0.7638,WATCH
+Pimple Paste Overnight Blemish Drying Paste,iNNBEAUTY PROJECT,Treatments,17.0,252,4.17,0.4991,82.5,15.9,0.7904,OK
+Salicylic Acid 2% Anhydrous Solution Pore Clearing Serum,The Ordinary,Treatments,7.2,330,3.85,0.4922,73.9,15.8,0.7353,OK
+Noni Radiant Brightening Eye Oil,KORA Organics,Eye Care,42.0,400,3.79,0.5299,66.3,15.8,0.707,OK
+GENIUS Liquid Collagen Lip Treatment,Algenist,Lip Balms & Treatments,29.0,644,3.88,0.5013,71.4,15.8,0.7282,OK
+24K Gold Mask Pure Luxury Lift & Firm,Peter Thomas Roth,Masks,85.0,197,3.49,0.5412,28.4,15.7,0.5389,OK
+Do Not Age with Dr. Brandt Moisturizing Neck Cream,Dr. Brandt Skincare,Moisturizers,67.0,102,3.77,0.4767,20.6,15.7,0.5142,OK
+Silk Sleepmask,Slip,Wellness,50.0,168,3.76,0.5629,58.3,15.5,0.6791,OK
+Vitamin C Suspension 30% in Silicone,The Ordinary,Treatments,8.3,394,3.63,0.5074,64.0,15.5,0.6843,OK
+Own Your Glow Kit,Isle of Paradise,Value & Gift Sets,35.0,280,3.77,0.5991,71.4,15.4,0.7388,OK
+FAB Skin Lab Retinol Eye Cream with Triple Hyaluronic Acid,First Aid Beauty,Eye Care,44.0,162,3.72,0.4886,65.4,15.4,0.6924,OK
+Salicylic Acid Acne Healing Dots,Peace Out,Treatments,19.0,4576,4.18,0.4975,79.9,15.4,0.7802,WATCH
+Pink Cloud Soft Moisture Cream,Herbivore,Moisturizers,46.0,229,3.79,0.5767,65.5,15.3,0.7121,OK
+Resveratrol 3% + Ferulic Acid 3%,The Ordinary,Treatments,10.0,164,3.99,0.5324,75.0,15.2,0.7549,OK
+Alpha Arbutin 2% + HA Hyperpigmentation Serum,The Ordinary,Treatments,11.1,755,4.04,0.4853,78.9,15.1,0.7657,WATCH
+Mini Clear Improvement Active Charcoal Mask to Clear Pore,Origins,Mini Size,17.0,127,3.98,0.5023,72.4,15.0,0.7392,OK
+Tata's Daily Essentials Kit,Tata Harper,Value & Gift Sets,75.0,120,3.65,0.6101,42.5,15.0,0.6174,OK
+Pep-Start Eye Cream,CLINIQUE,Eye Care,32.0,1005,3.68,0.4968,33.6,14.9,0.5637,OK
+C-Tango Vitamin C Eye Cream,Drunk Elephant,Eye Care,64.0,1483,3.75,0.5391,68.2,14.8,0.7141,OK
+A-Passioni Retinol Cream,Drunk Elephant,Treatments,74.0,1260,4.2,0.5503,80.0,14.8,0.7911,OK
+Mini Squalane Cleanser,The Ordinary,Cleansers,9.0,108,3.95,0.5272,73.1,14.8,0.7445,OK
+Peptide Moisturizer,The INKEY List,Moisturizers,15.99,788,3.79,0.5187,70.3,14.7,0.7215,OK
+SOS Daily Rescue Facial Spray,Tower 28 Beauty,Moisturizers,12.0,659,4.24,0.5296,81.0,14.7,0.7941,HIGH RISK
+Black Tea Corset Firming Serum,fresh,Treatments,75.0,102,3.91,0.5047,26.5,14.7,0.5512,OK
+Fresh Pressed Daily Booster with Pure Vitamin C 10%,CLINIQUE,Treatments,85.0,156,3.92,0.5213,59.0,14.7,0.6848,OK
+Squalane + Zinc Sheer Mineral Sunscreen SPF 30 PA +++,Biossance,Sunscreen,34.0,653,3.87,0.5471,68.5,14.7,0.7237,OK
+Ascorbyl Glucoside Solution 12%,The Ordinary,Treatments,14.3,163,4.1,0.5665,76.1,14.7,0.7721,WATCH
+Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body,Shiseido,Sunscreen,40.0,136,3.83,0.5605,28.7,14.7,0.5647,OK
+Anti Bac Acne Clearing Lotion,Kate Somerville,Treatments,56.0,611,4.46,0.5361,33.2,14.6,0.618,HIGH RISK
+Lip Sleeping Mask,SEPHORA COLLECTION,Lip Balms & Treatments,5.0,322,3.57,0.4825,64.0,14.6,0.6759,OK
+Oat Cleansing Balm,The INKEY List,Cleansers,11.99,3000,3.6,0.5456,64.1,14.6,0.6895,OK
+Acne Control Clarifying Body Spray,Murad,Treatments,48.0,635,4.29,0.5121,22.2,14.6,0.5591,HIGH RISK
+Mini Oat Cleansing Balm,The INKEY List,Cleansers,5.99,3000,3.6,0.5456,64.1,14.6,0.6895,OK
+"Facial Spray with Aloe, Herbs and Rosewater",Mario Badescu,Moisturizers,7.0,297,3.77,0.5246,70.0,14.5,0.7201,OK
+Goodbye Acne AHA/BHA Acne Clearing Gel Face Body Spot Treatment,Peter Thomas Roth,Treatments,48.0,625,4.28,0.52,15.0,14.4,0.531,HIGH RISK
+TL Advanced  Tightening Neck Cream PLUS for Firming & Brightening,StriVectin,Moisturizers,95.0,153,4.04,0.5886,77.1,14.4,0.7765,WATCH
+Superfood Hydrate + Firm Peptide Eye Cream,Youth To The People,Eye Care,38.0,326,3.66,0.5458,53.7,14.4,0.6513,OK
+Clarifying AHA + BHA Mask,Tata Harper,Masks,75.0,250,3.92,0.5858,46.0,14.4,0.6438,OK
+Niacinamide 10% + Zinc 1% Oil Control Serum,The Ordinary,Treatments,6.0,5775,4.24,0.5046,83.1,14.4,0.7982,HIGH RISK
+Mini TL Advanced  Tightening Neck Cream PLUS for Firming & Brightening,StriVectin,Moisturizers,15.0,153,4.04,0.5886,77.1,14.4,0.7765,WATCH
+EradiKate Daily Cleanser Acne Treatment,Kate Somerville,Treatments,44.0,623,4.25,0.5469,62.1,14.4,0.722,HIGH RISK
+Mini Goodbye Acne  AHA/BHA Acne Clearing Gel Face Body Spot Treatment,Peter Thomas Roth,Mini Size,20.0,625,4.28,0.52,15.0,14.4,0.531,HIGH RISK
+Acne Solutions Clinical Clearing Gel,CLINIQUE,Treatments,32.0,1078,4.22,0.4906,37.8,14.3,0.6133,HIGH RISK
+Broad Spectrum SPF 50 Sunscreen Face Cream,CLINIQUE,Sunscreen,30.0,238,3.97,0.4966,18.1,14.3,0.5198,OK
+Renewing Eye Cream,Murad,Eye Care,89.0,253,4.03,0.5227,22.1,14.2,0.5445,WATCH
+Wrinkle Warrior 2-in-1 Plumping Moisturizer + Serum,Kate Somerville,Moisturizers,98.0,359,3.71,0.4945,50.7,14.2,0.6335,OK
+Pout Prep Lip Exfoliant,tarte,Lip Balms & Treatments,16.0,205,4.1,0.5207,72.2,14.1,0.7488,WATCH
+(Re) Setting Refreshing Mist SPF 40,Supergoop!,Sunscreen,34.0,382,3.64,0.6141,69.6,14.1,0.7263,OK
+Mini Flatter Me Digestive Enzyme Supplement,HUM Nutrition,Wellness,15.0,401,4.26,0.5339,73.8,14.0,0.7677,HIGH RISK
+Touch Home Permanent Hair Removal Device,iluminage,High Tech Tools,449.0,100,3.67,0.554,16.0,14.0,0.5028,OK
+Azelaic Acid 10% Suspension Brightening Cream,The Ordinary,Treatments,11.1,958,4.15,0.5144,80.9,14.0,0.7857,OK
+Advanced Génifique Hydrogel Melting Mask,Lancôme,Masks,15.0,107,4.07,0.5957,74.8,14.0,0.7705,WATCH
+Flatter Me Digestive Enzyme Supplement,HUM Nutrition,Wellness,26.0,401,4.26,0.5339,73.8,14.0,0.7677,HIGH RISK
+Acne Solutions All-Over Clearing Treatment Oil-Free,CLINIQUE,Treatments,26.0,712,4.02,0.4973,10.5,14.0,0.4927,WATCH
+Oil-Absorbing Pore Treatment Strips,Peace Out,Treatments,19.0,1566,3.98,0.5487,75.8,13.9,0.7606,OK
+24/7 Retinol Eye Cream,Dr. Brandt Skincare,Eye Care,58.0,108,3.92,0.5909,67.6,13.9,0.7311,OK
+Rapid Radiance Set,Biossance,Value & Gift Sets,35.0,138,4.12,0.6185,76.8,13.8,0.7852,WATCH
+Alpha Beta Ultra Gentle Daily Peel Pads for Sensitive Skin,Dr. Dennis Gross Skincare,Treatments,20.0,239,4.34,0.578,53.1,13.8,0.6974,WATCH
+Eye Duty Niacinamide Brightening Eye Cream,First Aid Beauty,Eye Care,36.0,392,3.67,0.5841,67.1,13.8,0.7127,OK
+SOS Intensive Redness Relief Serum,Tower 28 Beauty,Treatments,34.0,167,4.2,0.6544,85.0,13.8,0.8295,OK
+Intensive Eye Renewal Cream with Firming Peptides,Shani Darden Skin Care,Eye Care,68.0,254,4.21,0.5846,80.7,13.8,0.8007,OK
+EUK 134 0.1%,The Ordinary,Treatments,11.1,140,4.35,0.5306,84.3,13.6,0.8144,HIGH RISK
+Buttermask Intense Repair Lip Treatment,Kiehl's Since 1851,Lip Balms & Treatments,28.0,191,4.04,0.5142,72.3,13.6,0.7441,WATCH
+Black Tea Firming and De-Puffing Eye Cream,fresh,Eye Care,68.0,609,3.88,0.5454,38.9,13.5,0.606,OK
+The Silk Canvas Protective Primer Mini,Tatcha,Mini Size,24.0,803,3.64,0.5318,63.5,13.4,0.6871,OK
+Calendula Herbal Extract Alcohol Free Toner,Kiehl's Since 1851,Cleansers,47.0,194,4.22,0.5782,73.7,13.4,0.7724,WATCH
+De-Puffing Jade Facial Roller,Mount Lai,Wellness,36.0,179,3.88,0.5769,71.5,13.4,0.7418,OK
+Cucumber De-Tox Hydra-Gel Eye Patches,Peter Thomas Roth,Eye Care,55.0,390,3.96,0.5768,57.7,13.3,0.692,OK
+Squalane+ Rose Vegan Lip Balm,Biossance,Lip Balms & Treatments,16.0,278,3.87,0.5886,69.1,13.3,0.7337,OK
+Ascorbyl Tetraisopalmitate Solution 20% in Vitamin F,The Ordinary,Treatments,19.8,166,3.82,0.5541,70.5,13.3,0.7301,OK
+Express Ultra Dark Mousse,Isle of Paradise,Self Tanners,32.0,120,3.78,0.6253,70.0,13.3,0.7384,OK
+Rose Quartz Facial Roller,SEPHORA COLLECTION,Wellness,22.0,135,3.72,0.5585,69.6,13.3,0.7212,OK
+D-Scar Scar Diminishing Serum,Kate Somerville,Treatments,56.0,413,4.05,0.4939,20.1,13.3,0.5325,WATCH
+Mini Drink Up Intensive Overnight Hydrating Mask with Avocado & Swiss Glacier Water,Origins,Mini Size,17.0,105,4.11,0.5709,77.1,13.3,0.7781,WATCH
+Microneedling Dark Spot Brightening Dots,Peace Out,Treatments,28.0,365,4.04,0.5657,80.5,13.2,0.7864,OK
+Lapis Blue Tansy Face Oil - For Oily & Acne-Prone Skin,Herbivore,Moisturizers,74.0,960,4.24,0.6,62.2,13.2,0.7315,WATCH
+Mini Lapis Blue Tansy Face Oil - For Oily & Acne-Prone Skin,Herbivore,Moisturizers,15.0,960,4.24,0.6,62.2,13.2,0.7315,WATCH
+Self-Tanning Water,Isle of Paradise,Self Tanners,32.0,1072,3.71,0.6114,69.4,13.2,0.729,OK
+Pore Refining Solutions Correcting Serum,CLINIQUE,Treatments,55.0,408,3.86,0.498,2.7,13.2,0.4517,OK
+PRO Strength Niacinamide Discoloration Treatment,Peter Thomas Roth,Treatments,88.0,367,4.16,0.5907,79.6,13.1,0.7942,WATCH
+Skin Perfecting 2% BHA Liquid Exfoliant,Paula's Choice,Cleansers,34.0,1200,4.44,0.5526,87.1,13.1,0.8348,OK
+Potent-C Vitamin C Power Eye Cream,Peter Thomas Roth,Eye Care,68.0,343,4.02,0.57,77.0,13.1,0.7716,WATCH
+Mini Skin Perfecting 2% BHA Liquid Exfoliant,Paula's Choice,Mini Size,13.0,412,4.22,0.5224,83.0,13.1,0.7996,HIGH RISK
+Argireline Solution 10%,The Ordinary,Treatments,9.4,247,4.2,0.543,81.8,13.0,0.797,HIGH RISK
+Mineral Mattescreen Sunscreen SPF 40 PA+++,Supergoop!,Sunscreen,38.0,131,4.02,0.5944,75.6,13.0,0.7698,WATCH
+All About Lips,CLINIQUE,Lip Balms & Treatments,28.0,169,4.02,0.4785,4.1,13.0,0.4639,WATCH
+Dramatically Different Moisturizing Lotion+,CLINIQUE,Moisturizers,32.5,2120,3.91,0.5173,31.7,12.9,0.5742,OK
+Acne Control Clarifying Cream Cleanser,Murad,Cleansers,39.0,906,4.35,0.5759,19.6,12.9,0.5636,WATCH
+Gua Sha Facial Lifting Tool,Mount Lai,High Tech Tools,30.0,303,4.13,0.602,79.5,12.9,0.7941,WATCH
+Shaba Complex Firming Eye Serum,Drunk Elephant,Eye Care,60.0,1066,3.9,0.5761,67.1,12.9,0.7255,OK
+Debloat+ Anti-Bloat Supplement with Digestive Enzymes,The Nue Co.,Wellness,45.0,172,4.29,0.5374,86.6,12.8,0.8212,OK
+Vinoperfect Brightening Glycolic Essence,Caudalie,Moisturizers,59.0,532,4.28,0.618,74.2,12.8,0.785,WATCH
+Jasmine Green Tea Oil Control Toner,Herbivore,Cleansers,39.0,312,4.07,0.6146,66.3,12.8,0.74,WATCH
+T.L.C. Sukari Babyfacial AHA + BHA Mask,Drunk Elephant,Masks,80.0,2548,4.29,0.5845,71.9,12.8,0.7703,WATCH
+Glow Oil Body Sunscreen SPF 50 PA++++,Supergoop!,Sunscreen,38.0,394,3.94,0.6118,40.9,12.7,0.6294,OK
+Self Tanning Bronzing Face Drops,Isle of Paradise,Self Tanners,32.0,2849,3.95,0.6123,76.7,12.7,0.7737,OK
+Mini Glow Oil SPF 50 PA++++,Supergoop!,Mini Size,15.0,394,3.94,0.6118,40.9,12.7,0.6294,OK
+Cooling Water,MILK MAKEUP,Moisturizers,28.0,1326,3.68,0.5483,45.9,12.7,0.6216,OK
+Protini Polypeptide Firming Refillable Moisturizer,Drunk Elephant,Moisturizers,68.0,6045,3.96,0.574,72.8,12.7,0.7518,OK
+Mini Ready Steady Glow Daily AHA Tonic,REN Clean Skincare,Cleansers,22.0,1233,4.14,0.5974,78.5,12.7,0.79,WATCH
+Mini Clarifying Blemish & Oil Control Cleanser,Tata Harper,Mini Size,46.0,267,3.95,0.5947,73.8,12.7,0.7584,OK
+Clarifying Blemish & Oil Control Cleanser,Tata Harper,Cleansers,88.0,267,3.95,0.5947,73.8,12.7,0.7584,OK
+Pep-Start Daily UV Protector Broad Spectrum SPF 50,CLINIQUE,Sunscreen,23.0,363,4.25,0.6029,69.1,12.7,0.7601,WATCH
+Ultra Facial Cream Sunscreen SPF 30,Kiehl's Since 1851,Moisturizers,38.0,158,3.84,0.5661,66.5,12.7,0.7175,OK
+Ready Steady Glow Daily AHA Tonic,REN Clean Skincare,Cleansers,40.0,1233,4.14,0.5974,78.5,12.7,0.79,WATCH
+Tranexamic Acid Hyperpigmentation Treatment,The INKEY List,Treatments,15.99,511,3.93,0.4973,78.3,12.7,0.7585,OK
+Watermelon Glow Niacinamide Sunscreen SPF 50,Glow Recipe,Sunscreen,35.0,1295,3.76,0.631,65.4,12.7,0.7194,OK
+Silk Pillowcase - Standard/Queen,Slip,Wellness,89.0,427,4.01,0.6034,60.9,12.6,0.7122,WATCH
+Slaai  Makeup-Melting Butter Cleanser,Drunk Elephant,Cleansers,36.0,1523,3.78,0.6044,65.6,12.5,0.7169,OK
+Powerful-Strength Dark Circle Reducing Vitamin C Eye Serum,Kiehl's Since 1851,Eye Care,55.0,1043,3.86,0.5979,74.6,12.5,0.7568,OK
+Lippe Balm,Drunk Elephant,Lip Balms & Treatments,18.0,1898,3.74,0.5614,55.7,12.5,0.6672,OK
+EradiKate Salicylic Acid Acne Treatment,Kate Somerville,Treatments,68.0,105,4.11,0.5579,74.3,12.4,0.7644,WATCH
+MAGNETIGHT Age-Defier Mask,Dr. Brandt Skincare,Masks,75.0,306,3.92,0.6258,30.4,12.4,0.5887,OK
+1 Minute Face Masks,SEPHORA COLLECTION,Masks,12.0,121,3.51,0.5684,64.5,12.4,0.6893,OK
+Bye Bye Under Eye Brightening Eye Cream for Dark Circles,IT Cosmetics,Eye Care,49.5,1025,4.0,0.5707,63.2,12.4,0.7155,WATCH
+Bakuchiol Retinol Alternative Moisturizer,The INKEY List,Treatments,12.99,346,4.04,0.583,82.9,12.4,0.7987,OK
+Acne Control Clarifying Cleanser,Murad,Cleansers,36.0,2570,4.24,0.5735,24.6,12.3,0.5758,WATCH
+Amino Acids + B5,The Ordinary,Treatments,8.9,228,4.41,0.5737,86.4,12.3,0.8343,OK
+Acne Solutions Clarifying Lotion,CLINIQUE,Cleansers,20.0,1007,4.4,0.5459,20.8,12.3,0.5663,HIGH RISK
+T.L.C. Framboos Glycolic Resurfacing Night Serum,Drunk Elephant,Treatments,90.0,3440,4.35,0.5923,61.4,12.3,0.7336,WATCH
+Alpha Beta AHA/BHA Daily Cleansing Gel,Dr. Dennis Gross Skincare,Cleansers,39.0,439,4.32,0.5808,80.9,12.3,0.8074,OK
+Mini Mineral Sheerscreen Sunscreen SPF 30 PA+++,Supergoop!,Sunscreen,22.0,455,3.95,0.6525,74.1,12.3,0.7696,OK
+Self Tan Purity Bronzing Water Face Mist,St. Tropez,Self Tanners,33.0,400,3.88,0.6243,72.5,12.3,0.7544,OK
+Mineral Sheerscreen Sunscreen SPF 30 PA+++,Supergoop!,Sunscreen,38.0,455,3.95,0.6525,74.1,12.3,0.7696,OK
+5% Benzoyl Peroxide Acne Spot Treatment,Dr. Zenovia Skincare,Treatments,25.0,287,4.4,0.5548,91.6,12.2,0.8514,OK
+Acne Solutions Acne + Line Correcting Serum,CLINIQUE,Treatments,52.0,115,4.13,0.5598,31.3,12.2,0.5938,WATCH
+Glycolic Acid 7% Exfoliating Toning Solution,The Ordinary,Cleansers,13.0,2884,4.34,0.5585,85.8,12.1,0.8248,OK
+Beauty zzZz Sleep Support Supplement with Melatonin,HUM Nutrition,Wellness,10.0,215,4.15,0.5471,69.3,12.1,0.7451,WATCH
+Squalane + Antioxidant Makeup Removing Cleansing Oil,Biossance,Cleansers,32.0,638,4.02,0.5933,68.8,12.1,0.7427,WATCH
+Zero Baggage Anti-Dark Circle Eye Cream,Naturally Serious,Eye Care,26.0,116,4.22,0.6581,81.9,12.1,0.8187,OK
+Caffeine Eye Cream,The INKEY List,Eye Care,10.99,1593,3.9,0.5452,75.3,12.1,0.7524,OK
+CC Screen 100% Mineral CC Cream SPF 50 PA++++,Supergoop!,Moisturizers,44.0,528,3.4,0.637,59.1,12.1,0.6726,OK
+Beste No. 9 Jelly Cleanser,Drunk Elephant,Cleansers,34.0,2692,3.94,0.6092,73.3,12.0,0.7588,OK
+Microneedling Anti-Wrinkle Retinol Patches,Peace Out,Treatments,24.0,1131,4.0,0.5963,77.0,12.0,0.7747,WATCH
+GENIUS Liquid Collagen Serum,Algenist,Treatments,115.0,1158,4.03,0.5864,74.2,12.0,0.7636,WATCH
+Even Skin Tone Self-Tanning Body Butter,Isle of Paradise,Self Tanners,28.0,557,3.74,0.652,67.9,12.0,0.7317,OK
+Green Defense Daily Mineral Sunscreen SPF 30,Farmacy,Sunscreen,36.0,300,3.98,0.5841,72.7,12.0,0.7539,OK
+Vitamin C Dark Circle Correcting Eye Serum,Murad,Eye Care,67.0,291,4.07,0.6032,80.1,12.0,0.7926,OK
+A+ High-Dose Retinol Serum,Sunday Riley,Treatments,85.0,514,4.2,0.6169,79.2,11.9,0.7996,WATCH
+"Facial Spray with Aloe, Cucumber and Green Tea",Mario Badescu,Moisturizers,7.0,126,3.96,0.5783,77.0,11.9,0.7692,OK
+Bright-Eyed 100% Mineral Eye Cream SPF 40 PA+++,Supergoop!,Eye Care,40.0,445,3.6,0.6082,64.3,11.9,0.7013,OK
+PLAY Everyday Sunscreen Lotion SPF 50 PA++++,Supergoop!,Sunscreen,34.0,1058,4.1,0.5855,66.4,11.9,0.7368,WATCH
+Pearly Girl Vegan Teeth Whitening Pen,tarte,High Tech Tools,25.0,479,4.18,0.5682,62.6,11.9,0.7238,WATCH
+Outsmart Acne Clarifying Treatment,Murad,Treatments,49.0,260,4.19,0.556,82.3,11.9,0.801,OK
+Mini PLAY Everyday Lotion SPF 50 with Sunflower Extract,Supergoop!,Mini Size,22.0,1058,4.1,0.5855,66.4,11.9,0.7368,WATCH
+Goodnight Glow Bakuchiol Sleeping Crème,OLEHENRIKSEN,Moisturizers,60.0,522,3.89,0.5919,71.5,11.9,0.7447,OK
+Beta Hydroxy Acid (BHA) Blemish + Blackhead Serum,The INKEY List,Treatments,12.99,432,4.09,0.5309,79.9,11.8,0.7802,WATCH
+Mini Acne Control Clarifying Cleanser,Murad,Mini Size,14.0,2447,4.24,0.5789,21.7,11.8,0.5652,WATCH
+Luna Sleeping Retinoid Night Oil,Sunday Riley,Moisturizers,105.0,2443,4.08,0.6103,40.0,11.8,0.6344,WATCH
+Powerful-Strength Vitamin C Serum,Kiehl's Since 1851,Treatments,78.0,389,3.67,0.5639,63.5,11.8,0.6944,OK
+Makeup Melting Balm Cleanser,Community Sixty-Six,Cleansers,16.0,248,3.4,0.5961,58.9,11.7,0.665,OK
+Mini SOS Daily Rescue Facial Spray,Tower 28 Beauty,Moisturizers,12.0,189,3.9,0.5638,70.9,11.6,0.7388,OK
+Do Not Age with Dr. Brandt Triple Peptide Eye Cream,Dr. Brandt Skincare,Eye Care,82.0,146,4.08,0.5824,21.9,11.6,0.5572,WATCH
+Dermask Water Jet Soothing Hydra Solution,Dr. Jart+,Masks,7.0,129,4.05,0.568,65.1,11.6,0.7258,WATCH
+Lactic Acid 5% + HA,The Ordinary,Treatments,7.8,172,4.31,0.5402,83.1,11.6,0.8089,HIGH RISK
+SuperYou Daily Stress Management,Moon Juice,Wellness,49.0,510,4.56,0.639,91.4,11.6,0.875,OK
+SUBLIME DEFENSE Ultra Lightweight UV Defense Fluid SPF 50,Algenist,Sunscreen,28.0,508,4.41,0.5879,37.2,11.6,0.64,WATCH
+Retinol Eye Cream,The INKEY List,Eye Care,12.99,662,3.95,0.5406,77.5,11.6,0.7641,OK
+Out of Trouble 10 Minute Mask to Rescue Problem Skin,Origins,Masks,32.0,1000,4.4,0.6007,41.7,11.5,0.6592,WATCH
+Honey Savior All-in-One Skin Repair Salve,Farmacy,Moisturizers,34.0,529,4.43,0.6003,69.0,11.5,0.7707,WATCH
+Repairwear Intensive Lip Treatment,CLINIQUE,Lip Balms & Treatments,31.5,270,4.3,0.5463,16.7,11.5,0.5433,HIGH RISK
+The Lip Balm,La Mer,Lip Balms & Treatments,75.0,192,3.93,0.5913,56.3,11.5,0.6868,OK
+Salicylic Acid 2% Masque,The Ordinary,Masks,13.3,637,4.37,0.5743,89.2,11.5,0.8426,OK
+Oil and Pore Control Mattifier Broad Spectrum SPF 45 PA++++,Murad,Moisturizers,49.0,541,3.94,0.6462,75.6,11.5,0.7744,OK
+Focuspot Dark Spot Micro Tip Patch,Dr. Jart+,Treatments,20.0,122,3.63,0.6453,71.3,11.5,0.7376,OK
+Clearly Corrective Dark Spot Solution Duo,Kiehl's Since 1851,Value & Gift Sets,125.0,910,3.85,0.5775,72.9,11.4,0.7456,OK
+Mini Deep Cleanse Gentle Exfoliating Cleanser,Tatcha,Mini Size,18.0,2358,4.15,0.6221,79.1,11.4,0.797,WATCH
+The Deep Cleanse Gentle Exfoliating Cleanser,Tatcha,Cleansers,40.0,2358,4.15,0.6221,79.1,11.4,0.797,WATCH
+Clearly Corrective Dark Spot Correcting Serum,Kiehl's Since 1851,Treatments,65.0,910,3.85,0.5775,72.9,11.4,0.7456,OK
+Moon Dew 1% Bakuchiol + Peptides Retinol Alternative Eye Cream,Herbivore,Eye Care,48.0,149,4.22,0.663,79.2,11.4,0.8092,WATCH
+Fat Water Niacinamide Pore-Refining Toner Serum with Barbados Cherry,Fenty Skin,Cleansers,34.0,486,4.1,0.6114,76.3,11.3,0.7814,WATCH
+Black Pine 3D Eye-Lift Super Serum,KORRES,Eye Care,61.0,159,4.01,0.5349,60.4,11.3,0.698,WATCH
+Personal Microderm Pro,PMD,High Tech Tools,199.0,124,4.44,0.6521,71.8,11.3,0.7909,WATCH
+Dream Eye Cream with Vitamin C and Ceramides,Youth To The People,Eye Care,48.0,547,3.86,0.5942,70.2,11.3,0.7388,OK
+Mini Charlotte's Magic Cream,Charlotte Tilbury,Moisturizers,30.0,247,3.66,0.5931,63.6,11.3,0.6993,OK
+Coconut Milk Bath Soak,Herbivore,Wellness,22.0,151,3.55,0.5614,61.6,11.3,0.679,OK
+15% Vitamin C and EGF Brightening Serum,The INKEY List,Treatments,15.99,671,3.94,0.5924,74.4,11.3,0.76,OK
+InvisiScar Post-Acne Resurfacing Treatment,Murad,Treatments,38.0,711,4.12,0.6081,81.4,11.3,0.802,OK
+Acne Solutions Cleansing Foam,CLINIQUE,Cleansers,23.5,1037,4.17,0.5668,16.8,11.3,0.5393,WATCH
+Blue Tansy BHA and Enzyme Pore Refining Mask,Herbivore,Masks,50.0,1927,4.25,0.6332,61.2,11.2,0.7336,WATCH
+GENIUS Ultimate Anti-Aging Eye Cream,Algenist,Eye Care,74.0,116,3.78,0.5626,24.1,11.2,0.5435,OK
+Ultra Repair Oat & Hemp Seed Dry Oil,First Aid Beauty,Moisturizers,36.0,437,4.36,0.5931,84.4,11.2,0.8265,OK
+Mini Watermelon Pink Juice Oil-Free Moisturizer,Glow Recipe,Mini Size,21.0,410,3.76,0.5766,65.1,11.2,0.7088,OK
+Calm Sweet Calm Stress Management Vegan Gummies with Ashwagandha & L-Theanine,HUM Nutrition,Wellness,30.0,107,4.21,0.7208,81.3,11.2,0.8267,OK
+Eye Doctor Moisture Care For Skin Around Eyes,Origins,Eye Care,49.0,501,4.05,0.5667,26.3,11.2,0.5703,WATCH
+Hyaluronic Acid 2% + B5 Hydrating Serum,The Ordinary,Treatments,15.7,3781,4.21,0.5633,81.9,11.1,0.8017,OK
+Jet Lag Mask,Summer Fridays,Masks,49.0,4419,4.03,0.6179,75.4,11.1,0.7738,WATCH
+Mini Jet Lag Mask,Summer Fridays,Masks,26.0,4419,4.03,0.6179,75.4,11.1,0.7738,WATCH
+JuJu Exfoliating Bar,Drunk Elephant,Cleansers,28.0,386,4.47,0.628,41.2,11.1,0.6663,WATCH
+Mini SuperYou Daily Stress Management,Moon Juice,Mini Size,25.0,499,4.58,0.6475,91.8,11.0,0.8791,OK
+Mini Lotus Anti-Aging Night Moisturizer,fresh,Mini Size,22.0,155,3.99,0.5849,67.7,11.0,0.7354,OK
+Bye Bye Redness Neutralizing Color-Correcting Cream,IT Cosmetics,Moisturizers,35.0,934,4.17,0.5857,62.6,11.0,0.7264,WATCH
+Clarifying Cleansing Foam,Shiseido,Cleansers,36.0,109,4.24,0.6537,78.0,11.0,0.8037,WATCH
+Watermelon Brightening Serum,MILK MAKEUP,Treatments,36.0,299,3.73,0.6265,67.6,11.0,0.7252,OK
+100% Organic Cold-Pressed Moroccan Argan Oil,The Ordinary,Moisturizers,7.5,356,4.17,0.5493,80.9,11.0,0.7929,OK
+Brighten-i Eye Cream,The INKEY List,Eye Care,12.99,1142,3.76,0.597,71.5,11.0,0.7376,OK
+Full Spectrum 360° Refreshing Water Mist Organic Face Sunscreen SPF 18,COOLA,Sunscreen,36.0,100,4.37,0.6599,87.0,11.0,0.8491,OK
+Therapeutic Sulfur Acne Treatment Mask,Peter Thomas Roth,Masks,52.0,1216,4.51,0.5922,24.7,11.0,0.5967,WATCH
+Hyaluronic Marine Oil-Free Moisture Cushion,Dr. Dennis Gross Skincare,Moisturizers,65.0,146,4.03,0.5887,65.8,11.0,0.7307,WATCH
+The Kissu Lip Mask,Tatcha,Lip Balms & Treatments,29.0,1232,3.77,0.5786,65.5,11.0,0.7112,OK
+C Beyond Triple Serum SPF 40 Mineral Sunscreen with Vitamin C 10% + Niacinamide,ILIA,Sunscreen,64.0,635,3.66,0.6602,67.6,10.9,0.7268,OK
+The Moisturizing Cool Gel Cream,La Mer,Moisturizers,200.0,137,3.68,0.6251,67.2,10.9,0.7204,OK
+Perfecting Day Cream Broad Spectrum SPF 30 PA+++,Murad,Moisturizers,65.0,174,4.17,0.6037,12.1,10.9,0.5272,WATCH
+Retinol Recovery Eye Cream,Dr. Zenovia Skincare,Eye Care,64.0,101,3.88,0.5929,74.3,10.9,0.7559,OK
+Cicapair Tiger Grass Serum,Dr. Jart+,Treatments,52.0,1077,4.27,0.6275,84.1,10.9,0.8255,OK
+Clarifying Lotion 3,CLINIQUE,Cleansers,20.0,915,4.32,0.5376,16.7,10.9,0.5437,HIGH RISK
+Niacinamide Oil Control Serum,The INKEY List,Treatments,9.99,985,4.2,0.5641,84.9,10.9,0.8132,OK
+Vinopure Natural Salicylic Acid Pore Minimizing Toner,Caudalie,Cleansers,30.0,459,4.03,0.5628,76.5,10.9,0.7689,WATCH
+Mini Virgin Marula LuxuryFace Oil,Drunk Elephant,Moisturizers,38.0,267,4.24,0.5837,82.4,10.9,0.8092,OK
+100% Organic Cold-Pressed Rose Hip Seed Oil,The Ordinary,Moisturizers,10.9,1619,4.4,0.5917,86.9,10.9,0.8386,OK
+Mini Glowscreen Sunscreen SPF 40 PA+++ with Hyaluronic Acid + Niacinamide,Supergoop!,Sunscreen,22.0,1455,3.97,0.6416,72.3,10.9,0.7621,OK
+Squalane + Omega Repair Deep Hydration Moisturizer,Biossance,Moisturizers,60.0,2093,4.21,0.6375,81.2,10.9,0.8119,OK
+Pure Argan Milk Intensive Hydrating Treatment,Josie Maran,Treatments,56.0,1088,4.07,0.5987,15.4,10.8,0.5333,WATCH
+AHA 30% + BHA 2% Exfoliating Peeling Solution,The Ordinary,Treatments,9.5,3225,4.57,0.5888,91.6,10.8,0.8677,OK
+Deep Relief Acne Treatment with Salicylic Acid,Murad,Treatments,45.0,517,4.71,0.6374,95.7,10.8,0.9013,OK
+Redness Solutions Soothing Cleanser,CLINIQUE,Cleansers,26.5,287,4.17,0.5867,16.0,10.8,0.5397,WATCH
+Lip Balm,Mario Badescu,Lip Balms & Treatments,8.0,167,4.25,0.5975,82.6,10.8,0.8133,OK
+Clean Foot Mask,SEPHORA COLLECTION,Masks,5.0,157,4.27,0.6004,83.4,10.8,0.8184,OK
+Sheet Masks,Dr. Jart+,Masks,7.0,429,4.23,0.5564,80.0,10.7,0.794,OK
+Cicapair  Tiger Grass Camo Drops Color Corrector SPF 35,Dr. Jart+,Treatments,48.0,475,4.14,0.6083,78.3,10.7,0.7909,WATCH
+Ultra Repair Cream Intense Hydration,First Aid Beauty,Moisturizers,38.0,7545,4.52,0.6046,24.1,10.7,0.5972,WATCH
+Take The Day Off  Cleansing Oil Makeup Remover,CLINIQUE,Moisturizers,34.5,552,4.33,0.5847,35.9,10.7,0.6289,WATCH
+Multi-Peptide + HA Serum,The Ordinary,Treatments,30.8,1607,4.14,0.568,79.3,10.7,0.788,WATCH
+Mandelic Acid Treatment,The INKEY List,Treatments,11.99,197,4.46,0.578,90.4,10.7,0.8536,OK
+Avocado Fine Line Eye Cream with Retinol,Glow Recipe,Eye Care,42.0,1886,4.1,0.6247,78.2,10.6,0.7909,WATCH
+Avocado Nourishing Hydration Mask,Kiehl's Since 1851,Masks,48.0,312,3.89,0.6616,74.4,10.6,0.7689,OK
+Facial Radiance Pads,First Aid Beauty,Treatments,36.0,2572,4.28,0.6119,38.9,10.6,0.6424,WATCH
+Goodbye Acne  Max Complexion Correction Pads,Peter Thomas Roth,Treatments,48.0,1529,4.42,0.5986,21.3,10.6,0.5785,WATCH
+Honeymoon Glow AHA Resurfacing Night Serum,Farmacy,Moisturizers,60.0,1926,4.31,0.6258,83.4,10.6,0.8253,OK
+Self Tan Express Bronzing Mousse,St. Tropez,Self Tanners,46.0,442,4.11,0.6487,62.0,10.6,0.7311,WATCH
+Eczema+ Care Kit,Skinfix,Value & Gift Sets,35.0,114,4.19,0.6667,84.2,10.5,0.8281,OK
+Raw Beauty Skin & Energy Green Superfood Powder,HUM Nutrition,Wellness,39.0,247,4.19,0.6642,22.7,10.5,0.5813,WATCH
+Emerald Hemp Seed Deep Moisture Glow Oil,Herbivore,Moisturizers,50.0,476,4.33,0.6246,82.6,10.5,0.8225,OK
+BEAR mini Facial Toning Device,FOREO,High Tech Tools,219.0,114,4.12,0.7434,84.2,10.5,0.8371,OK
+Daily Blemish Repairing Moisturizer,Peace Out,Moisturizers,28.0,221,4.26,0.6431,86.0,10.4,0.8353,OK
+Retinol Reform Treatment Serum,Shani Darden Skin Care,Treatments,88.0,1012,4.26,0.6378,83.0,10.4,0.8222,OK
+City Block Sheer Oil-Free Daily Face Protector Broad Spectrum SPF 25 Primer,CLINIQUE,Sunscreen,30.0,480,4.11,0.5754,5.0,10.4,0.4903,WATCH
+Moisture Surge Overnight Face Mask,CLINIQUE,Masks,40.0,461,4.48,0.5867,33.6,10.4,0.6295,WATCH
+Glow Peel Pads,SEPHORA COLLECTION,Treatments,15.0,450,3.99,0.5849,76.0,10.4,0.7684,OK
+Mini Retinol Reform,Shani Darden Skin Care,Mini Size,30.0,1012,4.26,0.6378,83.0,10.4,0.8222,OK
+SEA Pack Your Bags Undereye Patches,tarte,Eye Care,22.0,297,4.19,0.5919,51.9,10.4,0.6851,WATCH
+THE GRADUAL Illuminating Gradual Tan Lotion,TAN-LUXE,Self Tanners,34.0,173,4.1,0.6595,80.3,10.4,0.8054,OK
+Hydrating Eye Cream,Bobbi Brown,Eye Care,58.0,404,4.1,0.563,13.1,10.4,0.5197,WATCH
+Invisiblur Perfecting Shield Broad Spectrum SPF 30 PA+++,Murad,Treatments,71.0,772,3.96,0.618,28.2,10.4,0.5809,OK
+Sunvisor Radiant Moisturizing Face Sunscreen SPF 35,Saie,Sunscreen,38.0,183,4.1,0.6818,74.9,10.4,0.7877,WATCH
+Banana Bright 15% Vitamin C Serum,OLEHENRIKSEN,Treatments,71.0,1041,3.94,0.6808,73.8,10.4,0.773,OK
+Mini Blueberry Bounce Gentle Cleanser,Glow Recipe,Mini Size,10.0,316,3.7,0.6307,65.8,10.4,0.7174,OK
+All About Eyes Serum De-Puffing Eye Massage,CLINIQUE,Eye Care,37.0,905,3.77,0.5353,4.9,10.4,0.4612,OK
+Squalane + Probiotic Balancing Gel Moisturizer,Biossance,Moisturizers,54.0,711,4.09,0.6268,73.3,10.4,0.7708,WATCH
+Evercalm Ultra Comforting Rescue Mask,REN Clean Skincare,Masks,52.0,504,4.52,0.6087,74.2,10.3,0.7983,WATCH
+Rosehip Nourishing Night Oil,The INKEY List,Moisturizers,11.99,175,4.1,0.6279,82.3,10.3,0.808,OK
+Daily Dose Vitamin C + SPF 40 Sunscreen Serum PA+++,Supergoop!,Sunscreen,46.0,574,3.67,0.6796,63.8,10.3,0.716,OK
+Organic Sunless Tan Anti-Aging Face Serum,COOLA,Self Tanners,54.0,156,3.97,0.6254,55.8,10.3,0.6934,OK
+Mini Yo Glow AHA & BHA Facial Enzyme Scrub,Wishful,Mini Size,21.0,2212,4.24,0.6613,82.5,10.2,0.8237,OK
+Blueberry Bounce Gentle Cleanser,Glow Recipe,Cleansers,34.0,1065,3.81,0.6394,68.2,10.2,0.7352,OK
+Acne Solutions Cleansing Bar For Face and Body,CLINIQUE,Cleansers,19.5,459,4.36,0.5996,8.1,10.2,0.5224,WATCH
+Mini Rose & Hyaluronic Acid Deep Hydration Toner,fresh,Mini Size,26.0,333,4.12,0.6235,78.1,10.2,0.7914,WATCH
+Dermask Micro Jet Clearing Solution,Dr. Jart+,Masks,9.0,322,4.45,0.6059,55.9,10.2,0.7201,WATCH
+Virgin Marula Luxury Face Oil,Drunk Elephant,Moisturizers,68.0,1649,4.31,0.6086,64.5,10.2,0.7462,WATCH
+Yo Glow AHA & BHA Facial Enzyme Scrub,Wishful,Cleansers,39.0,2212,4.24,0.6613,82.5,10.2,0.8237,OK
+Polyhydroxy Acid (PHA) Gentle Exfoliating Toner,The INKEY List,Cleansers,12.99,443,4.26,0.6285,85.8,10.2,0.832,OK
+Mandelic Acid 10% + HA,The Ordinary,Treatments,7.5,433,4.46,0.5887,90.1,10.2,0.8547,OK
+Cicapair Tiger Grass Color Correcting Treatment SPF 30,Dr. Jart+,Moisturizers,52.0,5315,3.99,0.6336,66.7,10.2,0.7394,OK
+Granactive Retinoid* 2% Emulsion,The Ordinary,Treatments,11.7,706,4.45,0.5968,88.4,10.1,0.8485,OK
+Mini Cicapair Tiger Grass Color Correcting Treatment SPF 30,Dr. Jart+,Mini Size,21.0,5029,4.02,0.6367,67.0,10.1,0.743,WATCH
+Cool Biotic Prebiotic Redness Relief Cream,Dr. Brandt Skincare,Moisturizers,56.0,109,4.15,0.6725,72.5,10.1,0.7793,WATCH
+GLO Lit Teeth Whitening Vials 3 Pack,GLO Science,High Tech Tools,24.0,149,4.14,0.6267,82.6,10.1,0.8112,OK
+O-Bloos Rosi Glow Drops,Drunk Elephant,Treatments,38.0,159,3.69,0.6754,64.8,10.1,0.7202,OK
+Lotus Balancing & Hydrating Natural Face Treatment Oil,Clarins,Moisturizers,65.0,139,4.4,0.6687,25.2,10.1,0.6054,WATCH
+Emerald CBD + Adaptogens Deep Moisture Glow Oil,Herbivore,Moisturizers,60.0,552,4.37,0.6308,83.5,10.1,0.8299,OK
+Water Drench Hyaluronic Cloud Hydra-Gel Eye Patches,Peter Thomas Roth,Eye Care,55.0,290,4.06,0.6088,76.6,10.0,0.7791,WATCH
+Clarifying Lotion 2,CLINIQUE,Cleansers,20.0,1373,4.38,0.583,16.2,10.0,0.5533,WATCH
+Clarifying Lotion 1,CLINIQUE,Cleansers,20.0,200,4.52,0.5304,16.5,10.0,0.5535,HIGH RISK
+Mini The Water Cream,Tatcha,Mini Size,22.0,4159,4.02,0.6217,68.4,10.0,0.7462,WATCH
+Creamy Eye Treatment with Avocado,Kiehl's Since 1851,Eye Care,36.0,1665,4.0,0.5934,73.3,10.0,0.7594,WATCH
+Potent-C Vitamin C Power Serum,Peter Thomas Roth,Treatments,105.0,762,4.03,0.6344,75.1,10.0,0.7755,WATCH
+The Water Cream Oil-Free Pore Minimizing Moisturizer,Tatcha,Moisturizers,70.0,4159,4.02,0.6217,68.4,10.0,0.7462,WATCH
+Midnight Recovery Concentrate Moisturizing Face Oil,Kiehl's Since 1851,Treatments,56.0,1168,4.22,0.6073,77.7,10.0,0.793,WATCH
+Midnight Recovery Concentrate Moisturizing Face Oil,Kiehl's Since 1851,Mini Size,30.0,1168,4.22,0.6073,77.7,10.0,0.793,WATCH
+Regenerative Anti-Aging Moisturizer,Algenist,Moisturizers,94.0,221,4.27,0.5992,6.3,10.0,0.5097,WATCH
+Ultra Repair Hydra-Firm Night Cream,First Aid Beauty,Moisturizers,44.0,562,4.31,0.6228,34.3,10.0,0.6283,WATCH
+THE FACE Illuminating Self-Tan Drops,TAN-LUXE,Self Tanners,50.0,470,3.99,0.642,74.9,10.0,0.774,OK
+Luminous Dewy Skin Mist,Tatcha,Moisturizers,49.0,2032,3.95,0.6178,53.1,9.9,0.6797,OK
+Moon Fruit 1% Bakuchiol + Peptides Retinol Alternative Serum,Herbivore,Treatments,62.0,111,4.51,0.7181,90.1,9.9,0.8806,OK
+That Jlo Glow Brightening & Firming Serum with Niacinamide,JLo Beauty,Treatments,79.0,604,3.94,0.6935,72.0,9.9,0.7683,OK
+Oil Free Moisturizer,Kate Somerville,Moisturizers,76.0,705,4.15,0.6186,12.6,9.9,0.5306,WATCH
+Whipped Argan Oil Face Butter,Josie Maran,Moisturizers,45.0,1391,4.15,0.6179,58.2,9.8,0.7126,WATCH
+PoreDermabrasion Pore Perfecting Exfoliator,Dr. Brandt Skincare,Cleansers,59.0,316,4.24,0.6071,47.5,9.8,0.6738,WATCH
+"""Buffet"" + Copper Peptides 1%",The Ordinary,Treatments,30.9,255,4.18,0.5936,80.0,9.8,0.7976,OK
+Mini Sugar Strawberry Exfoliating Face Wash,fresh,Mini Size,15.0,183,3.89,0.62,71.6,9.8,0.7502,OK
+Alpha Beta Universal Daily Peel Pads,Dr. Dennis Gross Skincare,Treatments,92.0,1381,4.49,0.6305,42.3,9.8,0.6726,WATCH
+Turmeric BHA Pore & Brightening Treatment Mask,KORA Organics,Masks,52.0,491,4.16,0.6517,78.6,9.8,0.8011,WATCH
+Mini Turmeric BHA Pore & Brightening Treatment Mask,KORA Organics,Mini Size,18.0,491,4.16,0.6517,78.6,9.8,0.8011,WATCH
+Omega Water Cream Moisturizer,The INKEY List,Moisturizers,10.99,600,4.08,0.6234,77.8,9.8,0.788,WATCH
+Protini Powerpeptide Resurfacing Serum with Lactic Acid,Drunk Elephant,Treatments,82.0,713,4.36,0.6786,86.4,9.8,0.8495,OK
+Good Genes All-In-One AHA Lactic Acid Treatment,Sunday Riley,Treatments,122.0,5396,4.34,0.6613,61.4,9.8,0.7449,WATCH
+Rose & Hyaluronic Acid Deep Hydration Toner,fresh,Cleansers,46.0,1348,4.16,0.6218,68.9,9.8,0.7573,WATCH
+THE BODY Illuminating Self-Tan Drops,TAN-LUXE,Self Tanners,60.0,196,4.19,0.6635,81.1,9.7,0.8149,OK
+Mini GO OFF Makeup Dissolving Mist,ONE/SIZE by Patrick Starrr,Mini Size,18.0,257,4.17,0.6035,80.5,9.7,0.801,OK
+Squalane + Elderberry Nourishing Jelly Cleanser,Biossance,Cleansers,28.0,237,3.64,0.6495,62.4,9.7,0.7035,OK
+Vinoclean Cleansing Micellar Water,Caudalie,Cleansers,30.0,661,4.0,0.6259,28.3,9.7,0.5855,WATCH
+Metal Facial Razor,SEPHORA COLLECTION,High Tech Tools,18.0,238,4.47,0.6654,89.1,9.7,0.8649,OK
+Squalane Cleanser,The Ordinary,Cleansers,9.0,890,4.01,0.6058,75.5,9.7,0.7713,WATCH
+Cicapair Tiger Grass Cream,Dr. Jart+,Moisturizers,49.0,1366,4.32,0.6373,73.7,9.7,0.7891,WATCH
+Dermask Water Jet Vital Hydra Solution,Dr. Jart+,Masks,7.0,277,4.54,0.6013,62.1,9.7,0.7499,WATCH
+Unseen Sunscreen SPF 40 PA+++,Supergoop!,Sunscreen,48.0,3261,4.26,0.6309,81.1,9.7,0.8134,OK
+Gentle Buffing Cream,Caudalie,Cleansers,35.0,236,4.31,0.6291,17.4,9.7,0.5612,WATCH
+Mini Unseen Sunscreen SPF 40 PA+++,Supergoop!,Mini Size,22.0,3259,4.26,0.6307,81.1,9.7,0.8135,OK
+GENIUS Ultimate Anti-Aging Melting Cleanser,Algenist,Cleansers,38.0,334,4.06,0.6588,24.6,9.6,0.5795,WATCH
+Vinoclean Makeup Removing Cleansing Oil,Caudalie,Cleansers,30.0,438,4.31,0.6389,64.6,9.6,0.7523,WATCH
+Bamboo Charcoal Detoxifying Soap Bar,Herbivore,Cleansers,14.0,342,4.3,0.6027,68.1,9.6,0.7593,WATCH
+Secret Sauce Moisturizer,IT Cosmetics,Moisturizers,72.0,921,4.09,0.634,77.3,9.6,0.7883,WATCH
+R + R Mask,Summer Fridays,Masks,54.0,490,3.79,0.6602,67.8,9.6,0.736,OK
+Bye Bye Pores Leave-On Solution Pore-Refining Toner,IT Cosmetics,Cleansers,34.0,187,4.05,0.5932,75.4,9.6,0.7709,WATCH
+C.E.O Glow Vitamin C + Turmeric Face Oil,Sunday Riley,Moisturizers,80.0,841,4.08,0.6759,77.4,9.6,0.7953,WATCH
+Power Couple Advanced Retinol and Lactic Acid Duo,Sunday Riley,Value & Gift Sets,72.0,1494,4.3,0.6827,39.2,9.6,0.6574,WATCH
+Plush Puddin’ Intensive Recovery Lip Mask With Pomegranate Sterols + Vitamin E,Fenty Skin,Lip Balms & Treatments,22.0,384,4.12,0.6435,77.6,9.6,0.7928,WATCH
+Clean Face Mask,SEPHORA COLLECTION,Masks,5.5,386,4.14,0.6556,81.1,9.6,0.8102,OK
+Deep Cleanser with Red Clay,First Aid Beauty,Cleansers,24.0,1062,4.26,0.6302,25.0,9.6,0.5893,WATCH
+Lala Retro Whipped Refillable Moisturizer with Ceramides,Drunk Elephant,Moisturizers,62.0,1987,4.15,0.6403,80.3,9.6,0.8052,OK
+Lactic Acid 10% + HA 2% Exfoliating Serum,The Ordinary,Treatments,8.9,1289,4.5,0.5859,89.9,9.6,0.856,OK
+Hydro-Dynamic Ultimate Moisture,Murad,Moisturizers,83.0,446,4.36,0.6083,22.6,9.6,0.5818,WATCH
+Honey Butter Beeswax Lip Balm,Farmacy,Lip Balms & Treatments,12.0,834,4.25,0.5999,79.6,9.6,0.8016,WATCH
+Mini Barrier+ Triple Lipid-Peptide Face Cream,Skinfix,Moisturizers,20.0,2466,4.29,0.6667,81.8,9.5,0.8242,OK
+Mini Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil,Fenty Skin,Moisturizers,26.0,168,4.21,0.6237,82.1,9.5,0.8132,OK
+GO OFF Makeup Dissolving Mist,ONE/SIZE by Patrick Starrr,Cleansers,24.0,253,4.18,0.6117,80.6,9.5,0.8032,OK
+Squalane Oil,The INKEY List,Moisturizers,12.99,148,4.44,0.5954,94.6,9.5,0.8725,OK
+Hyaluronic Acid Cleanser,The INKEY List,Cleansers,10.99,220,4.16,0.624,82.7,9.5,0.8125,OK
+Eye Cream,Dr. Barbara Sturm,Eye Care,145.0,253,3.82,0.6306,72.3,9.5,0.7511,OK
+Barrier+ Triple Lipid-Peptide Face Cream,Skinfix,Moisturizers,54.0,2466,4.29,0.6667,81.8,9.5,0.8242,OK
+Instant Reset Brightening Overnight Recovery Gel-Cream With Niacinamide + Kalahari Melon Oil,Fenty Skin,Moisturizers,45.0,168,4.21,0.6237,82.1,9.5,0.8132,OK
+Super Glow Hyaluronic Self-Tan Serum,TAN-LUXE,Self Tanners,49.0,128,3.98,0.6584,71.1,9.4,0.7606,OK
+Water Bank Blue Hyaluronic Gel Moisturizer,LANEIGE,Moisturizers,40.0,191,4.14,0.7261,81.7,9.4,0.8251,OK
+Moisture Surge Hydrating Supercharged Concentrate,CLINIQUE,Moisturizers,44.0,244,4.02,0.5945,54.1,9.4,0.6845,WATCH
+100% L-Ascorbic Acid Powder,The Ordinary,Treatments,6.4,202,4.33,0.6228,85.1,9.4,0.8328,OK
+Argan Cleansing Oil,Josie Maran,Moisturizers,36.0,2022,4.05,0.6416,11.6,9.4,0.5245,WATCH
+GENIUS Ultimate Anti-Aging Cream,Algenist,Moisturizers,112.0,502,4.25,0.6533,24.9,9.4,0.5924,WATCH
+Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask,Shiseido,Eye Care,70.0,499,4.42,0.6182,34.3,9.4,0.6341,WATCH
+Self Tan Purity Bronzing Water Mousse,St. Tropez,Self Tanners,44.0,160,3.83,0.6779,70.6,9.4,0.7531,OK
+Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,BeautyBio,Eye Care,40.0,202,4.06,0.6517,78.7,9.4,0.7951,WATCH
+Maracuja C-Brighter Eye Treatment,tarte,Eye Care,39.0,901,4.01,0.611,28.1,9.4,0.5823,WATCH
+Turnaround Revitalizing Serum,CLINIQUE,Treatments,53.0,138,4.33,0.6212,7.2,9.4,0.5206,WATCH
+Gold Camellia Beauty Oil,Tatcha,Moisturizers,98.0,181,4.48,0.6762,61.3,9.4,0.7558,WATCH
+Mini Facial Treatment Essence (Pitera Essence),SK-II,Moisturizers,99.0,2946,4.08,0.6415,63.7,9.4,0.7346,WATCH
+Facial Treatment Essence (Pitera Essence),SK-II,Moisturizers,245.0,2948,4.08,0.6416,63.7,9.4,0.7348,WATCH
+All About Eyes Rich Eye Cream,CLINIQUE,Eye Care,37.0,1611,4.15,0.5838,14.1,9.4,0.5301,WATCH
+Ultra Repair Face Moisturizer,First Aid Beauty,Moisturizers,28.0,988,4.2,0.6027,41.1,9.3,0.6447,WATCH
+Liquid Sun Shield Daily Brightening Mineral Sunscreen SPF 50,Dr. Brandt Skincare,Sunscreen,67.0,193,4.26,0.6968,82.9,9.3,0.8322,OK
+Dark Spots Serum,Peace Out,Treatments,29.0,257,4.22,0.7036,84.4,9.3,0.837,OK
+Weightless Oil-Free Moisturizer,Shani Darden Skin Care,Moisturizers,48.0,140,4.26,0.6352,80.0,9.3,0.8097,OK
+"Great Skin, Great Deal Set for Dry Combination Skin",CLINIQUE,Value & Gift Sets,32.5,182,4.21,0.6305,37.9,9.3,0.6379,WATCH
+All About Clean Foaming Facial Soap,CLINIQUE,Cleansers,23.5,118,4.03,0.6505,28.8,9.3,0.5932,WATCH
+Goat Milk Moisturizing Cream,Kate Somerville,Moisturizers,76.0,623,4.04,0.6182,24.2,9.3,0.5704,WATCH
+Ultra Facial Toner,Kiehl's Since 1851,Cleansers,24.0,182,4.26,0.5983,82.4,9.3,0.8134,OK
+Zincscreen 100% Mineral Sunscreen Lotion SPF 40 PA+++,Supergoop!,Sunscreen,44.0,349,3.86,0.6502,68.8,9.2,0.7424,OK
+Pre-Show Glow Instant Retexturizing 10% AHA Treatment + Reusable Applicator,Fenty Skin,Treatments,42.0,184,4.43,0.6719,90.8,9.2,0.8703,OK
+Superfood Air-Whip Lightweight Moisturizer with Hyaluronic Acid,Youth To The People,Moisturizers,48.0,1670,4.05,0.6583,67.5,9.2,0.751,WATCH
+The Dewy Skin Cream Plumping & Hydrating Moisturizer,Tatcha,Moisturizers,70.0,3157,4.1,0.6367,75.9,9.2,0.784,WATCH
+Overnight Restorative Cream,Algenist,Moisturizers,94.0,239,4.38,0.6495,7.1,9.2,0.5284,WATCH
+All About Eyes Eye Cream,CLINIQUE,Eye Care,37.0,1635,4.07,0.5662,8.4,9.2,0.4996,WATCH
+Maracuja Oil,tarte,Moisturizers,48.0,2418,4.4,0.6368,21.8,9.1,0.5857,WATCH
+Daily Greens Oil-Free Gel Moisturizer with Moringa and Papaya,Farmacy,Moisturizers,42.0,1356,4.06,0.7069,74.1,9.1,0.7865,WATCH
+The Eye Concentrate Cream,La Mer,Eye Care,260.0,318,4.05,0.6575,77.4,9.1,0.7903,WATCH
+City Skin Age Defense Broad Spectrum SPF 50 PA++++,Murad,Sunscreen,69.0,350,4.32,0.6194,76.3,9.1,0.796,WATCH
+That Limitless Glow Sheet Mask,JLo Beauty,Masks,49.0,307,4.01,0.7024,76.5,9.1,0.7924,WATCH
+Rare Earth Deep Pore Daily Cleanser,Kiehl's Since 1851,Cleansers,28.0,186,4.3,0.6033,79.0,9.1,0.8027,WATCH
+"Vitamin B, C, and E Moisturizer",The INKEY List,Moisturizers,7.99,296,4.14,0.6177,79.4,9.1,0.7966,WATCH
+Vinoclean Gentle Foam Cleanser,Caudalie,Cleansers,30.0,154,4.18,0.6503,78.6,9.1,0.8016,WATCH
+"""B"" Oil",The Ordinary,Moisturizers,11.1,243,4.22,0.5954,81.9,9.1,0.8082,OK
+Vinosource-Hydra SOS Intense Hydration Moisturizer,Caudalie,Moisturizers,45.0,502,4.07,0.635,74.3,9.0,0.7752,WATCH
+RESIST Super-Light Daily Wrinkle Defense SPF 30,Paula's Choice,Sunscreen,37.0,133,4.26,0.6884,79.7,9.0,0.8177,WATCH
+CC Me Vitamin C + Niacinamide Serum,Summer Fridays,Treatments,68.0,896,4.09,0.6658,74.8,9.0,0.7837,WATCH
+Honey Grail Ultra-Hydrating Face Oil,Farmacy,Moisturizers,48.0,312,4.23,0.6646,79.5,9.0,0.8112,WATCH
+Baggage Claim Eye Masks,Wander Beauty,Eye Care,26.0,487,4.08,0.617,78.0,9.0,0.7877,WATCH
+Multivitamins 15% Vitamin C + Retinol Mini Set,Sunday Riley,Value & Gift Sets,28.0,156,3.84,0.6331,72.4,9.0,0.753,OK
+Glycol Lactic Radiance Renewal Mask,REN Clean Skincare,Masks,58.0,1283,4.4,0.6503,15.4,9.0,0.5632,WATCH
+Glow Sweet Glow - Skin Hydration Vegan Gummies with Hyaluronic Acid & Vitamin C + E,HUM Nutrition,Wellness,26.0,188,4.11,0.6782,80.3,9.0,0.8094,OK
+Mini AHA/BHA Exfoliating Cleanser,Murad,Mini Size,17.0,732,4.49,0.6246,29.5,9.0,0.6205,WATCH
+Sugar Advanced Lip Balm Intense Hydration Treatment,fresh,Lip Balms & Treatments,28.0,2954,4.28,0.6098,34.1,8.9,0.6233,WATCH
+Skin Warrior Moisture Rescue Cream,Naturally Serious,Moisturizers,35.0,168,4.19,0.7114,79.8,8.9,0.8179,WATCH
+Down to Tone Resurfacing Acid Toner,iNNBEAUTY PROJECT,Cleansers,28.0,123,4.33,0.6101,84.6,8.9,0.8283,OK
+THE BUTTER Illuminating Tanning Butter,TAN-LUXE,Self Tanners,38.0,180,4.34,0.7012,84.4,8.9,0.8442,OK
+Pekee Cleansing Bar,Drunk Elephant,Cleansers,28.0,449,4.46,0.6748,49.7,8.9,0.7082,WATCH
+Crème de la Mer Moisturizer,La Mer,Moisturizers,380.0,1378,4.06,0.6582,69.6,8.9,0.7596,WATCH
+Mini Crème de la Mer Moisturizer,La Mer,Mini Size,100.0,1378,4.06,0.6582,69.6,8.9,0.7596,WATCH
+Total Cleans'r Makeup-Removing Cleanser with Barbados Cherry,Fenty Skin,Cleansers,28.0,427,4.1,0.6545,77.3,8.9,0.7926,WATCH
+Evercalm Barrier Support Antioxidant Moisturizer,REN Clean Skincare,Moisturizers,52.0,1027,4.2,0.6483,48.4,8.9,0.6822,WATCH
+Repairwear Anti-Gravity Eye Cream,CLINIQUE,Eye Care,54.0,282,4.17,0.5523,11.3,8.9,0.5152,WATCH
+Retinol Fusion PM Night Serum,Peter Thomas Roth,Treatments,65.0,564,4.33,0.611,19.9,8.9,0.5693,WATCH
+Acne+ 2% BHA and Azelaic Acid Acne Spot Treatment,Skinfix,Treatments,30.0,427,4.63,0.6775,94.1,8.9,0.8972,OK
+Clarifying Lotion 4,CLINIQUE,Cleansers,20.0,224,4.4,0.5564,9.8,8.9,0.524,WATCH
+Immortelle Divine Cream,L'Occitane,Moisturizers,115.0,159,3.88,0.6208,23.9,8.8,0.5593,OK
+Hyaluronic Marine Hydration Booster,Dr. Dennis Gross Skincare,Treatments,72.0,136,4.25,0.6121,53.7,8.8,0.6999,WATCH
+Mini Vitamin Nectar Glow Juice Antioxidant Face Serum,fresh,Mini Size,28.0,137,3.97,0.6709,71.5,8.8,0.7642,OK
+AHA/BHA Exfoliating Cleanser,Murad,Cleansers,46.0,787,4.5,0.6319,30.5,8.8,0.6262,WATCH
+Barrier+ Triple Lipid-Boost 360° Brightening Eye Cream,Skinfix,Eye Care,44.0,931,4.31,0.6932,83.8,8.8,0.8386,OK
+Skin Hydrator Ceramide and Hyaluronic Acid Supplement,The Nue Co.,Wellness,45.0,159,4.21,0.5844,79.2,8.8,0.7951,WATCH
+Dr. Andrew Weil For Origins Mega-Bright SPF 30 Skin Tone Correcting Oil-Free Moisturizer,Origins,Moisturizers,63.0,207,4.1,0.6261,42.0,8.7,0.6462,WATCH
+Advanced Retinol + Ferulic Texture Renewal Serum,Dr. Dennis Gross Skincare,Treatments,76.0,286,4.46,0.6637,89.9,8.7,0.8669,OK
+DermalQuench Hyaluronic Acid Hydration Treatment,Kate Somerville,Treatments,110.0,600,4.18,0.6901,71.2,8.7,0.7791,WATCH
+Mini Phoenix Rosehip Anti-Aging Face Oil - For Dry Skin,Herbivore,Moisturizers,60.0,343,4.42,0.6866,65.0,8.7,0.7688,WATCH
+Phoenix Rosehip Anti-Aging Face Oil - For Dry Skin,Herbivore,Moisturizers,88.0,343,4.42,0.6866,65.0,8.7,0.7688,WATCH
+RESIST Youth-Extending Daily Hydrating Fluid SPF 50,Paula's Choice,Sunscreen,37.0,407,4.27,0.6519,82.6,8.6,0.8234,OK
+Gentle Daily Wash,Kate Somerville,Cleansers,44.0,220,4.19,0.6616,13.6,8.6,0.5448,WATCH
+Advanced Anti-Aging Repairing Oil,Algenist,Moisturizers,82.0,245,4.45,0.6515,11.4,8.6,0.5505,WATCH
+10% Glycolic Acne Control Peel Pads,Dr. Zenovia Skincare,Treatments,42.0,105,4.41,0.6769,90.5,8.6,0.8684,OK
+Capture Youth Serum Collection,Dior,Treatments,110.0,151,4.24,0.6349,82.1,8.6,0.817,OK
+Milk Marvel Dark Spot Serum with Niacinamide and Vitamin C,EADEM,Treatments,68.0,221,4.43,0.7048,86.4,8.6,0.8587,OK
+Blemish Balm Cleanser,Peace Out,Cleansers,22.0,245,4.56,0.709,91.4,8.6,0.8872,OK
+Vinopure Natural Salicylic Acid Pore Minimizing Serum,Caudalie,Treatments,52.0,1357,4.34,0.6583,85.4,8.6,0.8406,OK
+Vinosource-Hydra Grape Water Gel Moisturizer,Caudalie,Moisturizers,45.0,185,4.24,0.7098,79.5,8.6,0.8198,WATCH
+Black Tea Corset Cream Firming Moisturizer,fresh,Moisturizers,95.0,152,4.03,0.6413,48.7,8.6,0.6711,WATCH
+B-Hydra Intensive Hydration Serum with Hyaluronic Acid,Drunk Elephant,Treatments,49.0,2558,4.19,0.6317,67.4,8.6,0.7543,WATCH
+Natural Moisturizing Factors + HA,The Ordinary,Treatments,6.5,2052,4.15,0.6058,79.3,8.6,0.795,WATCH
+Matrixyl* 10% + HA,The Ordinary,Treatments,10.5,236,4.33,0.6355,86.4,8.5,0.8399,OK
+(Re)setting 100% Mineral Powder Sunscreen SPF 35 PA+++,Supergoop!,Sunscreen,35.0,377,4.04,0.6897,78.2,8.5,0.7985,WATCH
+C-Firma Fresh Vitamin-C Day Serum,Drunk Elephant,Treatments,78.0,1605,4.16,0.7135,80.2,8.5,0.818,OK
+C.E.O. Vitamin C Brightening Rich Hydration Moisturizer,Sunday Riley,Moisturizers,22.0,1101,3.99,0.6772,55.1,8.5,0.701,OK
+Glowscreen Sunscreen SPF 40 PA+++ with Hyaluronic Acid + Niacinamide,Supergoop!,Sunscreen,38.0,2065,4.15,0.6935,78.0,8.5,0.8054,WATCH
+Hello FAB Coconut Water Cream,First Aid Beauty,Moisturizers,36.0,1070,4.0,0.6366,75.1,8.5,0.7744,WATCH
+Hydrating Face Cream Moisturizer,Bobbi Brown,Moisturizers,66.0,223,4.23,0.6183,24.2,8.5,0.5821,WATCH
+Mini Superberry Hydrate + Glow Dream Mask,Youth To The People,Mini Size,18.0,2353,4.32,0.6607,82.4,8.5,0.828,OK
+Retinol Anti-Aging Serum,The INKEY List,Treatments,12.99,1139,4.38,0.6437,87.4,8.5,0.8484,OK
+Superberry Hydrate + Glow Dream Night Mask with Vitamin C,Youth To The People,Masks,52.0,2353,4.32,0.6607,82.4,8.5,0.828,OK
+Tonique Radiance Clarifying Refining Toner,Lancôme,Cleansers,31.0,164,4.1,0.6069,9.8,8.5,0.5138,WATCH
+C.E.O. 15% Vitamin C Brightening Serum,Sunday Riley,Treatments,85.0,1796,4.11,0.6941,77.8,8.4,0.8019,WATCH
+Superfood Antioxidant Cleanser,Youth To The People,Cleansers,39.0,5852,4.21,0.6745,77.5,8.4,0.8037,WATCH
+Kaolin Mask,The INKEY List,Masks,7.49,227,4.31,0.6543,85.0,8.4,0.8364,OK
+Mini Superfood Antioxidant Cleanser,Youth To The People,Mini Size,14.0,5842,4.21,0.6745,77.5,8.4,0.8039,WATCH
+ExfoliKate Intensive Pore Exfoliating Treatment,Kate Somerville,Cleansers,98.0,2990,4.44,0.6566,26.3,8.4,0.6098,WATCH
+Cucumber Gel Mask Extreme Detoxifying Hydrator,Peter Thomas Roth,Masks,55.0,534,4.19,0.6445,32.6,8.4,0.6177,WATCH
+Facial Treatment Clear Lotion Toner,SK-II,Cleansers,80.0,1000,4.1,0.6664,68.9,8.4,0.7608,WATCH
+Lotus Youth Preserve Rescue Mask,fresh,Masks,69.0,489,4.35,0.6663,86.3,8.4,0.8463,OK
+ICE Ceramide Moisturizer with Vitamin F,Sunday Riley,Moisturizers,65.0,1178,4.08,0.6801,80.3,8.4,0.808,OK
+Blue Algae Vitamin C Dark Spot Correcting Peel,Algenist,Treatments,85.0,108,4.21,0.7072,82.4,8.3,0.8292,OK
+Vinoperfect Radiance Dark Spot Serum Vitamin C Alternative,Caudalie,Treatments,82.0,2912,4.25,0.6584,48.2,8.3,0.6858,WATCH
+Goodbye Acne   Complete Acne Treatment Gel,Peter Thomas Roth,Treatments,44.0,459,4.27,0.6452,90.8,8.3,0.8557,OK
+Baby Pekee Bar + Juju Bar Travel Duo,Drunk Elephant,Value & Gift Sets,16.0,599,4.34,0.6909,60.1,8.3,0.745,WATCH
+100% Plant-Derived Squalane,The Ordinary,Treatments,10.0,654,4.54,0.6281,89.3,8.3,0.8632,OK
+Ultra Repair Oil-Control Moisturizer,First Aid Beauty,Moisturizers,36.0,289,4.24,0.6316,82.0,8.3,0.816,OK
+Vitamin C Glycolic Brightening Serum,Murad,Treatments,88.0,351,4.26,0.6766,86.0,8.3,0.8415,OK
+F-Balm Electrolyte Waterfacial Mask,Drunk Elephant,Masks,54.0,1105,4.17,0.6546,80.0,8.3,0.8075,OK
+Redness Recovery+ Antioxidant Redness Treatment Overnight Mask,Skinfix,Masks,52.0,242,4.16,0.6663,80.6,8.3,0.8115,OK
+POWER Recharging Night Pressed Serum,Algenist,Treatments,95.0,205,4.39,0.6798,65.4,8.3,0.767,WATCH
+Mini Vitamin C Glycolic Brightening Serum,Murad,Mini Size,30.0,351,4.26,0.6766,86.0,8.3,0.8415,OK
+Clean Eye Mask,SEPHORA COLLECTION,Masks,3.5,373,4.17,0.6502,83.1,8.3,0.8194,OK
+Clean Bee Ultra Gentle Facial Cleanser,Farmacy,Cleansers,28.0,878,4.03,0.682,73.3,8.3,0.777,WATCH
+Super Amino Gel Cleanser,Summer Fridays,Cleansers,35.0,313,4.09,0.6953,75.4,8.3,0.7912,WATCH
+Salicylic Acid Acne + Pore Cleanser,The INKEY List,Cleansers,11.99,1552,4.38,0.6379,88.5,8.3,0.852,OK
+C15 Vitamin C Super Booster,Paula's Choice,Treatments,55.0,435,4.21,0.7131,80.9,8.3,0.8242,OK
+Micro Essence Treatment Lotion with Bio-Ferment,Estée Lauder,Moisturizers,130.0,216,4.06,0.66,77.8,8.3,0.7926,WATCH
+GLO Lit Teeth Whitening Vials 7 Pack + Lip Care,GLO Science,High Tech Tools,49.0,120,4.39,0.7391,88.3,8.3,0.8697,OK
+Adaptogen Soothe + Hydrate Activated Mist with Peptides,Youth To The People,Moisturizers,42.0,396,4.18,0.6783,79.3,8.3,0.8099,WATCH
+Prism AHA + BHA Exfoliating Glow Serum,Herbivore,Treatments,54.0,171,3.95,0.621,72.5,8.2,0.7583,OK
+Overnight Glow Dark Spot Sleeping Cream,REN Clean Skincare,Moisturizers,55.0,476,4.14,0.6727,81.5,8.2,0.8151,OK
+Resurfacing AHA + BHA Serum,Tata Harper,Treatments,92.0,319,4.25,0.7238,79.6,8.2,0.8235,WATCH
+Max Mineral Tinted Sunscreen Broad Spectrum SPF 45,Peter Thomas Roth,Sunscreen,38.0,171,4.22,0.6291,78.9,8.2,0.8023,WATCH
+Auto Correct Brightening + Depuffing Eye Cream for Dark Circles,Sunday Riley,Eye Care,65.0,1691,4.03,0.6611,77.4,8.2,0.7893,WATCH
+Clean Smart Facial Cleansing Device,PMD,High Tech Tools,99.0,171,3.98,0.7343,71.3,8.2,0.7753,OK
+Pro Facial Steamer,Dr. Dennis Gross Skincare,High Tech Tools,159.0,134,4.15,0.6267,63.4,8.2,0.7352,WATCH
+Glow2OH Dark Spot Toner,OLEHENRIKSEN,Cleansers,35.0,2953,4.19,0.6661,83.6,8.2,0.8254,OK
+Mini C.E.O. Vitamin C Brightening Rich Hydration Moisturizer,Sunday Riley,Moisturizers,65.0,977,4.01,0.6799,55.0,8.2,0.7022,WATCH
+Pure Skin Face Cleanser,First Aid Beauty,Cleansers,24.0,4728,4.37,0.6534,35.4,8.1,0.6419,WATCH
+Cicapair Redness Rescue Kit,Dr. Jart+,Value & Gift Sets,39.0,148,4.28,0.7241,87.8,8.1,0.8579,OK
+Balancing Force Oil Control Toner,OLEHENRIKSEN,Cleansers,35.0,1670,4.3,0.6622,52.4,8.1,0.707,WATCH
+Watermelon Pink Juice Oil-Free Moisturizer,Glow Recipe,Moisturizers,39.0,1926,3.99,0.6767,73.7,8.1,0.7753,OK
+Water Bank Blue Hyaluronic Cream Moisturizer,LANEIGE,Moisturizers,40.0,700,3.99,0.7036,73.4,8.1,0.7788,OK
+Evercalm Gentle Cleansing Milk,REN Clean Skincare,Cleansers,38.0,160,4.33,0.7343,88.8,8.1,0.8663,OK
+"Personalized Cleanser, SPF Day Moisturizer, Night Cream Set",PROVEN Skincare,Value & Gift Sets,169.99,209,4.34,0.7586,83.3,8.1,0.8495,OK
+4.5% Retinol Serum,SOBEL SKIN Rx,Treatments,105.0,148,4.45,0.685,89.9,8.1,0.8697,OK
+Brightening Dark Circle Eye Cream,REN Clean Skincare,Eye Care,51.0,370,4.3,0.6889,87.0,8.1,0.8501,OK
+CLINICAL Discoloration Repair Serum,Paula's Choice,Treatments,52.0,138,4.65,0.7036,94.2,8.0,0.9032,OK
+Resveratrol Lift Firming Eye Gel-Cream,Caudalie,Eye Care,62.0,174,4.33,0.6722,83.3,8.0,0.8343,OK
+Retinol Eye Stick,Peace Out,Eye Care,28.0,1331,4.21,0.6864,80.2,8.0,0.8165,OK
+Line-Filling Eye Cream with Bakuchiol and Caffeine,alpyn beauty,Eye Care,62.0,262,4.32,0.7505,81.7,8.0,0.8406,OK
+Violet-C Radiance Mask,Tatcha,Masks,70.0,651,4.05,0.6776,61.8,8.0,0.7313,WATCH
+Daily Reviving Concentrate,Kiehl's Since 1851,Treatments,59.0,138,4.4,0.6564,83.3,8.0,0.8356,OK
+100% Sugarcane Squalane Oil,Biossance,Moisturizers,34.0,477,4.53,0.6485,74.8,8.0,0.8088,WATCH
+Rapid Collagen Infusion,Murad,Treatments,89.0,125,4.13,0.5631,22.4,8.0,0.5586,WATCH
+Evercalm Overnight Recovery Balm,REN Clean Skincare,Moisturizers,55.0,624,4.49,0.6587,90.1,8.0,0.8685,OK
+CLINICAL 1% Retinol Treatment,Paula's Choice,Treatments,62.0,264,4.55,0.6748,90.2,8.0,0.8758,OK
+Glycolic Acid Exfoliating Toner,The INKEY List,Cleansers,12.99,291,4.39,0.6509,88.3,7.9,0.8542,OK
+Overtime Mask,Summer Fridays,Masks,49.0,529,4.41,0.7046,86.4,7.9,0.8572,OK
+Water Drench Hyaluronic Acid Moisturizer,Peter Thomas Roth,Moisturizers,54.0,1829,4.26,0.642,61.4,7.9,0.7367,WATCH
+Perfect Canvas Clean Jelly Oil Cleanser,REN Clean Skincare,Cleansers,37.0,266,4.03,0.6978,74.8,7.9,0.7855,WATCH
+Vinopure Oil-Control Moisturizer for Acne Prone Skin,Caudalie,Moisturizers,38.0,139,4.39,0.6681,84.2,7.9,0.8404,OK
+Clarifying Toner,Murad,Cleansers,30.0,888,4.32,0.6128,14.0,7.9,0.5456,WATCH
+Mini Rare Earth Deep Pore Minimizing Cleansing Clay Mask,Kiehl's Since 1851,Mini Size,25.0,521,4.55,0.6422,86.6,7.9,0.8553,OK
+Guava Vitamin C Dark Spot Treatment Serum,Glow Recipe,Treatments,45.0,750,4.26,0.71,81.5,7.9,0.8289,OK
+Rare Earth Deep Pore Minimizing Cleansing Clay Mask,Kiehl's Since 1851,Masks,45.0,521,4.55,0.6422,86.6,7.9,0.8553,OK
+Hydra Vizor Invisible Moisturizer Broad Spectrum SPF 30 Sunscreen with Niacinamide + Kalahari Melon,Fenty Skin,Moisturizers,39.0,785,4.01,0.6762,75.7,7.9,0.7843,WATCH
+Age Adapting CBD Serum,Flora + Bast,Treatments,77.0,177,4.62,0.6983,88.1,7.9,0.8757,OK
+Mini Anti-Aging Cleansing Gel,Peter Thomas Roth,Mini Size,12.0,1602,4.37,0.6611,16.9,7.9,0.5687,WATCH
+Hydrating Toner,Murad,Cleansers,42.0,317,4.29,0.6365,13.9,7.9,0.5477,WATCH
+Daily UV Defense Invisible Broad Spectrum SPF 36 Sunscreen,innisfree,Sunscreen,16.0,1464,4.54,0.6773,89.8,7.9,0.8736,OK
+Anti-Aging Cleansing Gel,Peter Thomas Roth,Cleansers,39.0,1602,4.37,0.6611,16.9,7.9,0.5687,WATCH
+Juno Antioxidant + Superfood Face Oil,Sunday Riley,Moisturizers,72.0,585,4.33,0.6795,56.1,7.9,0.7263,WATCH
+Squalane + 10% Lactic Acid Resurfacing Serum,Biossance,Treatments,65.0,966,4.4,0.6855,86.4,7.9,0.853,OK
+Squalane + Marine Algae Firming & Lifting Eye Cream,Biossance,Eye Care,56.0,1009,4.14,0.6702,79.5,7.9,0.8064,WATCH
+Pink Cloud Rosewater + Squalane Makeup Removing Face Wash,Herbivore,Cleansers,26.0,631,4.35,0.7218,84.2,7.8,0.8475,OK
+Facial Cotton,Shiseido,Cleansers,13.0,2820,4.83,0.5888,49.7,7.8,0.716,WATCH
+Puffy Under-Eye Patches,Peace Out,Eye Care,25.0,179,4.27,0.6902,84.9,7.8,0.8397,OK
+Pycnogenol 5%,The Ordinary,Treatments,11.1,206,4.52,0.6776,89.8,7.8,0.8731,OK
+pores no more Mattifying Hydrator Pore Minimizing Gel,Dr. Brandt Skincare,Treatments,50.0,103,4.2,0.6676,80.6,7.8,0.8144,OK
+Alpha Arbutin Brightening Serum,The INKEY List,Treatments,12.99,116,4.22,0.6112,85.3,7.8,0.8248,OK
+Salicylic Acid Acne Day Dots,Peace Out,Treatments,19.0,400,4.37,0.6863,88.8,7.8,0.8607,OK
+Calm Water Gel Moisturizer,Dermalogica,Moisturizers,55.0,219,4.36,0.7098,87.7,7.8,0.8597,OK
+Retinol Resurfacing Night Moisturizer,Community Sixty-Six,Moisturizers,35.0,243,4.07,0.6276,81.1,7.8,0.8007,OK
+Cleansing & Exfoliating Wipes,SEPHORA COLLECTION,Cleansers,3.0,3798,4.34,0.6507,67.8,7.8,0.7687,WATCH
+Essential-C Toner,Murad,Cleansers,42.0,272,4.31,0.6203,20.2,7.7,0.5712,WATCH
+Acid Potion AHA + BHA Resurfacing Exfoliator,Moon Juice,Treatments,42.0,404,4.55,0.7014,89.1,7.7,0.8759,OK
+CLINICAL Niacinamide 20% Treatment,Paula's Choice,Treatments,52.0,220,4.53,0.7117,88.6,7.7,0.8748,OK
+Collagen POP + Vitamin C Dissolvable Tablets,HUM Nutrition,Wellness,12.0,220,4.35,0.7774,88.2,7.7,0.8729,OK
+7 Day Face Scrub Cream Rinse-Off Formula,CLINIQUE,Cleansers,26.0,810,4.53,0.613,8.8,7.7,0.5381,WATCH
+The Rich Cream with TFC8 Face Moisturizer,Augustinus Bader,Moisturizers,290.0,493,4.23,0.7426,82.2,7.7,0.8355,OK
+Hyaluronic Marine Makeup Removing Meltaway Cleanser,Dr. Dennis Gross Skincare,Cleansers,32.0,595,4.46,0.702,89.1,7.7,0.8701,OK
+Exfoliating Face Scrub,CLINIQUE,Cleansers,26.0,1192,4.61,0.6569,17.4,7.7,0.5854,WATCH
+Lip Sleeping Mask Intense Hydration with Vitamin C,LANEIGE,Lip Balms & Treatments,24.0,16084,4.35,0.6447,81.7,7.6,0.8239,OK
+The Cleansing Foam,La Mer,Cleansers,95.0,119,4.0,0.6227,65.5,7.6,0.7337,WATCH
+Pitera Facial Treatment Mask,SK-II,Masks,145.0,435,4.3,0.6748,36.1,7.6,0.6436,WATCH
+Yerba Mate Resurfacing + Exfoliating Energy Facial with Enzymes + Niacinamide,Youth To The People,Cleansers,59.0,622,4.47,0.7125,88.9,7.6,0.8724,OK
+Ceramic Slip French Green Clay Cleanser,Sunday Riley,Cleansers,35.0,950,3.85,0.7102,73.7,7.6,0.7718,OK
+Mini Gentle Cleansing Oil Makeup Remover,Sulwhasoo,Mini Size,13.0,406,4.45,0.7205,87.7,7.6,0.8676,OK
+Pout Preserve Peptide Lip Treatment,OLEHENRIKSEN,Lip Balms & Treatments,22.0,118,4.6,0.6057,90.7,7.6,0.8688,OK
+Brumisateur Natural Mineral Water Facial Spray,Evian,Moisturizers,14.0,384,4.39,0.6353,27.1,7.6,0.6066,WATCH
+Checks and Balances Frothy Face Wash,Origins,Cleansers,27.0,3284,4.29,0.6812,38.1,7.6,0.6521,WATCH
+DeliKate Soothing Cleanser,Kate Somerville,Cleansers,44.0,144,4.19,0.7176,82.6,7.6,0.8303,OK
+Restorative Plumping + Brightening Eye Cream,Tata Harper,Eye Care,130.0,210,4.1,0.717,63.8,7.6,0.7492,WATCH
+CC+ Cream Oil-Free Matte with SPF 40,IT Cosmetics,Moisturizers,44.0,1419,3.84,0.7,72.7,7.6,0.766,OK
+Gentle Cleansing Oil Makeup Remover,Sulwhasoo,Cleansers,40.0,406,4.45,0.7205,87.7,7.6,0.8676,OK
+Vitamin C Lactic Firm & Bright Eye Treatment,Dr. Dennis Gross Skincare,Eye Care,68.0,185,4.75,0.7518,96.2,7.6,0.9255,OK
+"Great Skin, Great Deal Set for Combination Oily Skin",CLINIQUE,Value & Gift Sets,32.5,268,4.33,0.6576,39.2,7.5,0.655,WATCH
+Plump Jelly Hyaluronic Serum,Moon Juice,Treatments,58.0,214,4.26,0.7199,79.9,7.5,0.8242,WATCH
+Bright Repair Eye Cream – 10% Vitamin C,Saint Jane Beauty,Eye Care,65.0,174,4.28,0.6909,80.5,7.5,0.8225,OK
+GLO Brilliant Teeth Whitening GLO Vials 10 Pack plus Lip Care,GLO Science,High Tech Tools,65.0,133,4.42,0.6871,75.9,7.5,0.8128,WATCH
+100 percent Pure Argan Oil,Josie Maran,Moisturizers,49.0,7761,4.5,0.6477,10.9,7.5,0.5508,WATCH
+Isle Lip Balm SPF 30 with Sea Moss and Aloe Stem Cells,CAY SKIN,Lip Balms & Treatments,14.0,228,4.07,0.6788,76.3,7.5,0.7912,WATCH
+Barrier+ Skin Barrier Niacinamide Restoring Gel Cream,Skinfix,Moisturizers,48.0,771,4.52,0.7469,88.3,7.5,0.8791,OK
+Drink Up Intensive Overnight Hydrating Mask with Avocado & Swiss Glacier Water,Origins,Masks,32.0,1644,4.5,0.6702,42.4,7.4,0.6804,WATCH
+10% Benzoyl Peroxide Acne Cleanser,Dr. Zenovia Skincare,Cleansers,30.0,434,4.49,0.6811,92.6,7.4,0.883,OK
+Clear Complexion Acne Solutions System,Dr. Zenovia Skincare,Value & Gift Sets,35.0,297,4.51,0.7157,92.3,7.4,0.8886,OK
+Mini Take The Day Off Cleansing Balm Makeup Remover,CLINIQUE,Mini Size,14.0,4370,4.53,0.6438,49.6,7.3,0.7066,WATCH
+Take The Day Off Cleansing Balm Makeup Remover,CLINIQUE,Cleansers,38.0,4370,4.53,0.6438,49.6,7.3,0.7066,WATCH
+Mini Deep Sweep 2% BHA Pore Cleaning Toner with Moringa + Papaya,Farmacy,Cleansers,16.0,821,4.48,0.6833,87.1,7.3,0.8606,OK
+After-Dark Natural Peptide Sleeping Cream,Naturally Serious,Moisturizers,37.0,177,4.44,0.7183,86.4,7.3,0.8615,OK
+Dramatically Different Hydrating Jelly,CLINIQUE,Moisturizers,45.0,716,3.87,0.6759,73.2,7.3,0.7657,OK
+Black Tea Firming Overnight Mask,fresh,Masks,96.0,482,4.14,0.6576,37.6,7.3,0.6363,WATCH
+Rinse-Off Foaming Cleanser,CLINIQUE,Cleansers,23.5,821,4.49,0.6345,12.3,7.3,0.5536,WATCH
+Prism AHA + BHA Exfoliating Glow Facial,Herbivore,Treatments,58.0,302,4.26,0.6954,81.8,7.3,0.8277,OK
+Mini Water Drench  Hyaluronic Hydrating Moisturizer SPF 45,Peter Thomas Roth,Mini Size,23.0,795,4.31,0.6851,85.9,7.3,0.8455,OK
+Avocado Ceramide Moisture Barrier Cleanser,Glow Recipe,Cleansers,28.0,630,4.43,0.7192,88.7,7.3,0.8699,OK
+Deep Sweep 2% BHA Pore Cleaning Toner with Moringa + Papaya,Farmacy,Cleansers,32.0,821,4.48,0.6833,87.1,7.3,0.8606,OK
+Banana Bright+ Vitamin C Eye Crème,OLEHENRIKSEN,Eye Care,42.0,579,4.19,0.7365,84.5,7.3,0.8411,OK
+"Mini Facial Spray with Aloe, Herbs and Rosewater",Mario Badescu,Mini Size,5.0,123,4.1,0.6062,78.0,7.3,0.7869,WATCH
+Every. Single. Face. Watery Lotion SPF 50,Supergoop!,Sunscreen,34.0,356,4.28,0.7424,81.2,7.3,0.8343,OK
+Water Drench Hyaluronic Hydrating Moisturizer SPF 45,Peter Thomas Roth,Moisturizers,55.0,844,4.28,0.6818,84.8,7.3,0.8388,OK
+All About Clean Liquid Facial Soap,CLINIQUE,Cleansers,23.5,2204,4.37,0.6205,14.7,7.2,0.5531,WATCH
+Gentle Foaming Face Wash,Skin Laundry,Cleansers,20.0,194,4.25,0.6549,42.8,7.2,0.664,WATCH
+Rose Floral Toner,fresh,Cleansers,15.0,936,4.11,0.6523,31.8,7.2,0.6106,WATCH
+Ceramidin Skin Barrier Moisturizing Cream,Dr. Jart+,Moisturizers,48.0,433,4.53,0.6867,91.7,7.2,0.8825,OK
+Alpha Beta Extra Strength Daily Peel Pads,Dr. Dennis Gross Skincare,Treatments,92.0,7327,4.54,0.6596,73.8,7.2,0.8069,WATCH
+Wild Rose Brightening Absolute Oil,KORRES,Moisturizers,54.0,622,4.36,0.7065,36.2,7.2,0.653,WATCH
+Irish Moor Mud Purifying Black Mask,Peter Thomas Roth,Masks,60.0,538,4.37,0.6787,19.1,7.2,0.5811,WATCH
+Q10 Antioxidant Serum,The INKEY List,Treatments,9.99,607,4.31,0.6572,88.1,7.2,0.8493,OK
+Self-Tanning Oil Mist,Isle of Paradise,Self Tanners,32.0,320,4.39,0.7706,86.9,7.2,0.8695,OK
+Shave Starter Set,Hanni,Value & Gift Sets,68.0,181,4.55,0.787,90.1,7.2,0.895,OK
+Prebiotic + Probiotic Vegan Gut Microbiome Supplement,The Nue Co.,Wellness,55.0,167,4.45,0.6726,89.8,7.2,0.8676,OK
+Adaptogen Deep Moisturizing Cream with Ashwagandha + Reishi,Youth To The People,Moisturizers,58.0,2072,4.36,0.6811,83.3,7.1,0.8374,OK
+Superberry Hydrate + Glow Dream Oil,Youth To The People,Moisturizers,48.0,1062,4.51,0.6996,88.5,7.1,0.8708,OK
+Mini Purifying Pore Detox Cleanser,Tata Harper,Mini Size,46.0,170,4.21,0.7413,49.4,7.1,0.7027,WATCH
+Mini Adaptogen Deep Moisture Cream with Ashwagandha + Reishi,Youth To The People,Mini Size,18.0,2072,4.36,0.6811,83.3,7.1,0.8374,OK
+Confidence in a Cleanser Hydrating Facial Cleanser Serum,IT Cosmetics,Cleansers,29.0,409,4.47,0.6618,84.6,7.1,0.846,OK
+Midnight Recovery Botanical Cleansing Oil,Kiehl's Since 1851,Cleansers,35.0,226,4.29,0.6901,78.8,7.1,0.8163,WATCH
+Rosebud Salve in a Tube,Rosebud Perfume Co.,Lip Balms & Treatments,7.0,2398,4.38,0.6332,18.6,7.1,0.5713,WATCH
+Hydrating Serum with Hyaluronic Acid,First Aid Beauty,Treatments,40.0,112,4.54,0.738,92.0,7.1,0.8935,OK
+Hydrating Oil-Free Gel Moisturizer,Community Sixty-Six,Moisturizers,25.0,241,4.12,0.6913,81.7,7.1,0.8182,OK
+Clear Improvement Active Charcoal Mask to Clear Pores,Origins,Masks,17.0,4525,4.33,0.667,29.5,7.1,0.6178,WATCH
+Purifying Pore Detox Cleanser,Tata Harper,Cleansers,88.0,170,4.21,0.7413,49.4,7.1,0.7027,WATCH
+Noni Bright 12% Vitamin C Serum,KORA Organics,Treatments,73.0,387,4.22,0.7582,83.5,7.0,0.8431,OK
+GOOPGENES All-In-One Nourishing Eye Cream,goop,Eye Care,55.0,627,4.2,0.7035,83.4,7.0,0.8319,OK
+Every Sun Day Mineral Sunscreen SPF 50+,Dr. Jart+,Sunscreen,40.0,484,4.43,0.7338,88.2,7.0,0.8707,OK
+KOSHIRICE Acne Calming Spot Treatment,WASO,Treatments,25.0,443,4.22,0.654,85.3,7.0,0.8321,OK
+SEA Mermaid Skin Hyaluronic H2O Serum,tarte,Treatments,15.0,298,4.11,0.6351,77.5,7.0,0.7906,WATCH
+Platinum Lip Plump SPF 30,Dr. Lara Devgan Scientific Beauty,Lip Balms & Treatments,50.0,514,4.57,0.6762,88.9,7.0,0.8721,OK
+Fulvic Acid Brightening Cleanser,The INKEY List,Cleansers,11.99,347,4.42,0.7123,88.8,6.9,0.8683,OK
+Dramatically Different Moisturizing Gel,CLINIQUE,Moisturizers,32.5,3974,4.44,0.6351,20.6,6.9,0.5834,WATCH
+Mini Fulvic Acid Brightening Cleanser,The INKEY List,Cleansers,5.99,347,4.42,0.7123,88.8,6.9,0.8683,OK
+Sweet Biome Fermented Sake Hydrating Spray,Drunk Elephant,Moisturizers,42.0,677,3.88,0.7065,75.5,6.9,0.7808,OK
+The Silk Cream,Tatcha,Moisturizers,125.0,260,4.19,0.6872,70.8,6.9,0.7776,WATCH
+Hydrating Caffeine Eye Cream,Community Sixty-Six,Eye Care,18.0,116,4.14,0.6001,80.2,6.9,0.7968,OK
+SEA Deep Dive Cleansing Gel,tarte,Cleansers,12.0,1157,4.31,0.6893,49.8,6.9,0.7016,WATCH
+Advanced Retinol + Ferulic Overnight Wrinkle Treatment,Dr. Dennis Gross Skincare,Treatments,87.0,247,4.73,0.7083,96.8,6.9,0.9191,OK
+The Silk Peony Melting Eye Cream,Tatcha,Eye Care,62.0,1544,4.15,0.7237,80.2,6.8,0.8196,OK
+Baby Bar Travel Duo with Case,Drunk Elephant,Value & Gift Sets,22.0,133,4.39,0.7467,88.0,6.8,0.8695,OK
+GenOptics Aura Essence Serum,SK-II,Moisturizers,245.0,132,4.08,0.7316,19.7,6.8,0.5741,WATCH
+Vitamin C+B+E Ferulic Serum,Dr. Lara Devgan Scientific Beauty,Treatments,145.0,307,4.82,0.6237,95.8,6.8,0.9062,OK
+Hyaluronic Serum,Dr. Barbara Sturm,Treatments,320.0,879,3.94,0.6776,73.0,6.8,0.7694,OK
+Mini Hyaluronic Serum,Dr. Barbara Sturm,Mini Size,110.0,879,3.94,0.6776,73.0,6.8,0.7694,OK
+Clarifying Peel Pads,SEPHORA COLLECTION,Treatments,17.0,117,4.61,0.7088,94.0,6.8,0.9005,OK
+Skin Perfecting BHA 9 Treatment,Paula's Choice,Treatments,46.0,146,4.71,0.7096,95.2,6.8,0.9116,OK
+Skin Squad Pre + ProbioticSupplement for Acne-Prone Skin,HUM Nutrition,Wellness,40.0,657,4.12,0.6822,83.1,6.8,0.822,OK
+Mini Noni Glow Face Oil,KORA Organics,Mini Size,28.0,1166,4.39,0.7181,79.1,6.8,0.8286,WATCH
+Noni Glow Plumping Face Oil,KORA Organics,Moisturizers,72.0,1121,4.41,0.7211,79.5,6.8,0.8323,WATCH
+Willow & Sweet Agave Plumping Lip Mask,alpyn beauty,Lip Balms & Treatments,28.0,148,4.54,0.7659,88.5,6.8,0.8844,OK
+Mini The Cult Classic Purifying Face Cleanser,TULA Skincare,Cleansers,12.0,410,3.91,0.6918,73.7,6.8,0.7726,OK
+ExfoliKate Cleanser Daily Foaming Wash,Kate Somerville,Cleansers,44.0,945,4.45,0.6953,56.7,6.8,0.7392,WATCH
+Resurfacing BHA Glow Mask,Tata Harper,Masks,68.0,847,4.35,0.7104,56.0,6.8,0.7324,WATCH
+The Cult Classic Purifying Face Cleanser,TULA Skincare,Cleansers,34.0,410,3.91,0.6918,73.7,6.8,0.7726,OK
+Find Your Balance Oil Control Cleanser,OLEHENRIKSEN,Cleansers,33.0,1446,4.43,0.7134,46.5,6.7,0.7004,WATCH
+D-Bronzi Anti-Pollution Bronzing Drops with Peptides,Drunk Elephant,Treatments,38.0,2042,4.43,0.7138,86.6,6.7,0.8609,OK
+Argan Infinity Cream Intensive Creamy Oil,Josie Maran,Moisturizers,28.0,1197,4.52,0.6862,20.2,6.7,0.5957,WATCH
+Dramatically Different Moisturizing Cream,CLINIQUE,Moisturizers,32.5,164,4.41,0.627,37.2,6.7,0.6465,WATCH
+Violet-C Brightening Serum 20% Vitamin C + 10% AHA,Tatcha,Treatments,89.0,1606,4.21,0.7196,80.7,6.7,0.8245,OK
+Melting Moisture Mask,Dermalogica,Masks,69.0,299,4.69,0.7424,96.0,6.7,0.9194,OK
+Detoxifying AHA/BHA Gel Cleanser,Community Sixty-Six,Cleansers,16.0,119,4.05,0.6894,86.6,6.7,0.8325,OK
+Vinosource-Hydra Moisturizing Sorbet,Caudalie,Moisturizers,38.0,1961,4.22,0.6626,48.9,6.7,0.6876,WATCH
+Rose Face Mask,fresh,Masks,64.0,2409,4.19,0.6889,30.3,6.6,0.6161,WATCH
+Night Magic Restorative Face Oil with Firming Botanicals,Prima,Moisturizers,68.0,410,4.35,0.7293,91.5,6.6,0.8778,OK
+Get Even Rose Face Oil,Wishful,Moisturizers,63.0,379,4.4,0.7231,89.7,6.6,0.8726,OK
+Ultra Glow Serum: Glow + Strengthen Vitamin C Serum,SEPHORA COLLECTION,Treatments,20.0,1486,4.12,0.6764,80.9,6.6,0.8119,OK
+Green Machine Vitamin C + Green Superfoods Jelly Serum,iNNBEAUTY PROJECT,Treatments,34.0,376,4.4,0.7471,85.4,6.6,0.86,OK
+DeliKate Recovery Cream,Kate Somerville,Moisturizers,76.0,350,4.5,0.7258,89.7,6.6,0.8794,OK
+Get That Glow - GloPRO Facial Microneedling Discovery Set,BeautyBio,Value & Gift Sets,199.0,166,4.72,0.7619,94.6,6.6,0.9193,OK
+Truth Juice Daily Cleanser,OLEHENRIKSEN,Cleansers,33.0,528,4.24,0.7115,78.4,6.6,0.8156,WATCH
+Mini Truth Juice Daily Cleanser,OLEHENRIKSEN,Mini Size,16.0,528,4.24,0.7115,78.4,6.6,0.8156,WATCH
+Hydro UV Defense Sunscreen Broad Spectrum SPF 50+,LANEIGE,Sunscreen,30.0,152,4.26,0.699,81.6,6.6,0.8272,OK
+Alpha Beta Pore Perfecting & Refining Serum,Dr. Dennis Gross Skincare,Treatments,68.0,1471,4.46,0.6251,91.6,6.6,0.8671,OK
+Marine Hyaluronics,The Ordinary,Treatments,8.9,244,4.21,0.6441,79.1,6.6,0.8047,WATCH
+Superclay Purify + Clear Power Mask with Niacinamide,Youth To The People,Masks,38.0,349,4.44,0.7313,88.3,6.6,0.8712,OK
+PRO Strength Lactic Pore Treatment,Peter Thomas Roth,Treatments,88.0,442,4.58,0.7044,93.4,6.6,0.8957,OK
+Mini 24-7 Moisture Hydrating Day & Night Cream,TULA Skincare,Moisturizers,26.0,400,4.19,0.7124,84.5,6.5,0.837,OK
+Bright & Tight Dark Circle Firming Eye Cream with Vitamin C & Peptides,iNNBEAUTY PROJECT,Eye Care,34.0,184,4.39,0.7555,83.7,6.5,0.8539,OK
+Blue Moon Clean-Rinse Cleansing Balm,Sunday Riley,Cleansers,50.0,276,4.27,0.7343,25.0,6.5,0.608,WATCH
+Fenty Skin Travel Size Start'r Set,Fenty Skin,Value & Gift Sets,45.0,278,4.06,0.7215,79.9,6.5,0.8122,WATCH
+Triple Peptide Hydrating + Firming Oasis Serum with Hyaluronic Acid,Youth To The People,Treatments,54.0,462,4.51,0.6786,89.2,6.5,0.8696,OK
+High-Potency Night-a-Mins Resurfacing Cream with Fruit-Derived AHAs,Origins,Moisturizers,52.0,1335,4.32,0.6915,19.5,6.5,0.5811,WATCH
+Heavenly Sixteen All-In-One Face Oil,Summer Fridays,Moisturizers,55.0,214,4.45,0.7177,85.5,6.5,0.8585,OK
+Smoothing Vitamin C Eye + Expression Lines Cream,The Outset,Eye Care,42.0,124,4.38,0.7779,87.9,6.5,0.8739,OK
+Pore Minimizing Instant Detox Mask,Caudalie,Masks,42.0,1038,4.5,0.6941,61.7,6.5,0.762,WATCH
+Menthol And Eucalyptus Lip Balm,Rosebud Perfume Co.,Lip Balms & Treatments,7.0,399,4.1,0.6542,53.6,6.5,0.6976,WATCH
+Aqua Bomb Hydrating Toner,belif,Cleansers,30.0,1049,4.36,0.7166,89.4,6.5,0.8682,OK
+Invisible Physical Defense Mineral Sunscreen SPF30,Dermalogica,Sunscreen,48.0,386,4.37,0.7405,88.1,6.5,0.8677,OK
+Ultra Facial Moisturizing Cream with Squalane,Kiehl's Since 1851,Moisturizers,78.0,2513,4.45,0.6874,87.6,6.5,0.8612,OK
+24-7 Moisture Hydrating Day & Night Cream,TULA Skincare,Moisturizers,54.0,400,4.19,0.7124,84.5,6.5,0.837,OK
+High-Potency Night-A-Mins Oil-Free Resurfacing Cream with Fruit Derived AHAs,Origins,Moisturizers,52.0,402,4.34,0.69,41.0,6.5,0.6684,WATCH
+Nutrient-Charged Water Gel,Murad,Moisturizers,71.0,632,4.47,0.6954,89.6,6.5,0.8721,OK
+The True Cream Moisturizing Bomb,belif,Moisturizers,38.0,4522,4.56,0.6871,75.1,6.5,0.8182,WATCH
+Liquid ExfoliKate Triple Acid Resurfacing Treatment,Kate Somerville,Treatments,72.0,279,4.37,0.726,87.5,6.5,0.8622,OK
+Mini Ultra Facial Moisturizing Cream with Squalane,Kiehl's Since 1851,Mini Size,24.0,2513,4.45,0.6874,87.6,6.5,0.8612,OK
+Green Clean Makeup Meltaway Cleansing Balm Limited Edition Jumbo,Farmacy,Cleansers,60.0,6141,4.49,0.6927,84.5,6.4,0.8526,OK
+Argan Daily Moisturizer Tinted SPF 47 Protect + Perfect,Josie Maran,Sunscreen,38.0,488,4.01,0.6907,43.0,6.4,0.6563,WATCH
+SEA drink of H2O hydrating boost moisturizer,tarte,Moisturizers,39.0,1745,4.24,0.6828,51.8,6.4,0.704,WATCH
+That Big Screen Moisturizer with Broad Spectrum SPF 30,JLo Beauty,Moisturizers,55.0,467,4.14,0.7671,80.3,6.4,0.8269,OK
+Papaya Sorbet Smoothing Enzyme Cleansing Balm & Makeup Remover,Glow Recipe,Cleansers,32.0,1428,4.2,0.7333,80.9,6.4,0.8268,OK
+100% Plant-Derived Hemi-Squalane,The Ordinary,Treatments,5.0,295,4.4,0.6107,86.8,6.4,0.8413,OK
+Vitamin C Lactic 15% Firm & Bright Serum,Dr. Dennis Gross Skincare,Treatments,85.0,234,4.53,0.7428,87.6,6.4,0.8758,OK
+Guava Vitamin C Bright-Eye Gel Cream,Glow Recipe,Eye Care,38.0,923,4.49,0.7612,88.2,6.4,0.8789,OK
+Green Clean Makeup Removing Cleansing Balm,Farmacy,Cleansers,36.0,6141,4.49,0.6927,84.5,6.4,0.8526,OK
+Collagen Booster Firming Peptide Serum,The INKEY List,Treatments,12.99,578,4.31,0.6293,87.0,6.4,0.84,OK
+N°38 Facial Sunscreen Mist with SPF 38,HABIT,Sunscreen,30.0,111,4.34,0.7607,82.0,6.3,0.8449,OK
+That Overnight Hustle AHA + BHA Resurfacer,JLo Beauty,Treatments,58.0,127,4.44,0.6972,89.8,6.3,0.8711,OK
+Essential-C Day Moisture Broad Spectrum SPF 30 PA+++,Murad,Moisturizers,68.0,828,4.25,0.6926,50.8,6.3,0.7029,WATCH
+Isle Glow Face Moisturizer SPF 45 with Sea Moss and Niacinamide,CAY SKIN,Sunscreen,34.0,445,4.27,0.7509,83.8,6.3,0.8463,OK
+Ultra Facial Cleanser,Kiehl's Since 1851,Cleansers,30.0,862,4.37,0.7278,85.3,6.3,0.8541,OK
+Grape Water Moisturizing Face Mist,Caudalie,Moisturizers,12.0,1684,4.44,0.6568,52.3,6.3,0.7145,WATCH
+Crème Radiance Gentle Cleansing Creamy-Foam Cleanser,Lancôme,Cleansers,34.0,394,4.44,0.6928,24.6,6.3,0.6098,WATCH
+Pore Remedy PHA Exfoliating Serum,Dr. Jart+,Treatments,45.0,431,4.17,0.6962,86.1,6.3,0.8392,OK
+Teatreement Toner,Dr. Jart+,Cleansers,30.0,470,4.26,0.7153,87.0,6.2,0.8517,OK
+The Camellia Oil 2-in-1 Makeup Remover & Cleanser,Tatcha,Cleansers,50.0,1833,4.48,0.6819,55.0,6.2,0.7321,WATCH
+Brazilian Kiss Cupuaçu Lip Butter,Sol de Janeiro,Lip Balms & Treatments,18.0,1346,4.13,0.6862,68.6,6.2,0.7647,WATCH
+Revitalixir Recovery Serum,Murad,Treatments,97.0,306,4.37,0.735,88.6,6.2,0.8684,OK
+Fruit-Tox Resurfacing Facial Remedy,Naturally Serious,Treatments,27.0,195,4.6,0.769,93.8,6.2,0.91,OK
+Minted Rose Lip Balm,Rosebud Perfume Co.,Lip Balms & Treatments,8.0,1981,4.52,0.6703,11.2,6.2,0.5571,WATCH
+Hello FAB Coconut Skin Smoothie Priming Moisturizer,First Aid Beauty,Moisturizers,32.0,1822,4.2,0.7105,56.3,6.2,0.7245,WATCH
+"Beauty Elixir Prep, Set, Glow Face Mist",Caudalie,Moisturizers,49.0,3404,4.24,0.6897,21.6,6.2,0.5844,WATCH
+Barrier+ Foaming Oil Hydrating Cleanser,Skinfix,Cleansers,30.0,995,4.58,0.7322,90.1,6.2,0.8871,OK
+N°41 Facial Sunscreen Mist with SPF 41,HABIT,Sunscreen,30.0,209,4.49,0.7547,86.6,6.2,0.8715,OK
+Truth Serum Vitamin C Serum,OLEHENRIKSEN,Treatments,56.0,129,4.19,0.6528,76.0,6.2,0.7927,WATCH
+Plump + Juicy Lip Booster Buttery Treatment,Kosas,Lip Balms & Treatments,25.0,194,4.29,0.8099,83.0,6.2,0.8545,OK
+Soy Hydrating Gentle Face Cleanser,fresh,Cleansers,39.0,8730,4.36,0.7035,33.4,6.2,0.642,WATCH
+E-Rase Milki Micellar Water,Drunk Elephant,Cleansers,14.0,1018,4.28,0.7454,84.5,6.1,0.8485,OK
+15% Vitamin C + Clean Caffeine Energy Serum,Youth To The People,Treatments,69.0,993,4.39,0.7443,85.1,6.1,0.8577,OK
+Smoothing Cleanser,SEPHORA COLLECTION,Cleansers,12.0,164,4.63,0.7448,92.1,6.1,0.9004,OK
+C Scription Vitamin C Brightening Serum,Dr. Brandt Skincare,Treatments,120.0,148,4.7,0.7917,91.2,6.1,0.9094,OK
+Dry Skin Saver,Kate Somerville,Moisturizers,56.0,114,4.31,0.6211,59.6,6.1,0.729,WATCH
+Rosebud Salve,Rosebud Perfume Co.,Lip Balms & Treatments,7.0,5198,4.65,0.6653,10.3,6.1,0.5603,WATCH
+10 + 10 Moisturizer with 10% Vitamin C + 10% Peptide Complex + Ceramides,iNNBEAUTY PROJECT,Moisturizers,35.0,295,4.57,0.7735,90.8,6.1,0.8966,OK
+Wild Rose Night-Brightening Sleeping Facial,KORRES,Moisturizers,50.0,1421,4.36,0.7122,18.5,6.1,0.5836,WATCH
+The Rice Polish Foaming Enzyme Powder,Tatcha,Cleansers,68.0,1719,4.43,0.7021,51.1,6.1,0.7166,WATCH
+Bio-Performance Advanced Super Revitalizing Cream,Shiseido,Moisturizers,85.0,358,4.53,0.6451,12.0,6.1,0.5568,WATCH
+E-Rase Milki Micellar Water Mini,Drunk Elephant,Mini Size,14.0,1018,4.28,0.7454,84.5,6.1,0.8485,OK
+The True Cream Aqua Bomb,belif,Moisturizers,38.0,7279,4.48,0.6942,70.4,6.1,0.7956,WATCH
+Hyaluronic Acid Hydrating Serum,The INKEY List,Treatments,9.99,1965,4.41,0.6554,88.1,6.0,0.855,OK
+Ultra Facial Oil-Free Gel Cream,Kiehl's Since 1851,Moisturizers,38.0,201,4.49,0.7104,89.6,6.0,0.8755,OK
+Teatreement Moisturizer,Dr. Jart+,Moisturizers,35.0,621,4.24,0.7299,87.8,6.0,0.8566,OK
+Ultra Repair Firming Collagen Cream with Peptides and Niacinamide,First Aid Beauty,Moisturizers,44.0,535,4.54,0.7054,89.5,6.0,0.8776,OK
+Mini GOOPGLOW 15% Glycolic Acid Overnight Glow Peel,goop,Mini Size,45.0,1196,4.26,0.731,85.5,6.0,0.8482,OK
+FILLING GOOD hyaluronic acid plumping serum,Farmacy,Treatments,48.0,912,4.32,0.7668,85.5,6.0,0.8587,OK
+Berries n' Choco Kisses Set,LANEIGE,Value & Gift Sets,26.0,183,4.6,0.7333,90.2,6.0,0.8891,OK
+Pumpkin Enzyme Mask Enzymatic Dermal Resurfacer,Peter Thomas Roth,Masks,60.0,719,4.66,0.739,49.9,6.0,0.7329,WATCH
+GOOPGLOW 15% Glycolic Acid Overnight Glow Peel,goop,Treatments,125.0,1196,4.26,0.731,85.5,6.0,0.8482,OK
+Total Eye Lift Firming & Smoothing Anti-Aging Eye Cream,Clarins,Eye Care,90.0,398,4.59,0.7627,92.2,6.0,0.9017,OK
+Baba Bomb Moisturizer,tarte,Moisturizers,39.0,134,4.43,0.6926,84.3,6.0,0.8476,OK
+Honey Halo Ultra-Hydrating Ceramide Moisturizer,Farmacy,Moisturizers,48.0,1341,4.44,0.7387,86.4,6.0,0.8648,OK
+Blackhead Solutions 7 Day Deep Pore Cleanse & Face Scrub,CLINIQUE,Cleansers,26.5,568,4.12,0.7022,83.8,6.0,0.828,OK
+Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask,Estée Lauder,Cleansers,30.0,116,4.44,0.6925,40.5,6.0,0.6732,WATCH
+Cleansing Spa Water Cloths,Koh Gen Do,Cleansers,23.0,284,4.48,0.6805,27.5,6.0,0.6214,WATCH
+GOOPGLOW Exfoliating Dark Spot Sleep Serum,goop,Treatments,98.0,251,4.06,0.6726,80.5,6.0,0.8058,OK
+The Cream with TFC8 Face Moisturizer,Augustinus Bader,Moisturizers,180.0,430,4.36,0.7446,86.0,6.0,0.8595,OK
+ALIVE Prebiotic Balancing Mask,Algenist,Masks,38.0,117,4.37,0.7338,83.8,6.0,0.8489,OK
+Lip Butter Balm,Summer Fridays,Lip Balms & Treatments,24.0,1200,4.32,0.7271,83.3,5.9,0.8428,OK
+Avocado Soothing Skin Barrier Serum with Ceramides,Glow Recipe,Treatments,45.0,1417,4.47,0.7383,87.4,5.9,0.871,OK
+Lactic Acid AHA Exfoliating Serum,Shani Darden Skin Care,Treatments,88.0,255,4.63,0.7357,94.5,5.9,0.9087,OK
+Luxury Beauty Serum Calming Treatment,Saint Jane Beauty,Treatments,125.0,354,4.4,0.7009,84.5,5.9,0.8477,OK
+Estee Lauder Advanced Night Repair Synchronized Multi-Recovery Complex Serum,Estée Lauder,Treatments,115.0,2412,4.05,0.6773,79.2,5.9,0.8007,WATCH
+Mini Advanced Night Repair Synchronized Multi-Recovery Complex,Estée Lauder,Mini Size,19.0,2412,4.05,0.6773,79.2,5.9,0.8007,WATCH
+Black Tea Instant Perfecting Mask,fresh,Masks,96.0,908,4.29,0.6909,22.1,5.9,0.5902,WATCH
+Advanced Night Repair Synchronized Multi-Recovery Complex Duo,Estée Lauder,Treatments,195.0,2412,4.05,0.6773,79.2,5.9,0.8007,WATCH
+Advanced Génifique Yeux Light-Pearl Eye Serum,Lancôme,Eye Care,80.0,995,4.09,0.7111,74.9,5.9,0.7922,WATCH
+C5 Super Boost Vitamin C Eye Cream,Paula's Choice,Eye Care,39.0,341,4.5,0.7487,90.3,5.9,0.8862,OK
+Calendula Deep Clean Foaming Face Wash,Kiehl's Since 1851,Cleansers,38.0,306,4.49,0.7008,85.9,5.9,0.8598,OK
+"UV Expert Aquagel Defense Sunscreen, Primer & Moisturizer SPF 50 Duo",Lancôme,Value & Gift Sets,65.0,1045,4.24,0.7448,85.8,5.9,0.8511,OK
+Plantscription Anti-Aging Cleanser,Origins,Cleansers,36.0,101,4.29,0.6987,36.6,5.9,0.6493,WATCH
+Mini Watermelon Glow PHA + BHA Pore-Tight Toner,Glow Recipe,Mini Size,15.0,3321,4.37,0.7287,85.7,5.9,0.8558,OK
+Watermelon Glow PHA + BHA Pore-Tight Toner,Glow Recipe,Cleansers,34.0,3321,4.37,0.7287,85.7,5.9,0.8558,OK
+Nova 15% Vitamin C + Turmeric Brightening Serum,Herbivore,Treatments,65.0,253,4.49,0.7911,87.7,5.9,0.8828,OK
+Argan Pro-Retinol Eye Cream,Josie Maran,Eye Care,42.0,642,4.48,0.7713,89.1,5.9,0.8837,OK
+Retinol Youth Renewal Serum,Murad,Treatments,92.0,1031,4.59,0.7547,90.5,5.8,0.8933,OK
+Super Multi-Corrective Anti-Aging Face and Neck Cream,Kiehl's Since 1851,Moisturizers,76.0,171,4.26,0.7347,87.7,5.8,0.8584,OK
+Multi-Vitamin Infusion Oil,Murad,Moisturizers,85.0,103,4.43,0.6338,86.4,5.8,0.8457,OK
+Private Party: Supports Vaginal & Urinary Tract Health,HUM Nutrition,Wellness,26.0,278,4.67,0.736,96.0,5.8,0.9175,OK
+The Weighted Razor Kit,Hanni,High Tech Tools,42.0,155,4.65,0.7793,94.2,5.8,0.916,OK
+GOOPGLOW Glow Lotion,goop,Moisturizers,58.0,815,4.06,0.7197,78.7,5.8,0.807,WATCH
+Sugar Face Polish Exfoliator,fresh,Cleansers,64.0,1069,4.52,0.7097,28.9,5.8,0.6348,WATCH
+goopglow Cloudberry Exfoliating Jelly Cleanser,goop,Cleansers,35.0,414,4.02,0.756,80.9,5.8,0.8198,OK
+Mini Original Skin Retexturizing Mask with Rose Clay,Origins,Mini Size,17.0,104,4.48,0.6843,89.4,5.8,0.87,OK
+AGE Bright Clearing Serum,Dermalogica,Treatments,75.0,343,4.35,0.7441,89.5,5.8,0.8728,OK
+Retinol Youth Renewal Eye Serum,Murad,Eye Care,89.0,360,4.53,0.7242,91.7,5.8,0.8889,OK
+Keep It Clean Hydrating Gel Cleanser with Ceramides & 10 Amino Acids,iNNBEAUTY PROJECT,Cleansers,26.0,155,4.52,0.7866,92.9,5.8,0.9044,OK
+GenOptics Spot Essence Serum,SK-II,Moisturizers,225.0,104,4.13,0.7896,7.7,5.8,0.5399,WATCH
+Mineral Sunscreen Zinc Oxide Broad Spectrum SPF 30,First Aid Beauty,Sunscreen,28.0,246,4.49,0.7605,91.1,5.7,0.8903,OK
+Honey Whip Peptide and Collagen Moisturizer,Wishful,Moisturizers,43.0,331,4.57,0.7558,90.0,5.7,0.8904,OK
+Retinal + Niacinamide Youth Serum,Youth To The People,Treatments,69.0,317,4.59,0.6974,94.0,5.7,0.8972,OK
+Cica Sleeping Mask,LANEIGE,Masks,34.0,977,4.64,0.7207,92.0,5.7,0.8965,OK
+Sugar Mint Rush Freshening Lip Treatment,fresh,Lip Balms & Treatments,25.0,526,4.08,0.7299,79.1,5.7,0.8116,WATCH
+SKINPOWER Cream,SK-II,Moisturizers,255.0,442,4.19,0.7277,82.1,5.7,0.8301,OK
+Polyglutamic Acid Hydrating Serum,The INKEY List,Treatments,14.99,960,4.39,0.6973,90.0,5.6,0.8691,OK
+Essential-C Cleanser,Murad,Cleansers,44.0,391,4.5,0.6673,35.0,5.6,0.6504,WATCH
+Aquarius Pore Purifying BHA Cream,Herbivore,Moisturizers,46.0,216,4.29,0.7161,82.4,5.6,0.8354,OK
+Plum Plump Hyaluronic Acid Serum,Glow Recipe,Treatments,45.0,1921,4.43,0.7492,87.5,5.6,0.87,OK
+Honey Balm Niacinamide Moisturizer,Wishful,Moisturizers,43.0,657,4.19,0.7335,79.9,5.6,0.8223,WATCH
+Moisturizing Eye Bomb with Squalane,belif,Eye Care,48.0,2964,4.47,0.7111,90.2,5.6,0.877,OK
+Vegan Milk Cleanser,MILK MAKEUP,Cleansers,30.0,789,4.43,0.7684,90.1,5.6,0.884,OK
+Advanced Retinol + Ferulic Triple Correction Eye Serum,Dr. Dennis Gross Skincare,Eye Care,71.0,304,4.5,0.7177,89.1,5.6,0.8757,OK
+Evercalm Gentle Cleansing Gel,REN Clean Skincare,Cleansers,38.0,125,4.36,0.8037,91.2,5.6,0.8904,OK
+Mask-imum Revival Hydra-Plumping Mask,Naturally Serious,Masks,27.0,126,4.38,0.7452,87.3,5.6,0.8659,OK
+PRO Strength 10% PHA Exfoliating Clarifying Liquid,Peter Thomas Roth,Treatments,58.0,438,4.38,0.7231,91.3,5.5,0.8783,OK
+Brightening Eye Cream with Caffeine and Hyaluronic Acid,SEPHORA COLLECTION,Eye Care,18.0,531,4.37,0.7343,87.4,5.5,0.8636,OK
+Renewing Cleansing Cream,Murad,Cleansers,45.0,254,4.46,0.6697,19.7,5.5,0.5875,WATCH
+Self Tan Classic Bronzing Mousse,St. Tropez,Self Tanners,34.0,513,4.26,0.7151,53.6,5.5,0.7182,WATCH
+Strawberry Smooth BHA + AHA Salicylic Acid Serum,Glow Recipe,Treatments,42.0,1027,4.54,0.7563,90.7,5.5,0.8917,OK
+A-Gloei Retinol Oil,Drunk Elephant,Moisturizers,72.0,489,4.55,0.7631,92.8,5.5,0.9018,OK
+Vital Skin-Strengthening Hyaluronic Acid Super Serum,Kiehl's Since 1851,Treatments,60.0,597,4.22,0.7235,85.9,5.5,0.8465,OK
+Retinol Acne Clearing Oil,Dermalogica,Moisturizers,86.0,314,4.4,0.7468,90.1,5.4,0.8786,OK
+Rapid Dark Spot Correcting Serum,Murad,Treatments,83.0,663,4.39,0.7155,90.2,5.4,0.8727,OK
+Mini Retinol Youth Renewal Serum,Murad,Mini Size,32.0,987,4.61,0.7637,91.2,5.4,0.8989,OK
+Crystal Ball Roller Gloss,INC.redible,Wellness,12.0,112,4.38,0.7412,89.3,5.4,0.8733,OK
+Vinopure Pore Purifying Gel Cleanser,Caudalie,Cleansers,30.0,948,4.46,0.7622,89.1,5.4,0.8812,OK
+Even Smoother Glycolic Retinol Resurfacing Serum,Peter Thomas Roth,Treatments,65.0,467,4.58,0.7304,94.2,5.4,0.9035,OK
+Extra-Firming Energy + Radiance Boosting Moisturizer,Clarins,Moisturizers,93.0,205,4.34,0.7738,88.3,5.4,0.8724,OK
+Rich Bitch Cactus + Vitamin C Moisturizer,Freck Beauty,Moisturizers,34.0,223,4.38,0.7647,87.0,5.4,0.8681,OK
+Instant Pore Perfector,Peace Out,Treatments,28.0,260,4.58,0.7851,90.8,5.4,0.8993,OK
+Teatreement Cleansing Foam,Dr. Jart+,Cleansers,29.0,504,4.14,0.7363,82.5,5.4,0.8303,OK
+Vitamin C Lactic Oil-Free Radiant Moisturizer,Dr. Dennis Gross Skincare,Moisturizers,72.0,111,4.66,0.7785,94.6,5.4,0.9182,OK
+Premium BB Tinted Moisturizer with Niacinamide and SPF 40,Dr. Jart+,Moisturizers,44.0,611,4.32,0.7821,87.6,5.4,0.8697,OK
+AGE Smart Phyto-Nature Firming Serum,Dermalogica,Treatments,155.0,148,4.33,0.7801,87.8,5.4,0.8711,OK
+MultiVitamin Power Firm Eye Cream,Dermalogica,Eye Care,69.0,204,4.18,0.7276,83.3,5.4,0.8342,OK
+Glow + Get It Cooling & Brightening Eye Balm,TULA Skincare,Eye Care,30.0,334,3.95,0.7473,78.7,5.4,0.8049,OK
+Shave Pillow Moisturizing Body Gel,Hanni,Moisturizers,24.0,152,4.7,0.7912,95.4,5.3,0.9261,OK
+15% Niacinamide Gel Serum,SOBEL SKIN Rx,Treatments,75.0,132,4.16,0.7183,85.6,5.3,0.8406,OK
+Vinosource-Hydra SOS Hydrating Hyaluronic Acid Serum,Caudalie,Treatments,52.0,189,4.66,0.7557,92.6,5.3,0.9064,OK
+Vegan Milk Moisturizer,MILK MAKEUP,Moisturizers,38.0,1674,4.22,0.722,83.6,5.3,0.8369,OK
+Advanced Génifique Radiance Boosting Face Serum,Lancôme,Treatments,132.0,1603,4.4,0.7186,70.2,5.3,0.7942,WATCH
+Vinoperfect Instant Brightening Moisturizer with Niacinamide,Caudalie,Moisturizers,65.0,703,4.4,0.7944,87.1,5.3,0.8745,OK
+Squalane + Vitamin C Rose Firming Oil,Biossance,Moisturizers,74.0,1470,4.35,0.7426,80.7,5.3,0.8373,OK
+The Concentrate Serum,La Mer,Treatments,425.0,563,4.52,0.7682,88.3,5.3,0.8825,OK
+Gentle Rejuvenating Cleanser,Algenist,Cleansers,28.0,264,4.27,0.6551,15.5,5.3,0.5561,WATCH
+Sugar Strawberry Exfoliating Face Wash,fresh,Cleansers,33.0,1248,4.15,0.7782,80.6,5.3,0.8307,OK
+Ultra Repair Wild Oat Hydrating Toner,First Aid Beauty,Cleansers,24.0,528,4.47,0.7236,87.9,5.3,0.8701,OK
+Super-C Retinol Brighten & Correct Vitamin C Serum,StriVectin,Treatments,72.0,114,4.65,0.7961,93.0,5.3,0.9143,OK
+Water Sleeping Mask with Squalane,LANEIGE,Masks,32.0,473,4.36,0.7296,86.3,5.3,0.8579,OK
+Lip Treatment Balm,LANEIGE,Lip Balms & Treatments,25.0,718,4.21,0.7597,78.3,5.3,0.8218,WATCH
+Watermelon Glow Ultra-Fine Mist,Glow Recipe,Moisturizers,29.0,986,4.15,0.7436,79.0,5.3,0.818,WATCH
+Collagen Love Skin Firming Supplement with Hyaluronic Acid & Vitamin C,HUM Nutrition,Wellness,40.0,135,4.41,0.7028,84.4,5.2,0.8487,OK
+Multi-Peptide Eye Serum,The Ordinary,Eye Care,25.0,249,3.99,0.6857,81.5,5.2,0.8079,OK
+Mini Liquid Silk Canvas: Featherweight Protective Primer,Tatcha,Mini Size,24.0,1835,4.4,0.7571,86.7,5.2,0.8665,OK
+The ZenBubble Gel Cream,BeautyBio,Moisturizers,69.0,193,4.4,0.7284,88.1,5.2,0.8676,OK
+Aqua Bomb Sleeping Mask,belif,Moisturizers,38.0,986,4.52,0.743,89.6,5.2,0.8829,OK
+Resurface+ AHA/BHA Niacinamide Exfoliating Pads for Face and Targeted Body,Skinfix,Treatments,50.0,503,4.36,0.7716,88.3,5.2,0.8731,OK
+The Regenerating Serum,La Mer,Treatments,410.0,174,4.4,0.766,84.5,5.2,0.8596,OK
+Charlotte’s Magic Eye Cream with Retinol,Charlotte Tilbury,Eye Care,65.0,842,4.35,0.7373,88.4,5.2,0.8671,OK
+Squalane + 10% Vitamin C Dark Spot Serum,Biossance,Treatments,65.0,636,4.34,0.751,86.9,5.2,0.863,OK
+Pore-Balance Facial Sauna Scrub,OLEHENRIKSEN,Cleansers,35.0,877,4.56,0.7462,74.5,5.2,0.8258,WATCH
+Cream Skin Toner & Moisturizer,LANEIGE,Moisturizers,33.0,1856,4.45,0.7212,89.2,5.1,0.8735,OK
+Skin Perfecting 25% AHA + 2% BHA Exfoliant Peel,Paula's Choice,Treatments,42.0,137,4.5,0.7588,89.1,5.1,0.883,OK
+Cryo Rubber Masks,Dr. Jart+,Masks,15.0,566,4.31,0.7539,85.3,5.1,0.8553,OK
+Double Serum Eye Firming & Hydrating Anti-Aging Concentrate,Clarins,Eye Care,82.0,923,4.23,0.7162,85.5,5.1,0.844,OK
+Glow Cycle Retin-ALT Power Serum,OLEHENRIKSEN,Treatments,60.0,1238,4.29,0.7913,87.2,5.1,0.8675,OK
+Greek Yoghurt Probiotic Superdose Face Mask,KORRES,Masks,52.0,506,4.5,0.7624,91.3,5.1,0.8925,OK
+Full Spectrum 360° Sun Silk Drops Organic Sunscreen SPF 30,COOLA,Sunscreen,48.0,798,4.42,0.7672,88.7,5.1,0.8779,OK
+DeliKate Recovery Serum,Kate Somerville,Treatments,98.0,156,4.64,0.7807,93.6,5.1,0.9136,OK
+Facial Treatment Cleanser,SK-II,Cleansers,75.0,918,4.13,0.7353,73.9,5.1,0.7948,WATCH
+Brumisateur Natural Mineral Water Facial Spray Travel Duo,Evian,Moisturizers,17.0,1549,4.56,0.6328,11.9,5.1,0.5559,WATCH
+The Afterglow Deep Moisturizing Cream with Hyaluronic Acid & Vegan Collagen,Prima,Moisturizers,68.0,381,4.53,0.7767,95.0,5.0,0.9116,OK
+Plump + Juicy Vegan Collagen + Probiotic Spray-On Serum,Kosas,Moisturizers,48.0,141,4.38,0.855,87.2,5.0,0.885,OK
+Sugar Hydrating Lip Balm,fresh,Lip Balms & Treatments,19.0,2187,4.2,0.7067,76.7,5.0,0.8054,WATCH
+Pore Remedy Purifying Mud Mask,Dr. Jart+,Masks,9.0,321,4.18,0.7132,84.1,5.0,0.835,OK
+Watermelon Glow Niacinamide Dew Drops,Glow Recipe,Treatments,35.0,2200,4.41,0.7665,86.6,5.0,0.8686,OK
+Sound Sleep Cocoon Night Gel-Cream,Dermalogica,Treatments,89.0,181,4.18,0.8054,82.3,5.0,0.8441,OK
+Acne Solutions Oil-Control Cleansing Mask,CLINIQUE,Masks,29.0,281,4.48,0.6603,10.0,5.0,0.5477,WATCH
+Ultracalming Cleanser,Dermalogica,Cleansers,42.0,199,4.45,0.7584,89.9,5.0,0.8833,OK
+Rénergie Lift Multi-Action Ultra Dark Circle Correcting Eye Cream,Lancôme,Eye Care,82.0,298,4.64,0.7683,92.6,5.0,0.9073,OK
+The C Drops – 20% Vitamin C Blend Brightening Serum,Saint Jane Beauty,Treatments,90.0,100,4.75,0.8134,96.0,5.0,0.9357,OK
+Orchid Antioxidant Beauty Face Oil - For Combination Skin,Herbivore,Moisturizers,74.0,241,4.35,0.7619,62.7,5.0,0.7685,WATCH
+That Hit Single Gel-Cream Cleanser,JLo Beauty,Cleansers,39.0,363,4.1,0.7644,80.2,5.0,0.8231,OK
+Forest Lungs Anti-Stress Fragrance Travel Spray,The Nue Co.,Wellness,30.0,199,4.24,0.7608,80.4,5.0,0.832,OK
+Intense Therapy Lip Balm SPF 25,Jack Black,Lip Balms & Treatments,10.0,3594,4.68,0.6976,21.6,4.9,0.6138,WATCH
+Pore Clearing Matte Moisturizer with Volcanic Clusters,innisfree,Moisturizers,24.0,102,4.54,0.7558,89.2,4.9,0.8853,OK
+SEA FRXXXTION Stick Exfoliating Cleanser,tarte,Cleansers,22.0,968,4.53,0.7487,32.4,4.9,0.6565,WATCH
+Perfect Cleansing Oil,Shiseido,Cleansers,35.0,144,4.45,0.6647,53.5,4.9,0.7209,WATCH
+Bouncy Brightfacial Brightening Mask with 10% Azelaic Acid + 1% Salicylic Acid,Drunk Elephant,Treatments,68.0,428,4.48,0.7429,90.2,4.9,0.8832,OK
+Barrier+ Triple Lipid-Peptide Lotion Moisturizer,Skinfix,Moisturizers,42.0,569,4.65,0.7813,94.0,4.9,0.916,OK
+Glaze Lip Oil,iNNBEAUTY PROJECT,Lip Balms & Treatments,17.0,206,4.42,0.7344,84.5,4.9,0.8553,OK
+Bye Bye Pores 10% Glycolic Acid Serum,IT Cosmetics,Treatments,29.0,288,4.31,0.7188,88.5,4.9,0.862,OK
+Ceramide Hydrating Night Treatment,The INKEY List,Treatments,15.99,308,4.29,0.6379,87.3,4.9,0.8417,OK
+Daily Dose Hydra-Ceramide Boost + SPF 40 Sunscreen Oil PA+++,Supergoop!,Moisturizers,46.0,267,4.38,0.7765,86.1,4.9,0.8666,OK
+Mini Plum Plump Hyaluronic Acid Moisturizer,Glow Recipe,Mini Size,21.0,1458,4.46,0.7694,87.6,4.9,0.8765,OK
+Aqua Bomb Overnight Lip Mask,belif,Lip Balms & Treatments,22.0,1964,4.41,0.7135,88.4,4.9,0.8664,OK
+PRO Strength Microdermabrasion Blackhead Eliminator,Peter Thomas Roth,Cleansers,68.0,466,4.49,0.7618,94.2,4.9,0.9035,OK
+Plum Plump Hyaluronic Acid Moisturizer,Glow Recipe,Moisturizers,39.0,1458,4.46,0.7694,87.6,4.9,0.8765,OK
+Slushy Serum Moisturizer Crush Infused with Bakuchiol,iNNBEAUTY PROJECT,Treatments,30.0,388,4.6,0.7245,90.2,4.9,0.8878,OK
+Benefiance Wrinkle Smoothing Eye Cream,Shiseido,Eye Care,64.0,1419,4.33,0.7585,86.6,4.8,0.8622,OK
+Thirst Trap Juice Hyaluronic Acid & Peptide Hydrating Facial Serum,Wishful,Treatments,47.0,434,4.61,0.7474,92.2,4.8,0.9001,OK
+The Clarifying Clay Mask Exfoliating Pore Treatment,Tatcha,Masks,70.0,209,4.63,0.7965,92.8,4.8,0.9126,OK
+Omega + Complex Cleansing Balm,Paula's Choice,Cleansers,29.0,166,4.66,0.7885,92.2,4.8,0.9102,OK
+SKINPOWER Eye Cream,SK-II,Eye Care,145.0,747,4.32,0.729,84.6,4.8,0.8487,OK
+Vitamin C Glow Moisturizer,fresh,Moisturizers,48.0,419,4.24,0.7119,73.0,4.8,0.7943,WATCH
+Charlotte’s Magic Serum with Vitamin C,Charlotte Tilbury,Treatments,85.0,954,4.16,0.7581,80.4,4.8,0.8267,OK
+Acne+ 2% BHA + Azelaic Acid + Niacinamide + AHA Cleanser,Skinfix,Cleansers,35.0,433,4.57,0.7439,91.7,4.8,0.8948,OK
+Ultra Facial Overnight Hydrating Face Mask with 10.5% Squalane,Kiehl's Since 1851,Masks,45.0,434,4.55,0.7295,92.6,4.8,0.8948,OK
+Glow Drops,Dr. Barbara Sturm,Treatments,150.0,815,4.06,0.7319,78.0,4.7,0.8065,WATCH
+Algae Niacinamide Moisture Veil,Algenist,Moisturizers,65.0,169,4.7,0.7945,93.5,4.7,0.9191,OK
+That Fresh Take Eye Cream with Peptides,JLo Beauty,Eye Care,49.0,449,4.16,0.7604,81.7,4.7,0.8323,OK
+Strength Trainer Peptide Boost Moisturizer,OLEHENRIKSEN,Moisturizers,51.0,867,4.55,0.7629,91.5,4.7,0.896,OK
+Micro-Dose Anti-Aging Retinol Serum with Ceramides and Peptide,Kiehl's Since 1851,Treatments,65.0,598,4.49,0.7304,91.5,4.7,0.8869,OK
+All Day Hyaluronic Acid Hydrator Moisturizer,SEPHORA COLLECTION,Moisturizers,18.0,427,4.57,0.7626,92.0,4.7,0.8995,OK
+Light Aura Vitamin C + Peptide Eye Cream,Summer Fridays,Eye Care,42.0,381,4.36,0.7671,85.0,4.7,0.8594,OK
+Potent-C Vitamin C Targeted Spot Brightener,Peter Thomas Roth,Treatments,62.0,318,4.34,0.7068,89.9,4.7,0.8674,OK
+Lotus Anti- Aging Daily Moisturizer,fresh,Moisturizers,54.0,1070,4.4,0.7518,88.6,4.7,0.8732,OK
+Special Cleansing Gel,Dermalogica,Cleansers,42.0,716,4.52,0.7779,91.1,4.7,0.8953,OK
+Aqua Bomb Jelly Cleanser,belif,Cleansers,30.0,683,4.29,0.7705,87.0,4.7,0.8635,OK
+Lip Glowy Balm,LANEIGE,Lip Balms & Treatments,18.0,3712,4.39,0.7311,85.5,4.7,0.8569,OK
+Mini Special Cleansing Gel,Dermalogica,Mini Size,13.0,716,4.52,0.7779,91.1,4.7,0.8953,OK
+Mini Glow Drops,Dr. Barbara Sturm,Mini Size,60.0,815,4.06,0.7319,78.0,4.7,0.8065,WATCH
+Hello Results Wrinkle-Reducing Daily Retinol Serum-in-Cream,IT Cosmetics,Moisturizers,69.0,172,4.44,0.8264,93.6,4.7,0.9091,OK
+Ceramighty  AF Eye Cream with Ceramides,Drunk Elephant,Eye Care,60.0,430,4.39,0.7201,87.4,4.7,0.8626,OK
+Nourishing Moisturizer with Prebiotics,SEPHORA COLLECTION,Moisturizers,18.0,472,4.51,0.7846,89.8,4.7,0.8913,OK
+Lotus Youth Preserve Eye Cream,fresh,Eye Care,45.0,763,4.4,0.7244,91.0,4.7,0.8783,OK
+Confidence in Your Beauty Sleep Night Cream,IT Cosmetics,Moisturizers,58.0,412,4.46,0.7696,88.1,4.6,0.8781,OK
+Goat Milk Moisturizing Cleanser,Kate Somerville,Cleansers,44.0,174,4.56,0.7066,89.7,4.6,0.8796,OK
+Vinoperfect Brightening Glycolic Night Cream,Caudalie,Moisturizers,69.0,240,4.47,0.7867,86.7,4.6,0.876,OK
+Intensive Moisture Balance Moisturizer,Dermalogica,Moisturizers,47.0,151,4.47,0.7514,90.7,4.6,0.8863,OK
+B3 Nice 10% Niacinamide Serum,Sunday Riley,Treatments,65.0,627,4.73,0.7887,96.2,4.6,0.9307,OK
+Every Sun Day Sun Fluid SPF 50+,Dr. Jart+,Sunscreen,42.0,325,4.42,0.7631,90.8,4.6,0.8855,OK
+Squalane + Retinol Night Serum,Biossance,Treatments,72.0,216,4.47,0.7623,94.0,4.6,0.901,OK
+Aloe Vera Blemish Soothing Moisturizer,Dr. Zenovia Skincare,Moisturizers,38.0,377,4.58,0.7442,94.4,4.5,0.9068,OK
+That Blockbuster Cream with Hyaluronic Acid,JLo Beauty,Moisturizers,59.0,553,4.16,0.768,80.3,4.5,0.8282,OK
+Mini Rice Wash Skin-Softening Cleanser,Tatcha,Mini Size,18.0,2453,4.5,0.771,89.6,4.5,0.8874,OK
+Call It A Night Glycolic Serum + Moisturizer duo,Drunk Elephant,Value & Gift Sets,28.0,112,4.37,0.7114,86.6,4.5,0.8563,OK
+The Rice Wash Skin-Softening Cleanser,Tatcha,Cleansers,40.0,2453,4.5,0.771,89.6,4.5,0.8874,OK
+Self Tan Purity Vitamins Bronzing Water Body Mist,St. Tropez,Self Tanners,45.0,402,4.39,0.794,90.5,4.5,0.8881,OK
+Strawberry Lip Balm,Rosebud Perfume Co.,Lip Balms & Treatments,8.0,2553,4.54,0.7125,12.6,4.5,0.5715,WATCH
+SHIKULIME Color Control Oil-Free Moisturizer SPF 30,WASO,Moisturizers,36.0,490,4.18,0.7505,84.5,4.5,0.8429,OK
+Vinoclean Moisturizing Toner with Rose Water,Caudalie,Cleansers,30.0,176,4.34,0.7797,84.7,4.5,0.8585,OK
+Replenishing Multi-Acid Peel,Murad,Treatments,79.0,356,4.61,0.7996,91.6,4.5,0.9068,OK
+Power Cleanse Duo,Dermalogica,Value & Gift Sets,19.0,113,4.58,0.8187,95.6,4.4,0.924,OK
+Renewing Bakuchi Crème - Eternal Reign,RANAVAT,Moisturizers,95.0,204,4.37,0.6987,87.7,4.4,0.8587,OK
+Skin Filter Vitamin A and Zinc Blemish + Brightening Supplement,The Nue Co.,Wellness,45.0,158,4.19,0.6306,82.3,4.4,0.8138,OK
+BEAR Facial Toning Device,FOREO,High Tech Tools,329.0,229,4.42,0.8098,91.7,4.4,0.8975,OK
+MultiVitamin Power Recovery Mask,Dermalogica,Masks,65.0,390,4.37,0.747,89.5,4.4,0.8741,OK
+Water-Lock Moisturizer with Skin-Smoothing Peptides,Tata Harper,Moisturizers,68.0,344,4.44,0.8248,86.0,4.4,0.8785,OK
+"The Sunscreen - 100% Mineral, Broad Spectrum SPF 30 with 20% Non-Nano Zinc, Hyaluronic Acid and Niacinamide",Nécessaire,Sunscreen,25.0,452,4.53,0.8125,90.7,4.4,0.9009,OK
+Original Skin Matte Moisturizer with Willowherb,Origins,Moisturizers,40.0,2304,4.41,0.7804,88.5,4.4,0.8784,OK
+Ceramidin Skin Barrier Serum Toner,Dr. Jart+,Cleansers,39.0,344,4.64,0.7408,96.5,4.4,0.918,OK
+Hyaluronic Serum,Dr. Lara Devgan Scientific Beauty,Treatments,245.0,321,4.79,0.6702,94.1,4.4,0.9052,OK
+Dewy Glow Moisturizer with Cherry Blossom & Niacinamide,innisfree,Moisturizers,26.0,271,4.38,0.7654,85.6,4.4,0.8629,OK
+Squalane + BHA Pore-Minimizing Toner,Biossance,Cleansers,30.0,610,4.43,0.7605,90.2,4.4,0.8831,OK
+Dr. Andrew Weil for Origins Mega-Mushroom Relief & Resilience Soothing Treatment Lotion,Origins,Moisturizers,40.0,571,4.4,0.7552,89.3,4.4,0.8771,OK
+Mini Indigo Overnight Repair Serum in Cream Treatment,Tatcha,Moisturizers,22.0,1099,4.55,0.7691,89.9,4.3,0.8909,OK
+Camellia Gold Spun Lip Balm,Tatcha,Lip Balms & Treatments,30.0,671,4.28,0.7516,77.6,4.3,0.8221,WATCH
+Cream Skin Milk Oil Cleanser,LANEIGE,Cleansers,34.0,304,4.38,0.7606,85.5,4.3,0.8612,OK
+Get Even Cold-Pressed Peel Pads,Naturally Serious,Treatments,32.0,230,4.72,0.7766,94.8,4.3,0.9227,OK
+Regenerating Exfoliating Cleanser,Tata Harper,Cleansers,88.0,699,4.46,0.7801,64.9,4.3,0.7879,WATCH
+Vitamin C Lactic Biocellulose Brightening Treatment Mask,Dr. Dennis Gross Skincare,Masks,12.0,117,4.59,0.7718,94.0,4.3,0.9105,OK
+Indigo Overnight Repair Serum in Cream Treatment,Tatcha,Moisturizers,92.0,1099,4.55,0.7691,89.9,4.3,0.8909,OK
+Rose Glow + Get It Cooling & Brightening Eye Balm,TULA Skincare,Eye Care,32.0,371,4.08,0.792,83.0,4.3,0.8379,OK
+Barrier+ Triple Lipid-Hyaluronate Serum,Skinfix,Treatments,50.0,420,4.64,0.7884,92.1,4.3,0.9089,OK
+Urban Environment Oil-Free Sunscreen Broad-Spectrum SPF 42,Shiseido,Sunscreen,50.0,1343,4.45,0.7803,90.8,4.3,0.8907,OK
+24-7 Power Swipe Hydrating Day & Night Treatment Eye Balm,TULA Skincare,Eye Care,38.0,185,4.26,0.792,89.7,4.3,0.8762,OK
+GinZing Into the Glow Brightening Serum,Origins,Treatments,46.0,259,4.53,0.7769,90.7,4.2,0.8947,OK
+Cicapair Tiger Grass Sleepair Intensive Mask,Dr. Jart+,Masks,42.0,744,4.55,0.7485,91.8,4.2,0.8949,OK
+Soft Clean Infusion Hydrating Treatment Lotion,Estée Lauder,Moisturizers,42.0,456,3.83,0.7117,71.9,4.2,0.7643,OK
+Ceramidin  Eye Cream with Niacinamide,Dr. Jart+,Eye Care,40.0,433,4.55,0.7444,93.8,4.2,0.902,OK
+The Treatment Lotion,La Mer,Moisturizers,180.0,424,4.64,0.7778,93.2,4.2,0.9115,OK
+Vinoperfect Brightening Glycolic Peel Mask,Caudalie,Masks,42.0,192,4.54,0.8148,90.6,4.2,0.9011,OK
+Bye Bye Dark Spots 4% Niacinamide Serum,IT Cosmetics,Treatments,29.0,287,4.25,0.7117,86.1,4.2,0.8472,OK
+Advanced Night Repair Eye Gel-Cream,Estée Lauder,Eye Care,72.0,1795,4.35,0.736,89.5,4.2,0.871,OK
+Kx Active Concentrates Bio-Mimicking Peptides Serum,Kate Somerville,Treatments,98.0,384,4.43,0.7829,89.8,4.2,0.8857,OK
+C-Rush Vitamin C Gel Moisturizer,OLEHENRIKSEN,Moisturizers,51.0,2960,4.34,0.7805,86.6,4.2,0.8668,OK
+Brightening Dark Spot Vitamin C Serum,Hyper Skin,Treatments,58.0,143,4.57,0.7575,93.0,4.2,0.9025,OK
+Argan Beta Retinol Pink Algae Serum,Josie Maran,Treatments,69.0,760,4.41,0.7674,90.3,4.2,0.8837,OK
+Mini The Treatment Lotion,La Mer,Moisturizers,125.0,424,4.64,0.7778,93.2,4.2,0.9115,OK
+Lotus Anti-Aging Night Moisturizer,fresh,Moisturizers,56.0,1684,4.48,0.7511,88.4,4.2,0.8776,OK
+SKINPOWER Airy Milky Lotion,SK-II,Moisturizers,170.0,831,4.26,0.7465,81.5,4.2,0.8356,OK
+Ultra Facial Advanced Repair Barrier Cream,Kiehl's Since 1851,Moisturizers,48.0,314,4.76,0.7408,96.8,4.1,0.9268,OK
+Advanced Retinol + Ferulic Overnight Texture Renewal Peel,Dr. Dennis Gross Skincare,Treatments,82.0,147,4.74,0.7714,95.9,4.1,0.9275,OK
+Ginzing Vitamin C Eye Cream to Brighten and Depuff,Origins,Eye Care,37.0,965,4.46,0.7462,90.9,4.1,0.8852,OK
+Ultimate Sun Protector Cream SPF 50+ Face Sunscreen,Shiseido,Sunscreen,40.0,605,4.28,0.7575,87.4,4.1,0.8621,OK
+10% Waterless Vitamin C Serum,Farmacy,Treatments,50.0,828,4.43,0.8256,87.8,4.1,0.8851,OK
+Face Cream,Dr. Barbara Sturm,Moisturizers,225.0,810,4.24,0.7368,80.9,4.1,0.8299,OK
+Mini Mandelic Acid + Superfood Unity Exfoliant,Youth To The People,Cleansers,16.0,591,4.67,0.7745,94.1,4.1,0.9162,OK
+Peptide Eye Cream,Dr. Lara Devgan Scientific Beauty,Eye Care,215.0,268,4.82,0.6282,96.3,4.1,0.9086,OK
+Dream Oasis Deep Hydration Serum,Summer Fridays,Treatments,44.0,487,4.74,0.765,93.8,4.1,0.9178,OK
+Mini Face Cream,Dr. Barbara Sturm,Moisturizers,75.0,810,4.24,0.7368,80.9,4.1,0.8299,OK
+Vitamin Enriched Eye Base,Bobbi Brown,Eye Care,58.0,241,4.64,0.7945,90.9,4.1,0.905,OK
+Original Skin Retexturizing Mask with Rose Clay,Origins,Masks,32.0,1766,4.62,0.7547,57.8,4.1,0.7646,WATCH
+Melt Moisturizer with Bakuchiol and Squalane,alpyn beauty,Moisturizers,60.0,465,4.51,0.815,89.5,4.1,0.8951,OK
+Superberry Dream Cleansing Balm,Youth To The People,Cleansers,39.0,628,4.39,0.7691,84.2,4.1,0.8582,OK
+Benefiance Wrinkle Smoothing Day Cream SPF 23,Shiseido,Moisturizers,75.0,202,4.51,0.7447,88.6,4.0,0.8791,OK
+Bye Bye Lines 1.5% Hyaluronic Acid Serum,IT Cosmetics,Treatments,29.0,300,4.4,0.7602,91.7,4.0,0.8874,OK
+Mini The Essence  Skincare Boosting Treatment,Tatcha,Moisturizers,65.0,2483,4.44,0.769,85.5,4.0,0.8667,OK
+Squalane + Copper Peptide Rapid Plumping Serum,Biossance,Treatments,68.0,520,4.47,0.7575,87.5,4.0,0.8741,OK
+Max Clear Invisible Priming Sunscreen Broad Spectrum SPF 45,Peter Thomas Roth,Sunscreen,38.0,276,4.47,0.7866,87.7,4.0,0.8805,OK
+Double Sided Luxe Tan Applicator Mitt,St. Tropez,Self Tanners,9.0,378,4.56,0.7022,90.5,4.0,0.882,OK
+GENIUS Collagen Calming Relief,Algenist,Moisturizers,58.0,125,4.46,0.6849,91.2,4.0,0.8762,OK
+Clear Improvement Pore Clearing Moisturizer with Salicylic Acid,Origins,Moisturizers,40.0,1266,4.27,0.7889,88.2,4.0,0.87,OK
+Noni Night AHA Pore & Resurfacing Serum,KORA Organics,Treatments,74.0,555,4.39,0.7699,90.1,4.0,0.8822,OK
+Clean Skin Gel Cleanser with Prebiotics,SEPHORA COLLECTION,Cleansers,12.0,424,4.62,0.8032,92.2,4.0,0.9105,OK
+Super Rich Repair Moisturizer,Dermalogica,Moisturizers,94.0,225,4.66,0.808,95.1,4.0,0.9254,OK
+The Renewal Oil,La Mer,Moisturizers,270.0,199,4.42,0.7608,82.9,4.0,0.8537,OK
+Advanced Night Repair Eye Concentrate Matrix Synchronized Multi-Recovery Complex,Estée Lauder,Treatments,82.0,1096,4.31,0.7481,89.0,4.0,0.8687,OK
+Retinol Face Stick,Peace Out,Treatments,34.0,274,4.52,0.7809,90.9,4.0,0.8953,OK
+One-Step Gentle Exfoliating Cleanser with Orange Extract,Clarins,Cleansers,39.0,523,4.61,0.7512,14.7,4.0,0.5912,WATCH
+The Essence Skincare Boosting Treatment,Tatcha,Moisturizers,110.0,2483,4.44,0.769,85.5,4.0,0.8667,OK
+Vitamin Mask,SEPHORA COLLECTION,Masks,10.0,201,4.48,0.7417,86.1,4.0,0.8667,OK
+"DayWear Advanced Multi-Protection Anti-Oxidant Moisturizer, Normal/Combination",Estée Lauder,Moisturizers,36.0,298,4.32,0.7381,79.9,4.0,0.8308,WATCH
+Fat Water Hydrating Milky Toner Essence with Hyaluronic Acid + Tamarind,Fenty Skin,Moisturizers,34.0,299,4.64,0.7843,96.0,4.0,0.9238,OK
+Mini Cloud Dew Oil-Free Gel Cream,Summer Fridays,Moisturizers,17.0,700,4.48,0.7765,88.3,3.9,0.8817,OK
+Clarifying Spot Serum with Bija Seed Oil,innisfree,Treatments,18.0,102,4.54,0.7501,94.1,3.9,0.9039,OK
+Yo Detox Charcoal Face & Body Enzyme Scrub,Wishful,Cleansers,39.0,462,4.76,0.7945,97.2,3.9,0.9375,OK
+Magic Cream Moisturizer with Hyaluronic Acid,Charlotte Tilbury,Moisturizers,100.0,3471,4.4,0.769,88.2,3.9,0.8749,OK
+Retinol Youth Renewal Night Cream,Murad,Moisturizers,88.0,334,4.61,0.7638,92.5,3.9,0.9042,OK
+Whipped Greens Oil-Free Foaming Cleanser with Moringa and Papaya,Farmacy,Cleansers,28.0,485,4.57,0.7956,89.3,3.9,0.8947,OK
+Polypeptide-121 Future Cream with Peptides and Ceramides,Youth To The People,Moisturizers,68.0,381,4.45,0.7393,89.8,3.9,0.8788,OK
+Mini GOOPGLOW Microderm Instant Glow Exfoliator,goop,Mini Size,42.0,2128,4.48,0.7742,90.1,3.9,0.8885,OK
+Pure Vitality Skin Renewing Cream,Kiehl's Since 1851,Moisturizers,75.0,206,4.31,0.7876,87.9,3.9,0.8712,OK
+GOOPGLOW Microderm Instant Glow Exfoliator,goop,Cleansers,125.0,2128,4.48,0.7742,90.1,3.9,0.8885,OK
+Ultimate Sun Protector Lotion SPF 50+ Sunscreen,Shiseido,Sunscreen,50.0,2937,4.49,0.7978,92.1,3.9,0.9009,OK
+Cloud Dew Gel Cream Moisturizer,Summer Fridays,Moisturizers,45.0,700,4.48,0.7765,88.3,3.9,0.8817,OK
+Sugar Lip Balm Hydrating Treatment,fresh,Lip Balms & Treatments,25.0,1149,4.53,0.8417,90.1,3.9,0.903,OK
+Double Serum Firming & Smoothing Anti-Aging Concentrate,Clarins,Treatments,90.0,2606,4.25,0.7604,77.4,3.9,0.8207,WATCH
+Vital-E Antioxidant Recovery Eye Cream,Peter Thomas Roth,Eye Care,55.0,599,4.33,0.7409,87.3,3.8,0.8617,OK
+Multi-Active Toner,Dermalogica,Cleansers,43.0,317,4.4,0.7683,88.6,3.8,0.8766,OK
+Pineapple Enzyme Pore Clearing Cleanser,Josie Maran,Cleansers,29.0,678,4.24,0.7704,86.3,3.8,0.8578,OK
+Ultra Glow Toner with Vitamins C + E,SEPHORA COLLECTION,Moisturizers,14.0,104,4.59,0.8178,91.3,3.8,0.9077,OK
+CLOUD JELLY Plumping Hydration Serum,Herbivore,Treatments,50.0,209,4.39,0.8066,84.7,3.8,0.8666,OK
+Calming Herbal Repair Overnight Recovery Balm for Skin Barrier Support,Mount Lai,Treatments,60.0,160,4.09,0.7713,83.8,3.8,0.8379,OK
+Cactus Water Cleansing Lactic Acid Toner,Freck Beauty,Cleansers,32.0,208,4.53,0.7606,92.3,3.8,0.8979,OK
+GOOPGLOW Morning Skin Superpowder,goop,Wellness,60.0,1110,3.99,0.7811,76.1,3.8,0.8031,OK
+Mini Multi-Active Toner,Dermalogica,Mini Size,13.0,317,4.4,0.7683,88.6,3.8,0.8766,OK
+Ultracalming Serum Concentrate,Dermalogica,Treatments,66.0,156,4.31,0.7377,85.9,3.8,0.8544,OK
+Mini GOOPGLOW Morning Skin Superpowder,goop,Mini Size,12.0,1110,3.99,0.7811,76.1,3.8,0.8031,OK
+Cream Skin Mist,LANEIGE,Moisturizers,27.0,292,4.58,0.7942,89.0,3.8,0.8936,OK
+RESIST Advanced Replenishing Toner with Hyaluronic Acid,Paula's Choice,Cleansers,26.0,238,4.73,0.7516,95.0,3.8,0.9196,OK
+Super Multi-Corrective Anti-Aging Eye Cream,Kiehl's Since 1851,Eye Care,60.0,582,4.57,0.735,93.1,3.8,0.899,OK
+Liquid Gold Exfoliating Treatment with Glycolic acid,Alpha-H,Treatments,56.0,910,4.51,0.7552,92.1,3.8,0.8947,OK
+Dynamic Skin Retinol Serum,Dermalogica,Treatments,92.0,344,4.81,0.7999,98.0,3.8,0.9449,OK
+Banana Bright+ Vitamin CC Eye Sticks,OLEHENRIKSEN,Eye Care,34.0,300,4.53,0.8202,89.3,3.7,0.8963,OK
+Rose Petal-Soft Deep Hydration Lip Balm,fresh,Lip Balms & Treatments,25.0,699,4.39,0.7813,86.3,3.7,0.8686,OK
+Ferulic Brew Facial Treatment Essence with Lactic Acid,Kiehl's Since 1851,Moisturizers,60.0,514,4.56,0.7804,91.4,3.7,0.8999,OK
+Vegan Makeup Remover and Cleansing Brush,SEPHORA COLLECTION,High Tech Tools,14.0,241,4.37,0.776,85.9,3.7,0.8647,OK
+Great Skin Instant Glow Serum with Niacinamide and Hyaluronic Acid,MERIT,Treatments,38.0,488,4.64,0.789,92.8,3.7,0.9119,OK
+GOOPGENES All-In-One Nourishing Face Cream,goop,Moisturizers,98.0,738,4.28,0.7718,85.2,3.7,0.8563,OK
+Get Even Sun Milk SPF 33,Josie Maran,Sunscreen,46.0,300,4.7,0.8171,95.0,3.7,0.9292,OK
+Cold Plunge Pore Remedy Moisturizer with BHA/LHA,OLEHENRIKSEN,Moisturizers,51.0,1035,4.39,0.7987,92.1,3.7,0.8952,OK
+Hydro Ungrip Makeup Removing Cleansing Balm,MILK MAKEUP,Cleansers,36.0,164,4.68,0.8209,93.9,3.7,0.9245,OK
+Water Drench Hyaluronic Glow Serum,Peter Thomas Roth,Treatments,72.0,484,4.43,0.7858,89.5,3.7,0.885,OK
+Daily Essentials Travel Set,The Outset,Value & Gift Sets,50.0,108,4.57,0.8304,86.1,3.7,0.8881,OK
+Fruit Babies Bestsellers Kit,Glow Recipe,Value & Gift Sets,34.0,190,4.64,0.8223,94.2,3.7,0.923,OK
+Vitamin C & Bearberry Instant Glow Serum,alpyn beauty,Treatments,59.0,167,4.5,0.8394,88.0,3.6,0.8929,OK
+Radian-C Cream with Vitamin C,LANEIGE,Moisturizers,35.0,632,4.49,0.8103,88.4,3.6,0.8889,OK
+GENIUS Liquid Skin Resurfacing 2% BHA Toner,Algenist,Cleansers,40.0,165,4.79,0.8073,98.8,3.6,0.9486,OK
+BioLumin-C Vitamin C Serum,Dermalogica,Treatments,95.0,617,4.57,0.8062,93.8,3.6,0.9147,OK
+Set The Stage Hydrating Primer Serum,LAWLESS,Treatments,32.0,251,4.6,0.8658,92.4,3.6,0.9211,OK
+Nourishing Squalane Daily Moisturizer,The Outset,Moisturizers,44.0,112,4.59,0.7723,90.2,3.6,0.8952,OK
+Cicapair Tiger Grass Calming Gel Cream,Dr. Jart+,Moisturizers,49.0,641,4.5,0.7819,90.6,3.6,0.8929,OK
+The Light Cream,Augustinus Bader,Moisturizers,180.0,195,4.32,0.812,89.2,3.6,0.8817,OK
+PRO ACV Healthy Gut Vegan Gummies with 100% Organic Apple Cider Vinegar and Probiotics,HUM Nutrition,Wellness,26.0,168,4.66,0.8349,96.4,3.6,0.9356,OK
+Daily Superfoliant Exfoliator,Dermalogica,Cleansers,65.0,309,4.56,0.7803,93.9,3.6,0.9096,OK
+The Cream Cleansing Gel with TFC8 Gentle Cleanser,Augustinus Bader,Cleansers,70.0,661,4.48,0.8157,91.1,3.5,0.8997,OK
+Vinopure Purifying Clay Mask,Caudalie,Masks,42.0,144,4.63,0.8226,94.4,3.5,0.9237,OK
+Targeted Dark Spots Serum with Enzymes,SEPHORA COLLECTION,Treatments,20.0,318,4.64,0.764,96.2,3.5,0.9214,OK
+Rose Deep Hydration Sleeping Mask,fresh,Masks,29.0,1231,4.46,0.8191,92.3,3.5,0.9036,OK
+Rose & Hyaluronic Acid Deep Hydration Moisturizer,fresh,Moisturizers,46.0,1809,4.59,0.8228,91.2,3.5,0.9078,OK
+Hydro Biotic Recovery Sleeping Mask,Dr. Brandt Skincare,Masks,54.0,1186,4.58,0.787,93.3,3.5,0.9094,OK
+Urban Environment Oil-Free Mineral Sunscreen Broad-Spectrum SPF 42,Shiseido,Sunscreen,38.0,485,4.31,0.7575,87.6,3.5,0.8648,OK
+Volcanic Clusters Pore Clearing Toner,innisfree,Cleansers,22.0,143,4.57,0.8354,89.5,3.5,0.9021,OK
+Advanced Génifique Wrinkle & Dark Circle Eye Cream,Lancôme,Eye Care,79.0,708,4.61,0.7766,94.2,3.5,0.9134,OK
+Smart Clinical Repair Wrinkle Correcting Serum,CLINIQUE,Treatments,71.0,1670,4.19,0.7446,89.5,3.5,0.863,OK
+Active Moist Moisturizer,Dermalogica,Moisturizers,74.0,428,4.6,0.7808,92.1,3.5,0.905,OK
+GinZing Ultra-Hydrating Energy-Boosting Cream,Origins,Moisturizers,36.0,3136,4.4,0.7889,28.4,3.5,0.6393,WATCH
+Advanced Retinol + Ferulic Intense Wrinkle Cream,Dr. Dennis Gross Skincare,Moisturizers,77.0,141,4.7,0.7918,93.6,3.5,0.919,OK
+Smart Clinical Repair Wrinkle Correcting Eye Cream,CLINIQUE,Eye Care,57.0,2017,4.24,0.7307,91.0,3.4,0.8695,OK
+Tonique Confort Re-Hydrating Comforting Toner with Acacia Honey,Lancôme,Cleansers,39.0,1578,4.56,0.788,76.7,3.4,0.8423,WATCH
+Dreamskin Skin Perfector,Dior,Moisturizers,130.0,1457,4.34,0.8227,85.7,3.4,0.8705,OK
+Blue Algae Vitamin C Skinclarity Brightening Serum,Algenist,Treatments,72.0,207,4.61,0.8579,91.8,3.4,0.9178,OK
+Mini Daily Microfoliant Exfoliator,Dermalogica,Mini Size,18.0,4599,4.7,0.7994,95.1,3.4,0.9264,OK
+Resveratrol Lift Instant Firming Retinol Alternative Serum,Caudalie,Treatments,84.0,358,4.58,0.7857,92.2,3.4,0.9048,OK
+Daily Microfoliant Exfoliator,Dermalogica,Cleansers,65.0,4599,4.7,0.7994,95.1,3.4,0.9264,OK
+Premier Cru Skin Barrier Rich Moisturizer with Bio-Ceramides,Caudalie,Moisturizers,129.0,176,4.57,0.8323,91.5,3.4,0.9099,OK
++Retinol Vitamin C Moisturizer,Kate Somerville,Moisturizers,110.0,177,4.29,0.8037,86.4,3.4,0.8673,OK
+Squalane + Amino Aloe Gentle Pore-Minimizing Cleanser,Biossance,Cleansers,28.0,529,4.41,0.7855,89.8,3.4,0.8847,OK
+Targeted Anti-Aging Bakuchiol Serum,SEPHORA COLLECTION,Treatments,20.0,206,4.6,0.8006,94.2,3.4,0.9166,OK
+Argan Bright Skin Vitamin C Serum,Josie Maran,Treatments,66.0,531,4.4,0.7901,90.2,3.4,0.8863,OK
+Biolumin-C Vitamin C Eye Serum,Dermalogica,Eye Care,74.0,945,4.52,0.7801,93.0,3.4,0.9038,OK
+Urban Environment Vita-Clear Sunscreen SPF 42,Shiseido,Sunscreen,38.0,600,4.57,0.8148,95.3,3.3,0.9217,OK
+Watermelon Glow Hyaluronic Clay Pore-Tight Facial Mask,Glow Recipe,Masks,40.0,982,4.59,0.8089,93.9,3.3,0.9166,OK
+Rénergie H.C.F. Triple Serum: For Plumping & Anti-Aging,Lancôme,Treatments,140.0,603,4.44,0.8136,91.2,3.3,0.8972,OK
+Dewtopia 20% Acid Night Treatment,OLEHENRIKSEN,Treatments,60.0,1466,4.56,0.7897,93.8,3.3,0.911,OK
+Cloud Cushion Plush Moisturizer with Ceramides + Peptides,EADEM,Moisturizers,58.0,151,4.75,0.8184,96.0,3.3,0.9366,OK
+Active Algae Lightweight Moisturizer,KORA Organics,Moisturizers,48.0,209,4.68,0.8417,91.9,3.3,0.9197,OK
+"KateCeuticals Resurfacing Overnight Peel with Glycolic Acid, Retinol & Niacinamide",Kate Somerville,Treatments,98.0,122,4.74,0.8194,95.1,3.3,0.9323,OK
+Evercalm Redness Relief Serum,REN Clean Skincare,Treatments,60.0,271,4.4,0.7307,89.7,3.3,0.8739,OK
+Nudescreen Daily Mineral Veil SPF 30,NUDESTIX,Moisturizers,36.0,153,4.06,0.8001,83.7,3.3,0.8408,OK
+Resurfacing Peel Mask,SEPHORA COLLECTION,Treatments,18.0,243,4.81,0.7574,97.5,3.3,0.9358,OK
+10% Azelaic Acid Booster,Paula's Choice,Treatments,39.0,215,4.75,0.7109,95.8,3.3,0.9173,OK
+YUZU-C Glow-On Shot Serum,WASO,Treatments,45.0,361,4.42,0.7629,89.8,3.3,0.8812,OK
+Moisture Surge 100H Auto-Replenishing Hydrator Moisturizer,CLINIQUE,Moisturizers,82.0,1730,4.25,0.7415,87.7,3.3,0.859,OK
+5 Stars Retinol + Niacinamide Eye Serum,Sunday Riley,Eye Care,65.0,1721,4.64,0.8248,94.2,3.3,0.9235,OK
+Volcanic AHA Pore Clearing Clay Mask,innisfree,Masks,16.0,1200,4.62,0.7746,92.8,3.3,0.9075,OK
+Precleanse Cleansing Oil,Dermalogica,Cleansers,49.0,1229,4.54,0.7907,91.4,3.3,0.9004,OK
+Mini Precleanse Cleansing Oil,Dermalogica,Mini Size,15.0,1229,4.54,0.7907,91.4,3.3,0.9004,OK
+Triple Algae Eye Renewal Balm Eye Cream,Algenist,Eye Care,68.0,1142,4.53,0.7362,93.9,3.2,0.9,OK
+GENIUS Sleeping Collagen Moisturizer,Algenist,Moisturizers,98.0,1319,4.54,0.7883,92.0,3.2,0.9024,OK
+Wild Huckleberry 8-Acid Polishing Peel Mask,alpyn beauty,Masks,56.0,349,4.68,0.841,94.0,3.2,0.9282,OK
+Concentrated Ginseng Renewing Cream,Sulwhasoo,Moisturizers,260.0,343,4.48,0.7934,93.0,3.2,0.9032,OK
+Brightening Treatment Drops Triple Vitamin C Serum,TULA Skincare,Treatments,56.0,277,4.25,0.7795,85.9,3.2,0.8579,OK
+Brightening Saffron Serum - Radiant Rani,RANAVAT,Treatments,135.0,216,4.78,0.791,94.0,3.2,0.9257,OK
+Mini Gentle Cleansing Foam Hydrating Makeup Remover,Sulwhasoo,Mini Size,12.0,278,4.56,0.7845,92.1,3.2,0.9032,OK
+Gentle Cleansing Foam Hydrating Makeup Remover,Sulwhasoo,Cleansers,38.0,278,4.56,0.7845,92.1,3.2,0.9032,OK
+Even Smoother Glycolic Retinol Resurfacing Peel Pads,Peter Thomas Roth,Treatments,52.0,441,4.6,0.7595,95.0,3.2,0.913,OK
+AHA/BHA/Retinoid Daily Clarifying Peel,Murad,Treatments,44.0,341,4.74,0.8032,97.1,3.2,0.9375,OK
+The Serum Stick: Treatment & Touch Up Balm,Tatcha,Treatments,49.0,1348,4.38,0.7882,88.4,3.2,0.8777,OK
+Benefiance Wrinkle Smoothing Cream,Shiseido,Moisturizers,75.0,160,4.59,0.7532,93.8,3.1,0.9064,OK
+Peptide 21 Wrinkle Resist Moisturizer,Peter Thomas Roth,Moisturizers,95.0,508,4.55,0.7824,93.1,3.1,0.9064,OK
+Kombucha 2-in-1 No-Rinse Cleanser & Prebiotic Treatment,fresh,Cleansers,44.0,716,4.43,0.8037,92.5,3.1,0.8996,OK
+YUZU-C Beauty Sleeping Mask,WASO,Masks,38.0,484,4.6,0.7807,94.4,3.1,0.914,OK
+Absolue Revitalizing Eye Cream,Lancôme,Eye Care,135.0,128,4.61,0.7683,92.2,3.1,0.9038,OK
+The Neck Serum - With 5 Peptides | 9% Peptide Blend,Nécessaire,Moisturizers,60.0,226,4.69,0.8127,94.7,3.1,0.9266,OK
+Midnight Ritual Retinol Renewal Serum,Summer Fridays,Treatments,69.0,229,4.75,0.8179,94.8,3.1,0.9316,OK
+V-Facial Instant Depuffing Face Mask,Clarins,Masks,67.0,159,4.75,0.7936,95.6,3.1,0.9309,OK
+10% Niacinamide Booster,Paula's Choice,Treatments,49.0,194,4.75,0.7854,96.4,3.1,0.9326,OK
+Santorini Grape Poreless Skin Cream,KORRES,Moisturizers,38.5,3167,4.4,0.7594,91.9,3.1,0.8884,OK
+ExfoliKate Glow Moisturizer,Kate Somerville,Moisturizers,76.0,1041,4.51,0.7844,93.0,3.1,0.9037,OK
+The POREfessional Get Unblocked Makeup-Removing Cleansing Oil,Benefit Cosmetics,Cleansers,39.0,477,4.67,0.8183,95.0,3.1,0.9276,OK
+Acne Clearing Skin Wash Cleanser,Dermalogica,Cleansers,42.0,541,4.63,0.8088,95.9,3.1,0.9272,OK
+Hydro Masque Exfoliant,Dermalogica,Cleansers,64.0,320,4.44,0.7898,89.4,3.1,0.8858,OK
+Greek Yoghurt Nourishing Probiotic Gel-Cream,KORRES,Moisturizers,38.5,3112,4.35,0.7511,89.8,3.1,0.8748,OK
+Wake Up Honey Eye Cream with Brightening Vitamin C,Farmacy,Eye Care,45.0,572,4.7,0.8664,95.3,3.1,0.939,OK
+Pore Perfecting Liquid Exfoliator with 2% BHA + Borage,alpyn beauty,Cleansers,39.0,100,4.93,0.8197,100.0,3.0,0.9641,OK
+RESIST Perfectly Balanced Foaming Cleanser,Paula's Choice,Cleansers,22.0,200,4.73,0.8102,94.5,3.0,0.9279,OK
+Urban Environment Fresh-Moisture Sunscreen Broad-Spectrum SPF 42,Shiseido,Sunscreen,38.0,1190,4.63,0.8123,95.5,3.0,0.9263,OK
+Ceramidin Skin Barrier Moisturizing Mask,Dr. Jart+,Masks,9.0,366,4.68,0.7566,96.4,3.0,0.9234,OK
+Facial Cleansing Tool,SEPHORA COLLECTION,High Tech Tools,8.0,100,4.73,0.7744,94.0,3.0,0.9196,OK
+SHIKULIME Gel-to-Oil Cleanser,WASO,Cleansers,28.0,506,4.42,0.7731,90.5,3.0,0.8864,OK
+Honey Halo Moisturizer Jumbo,Farmacy,Moisturizers,74.0,100,4.73,0.7362,95.0,3.0,0.917,OK
+Clearly Clean Makeup Removing Cleansing Balm,Farmacy,Cleansers,36.0,625,4.64,0.8501,90.7,3.0,0.9144,OK
+YUZU-C Eye Awakening Essence,WASO,Eye Care,30.0,368,4.43,0.7394,91.6,3.0,0.8852,OK
+Greek Yoghurt Foaming Cream Cleanser,KORRES,Cleansers,28.0,4180,4.57,0.8039,83.9,3.0,0.8743,OK
+SATOCANE Pore Purifying Scrub Mask,WASO,Masks,38.0,494,4.57,0.7739,93.3,3.0,0.907,OK
+Watch Ya Tone 5% Niacinamide Dark Spot Serum with Vitamin C,Fenty Skin,Treatments,42.0,199,4.58,0.7464,93.5,3.0,0.9034,OK
+Green Tea Hyaluronic Acid Hydrating Serum,innisfree,Treatments,30.0,400,4.6,0.7846,92.5,3.0,0.9073,OK
+Cold Plunge Pore Mask,OLEHENRIKSEN,Masks,41.0,1521,4.53,0.8085,92.4,3.0,0.9071,OK
+Milk-Peel Gentle Exfoliating Toner,Kiehl's Since 1851,Cleansers,60.0,305,4.68,0.8007,94.1,3.0,0.9216,OK
+Pro Collagen Multi-Peptide Booster,Paula's Choice,Treatments,58.0,270,4.71,0.8044,96.7,3.0,0.9341,OK
+Protect + Glow Daily Sunscreen Gel Broad Spectrum SPF 30,TULA Skincare,Sunscreen,38.0,197,4.43,0.7937,88.3,3.0,0.8813,OK
+Strawberry BHA Pore-Smooth Blur Drops,Glow Recipe,Treatments,32.0,552,4.66,0.8117,95.7,2.9,0.9285,OK
+N°39 Facial Sunscreen Mist with SPF 39,HABIT,Sunscreen,30.0,137,4.71,0.8265,94.2,2.9,0.928,OK
+Skin Smoothing Cream Moisturizer,Dermalogica,Moisturizers,74.0,475,4.61,0.7713,94.1,2.9,0.9118,OK
+PHAT Glow Facial Mask,OLEHENRIKSEN,Masks,52.0,1776,4.39,0.8247,90.7,2.9,0.8938,OK
+Peptide 21 Wrinkle Resist Serum,Peter Thomas Roth,Treatments,125.0,560,4.45,0.7837,88.6,2.9,0.8818,OK
+Cryo-Recovery Depuffing Eye Serum,Charlotte Tilbury,Eye Care,70.0,511,4.32,0.792,84.5,2.9,0.8594,OK
+Confidence in a Gel Lotion,IT Cosmetics,Moisturizers,45.0,448,4.58,0.7456,90.8,2.9,0.8928,OK
+Ultimune Power Infusing Anti-Aging Serum,Shiseido,Treatments,75.0,871,4.55,0.7929,92.1,2.9,0.9039,OK
+Balancing Crème Cleanser - Luminous Ceremony,RANAVAT,Cleansers,45.0,173,4.47,0.6964,90.8,2.9,0.8766,OK
+Cherry Treat Conditioning + Strengthening Lip Oil,Fenty Skin,Lip Balms & Treatments,24.0,549,4.45,0.7834,86.2,2.9,0.8722,OK
+Aqua Bomb Cleansing Balm,belif,Cleansers,38.0,1331,4.46,0.7997,91.6,2.9,0.8975,OK
+Hydrabarrier Nourishing Face Oil,OLEHENRIKSEN,Moisturizers,58.0,206,4.82,0.8331,96.6,2.9,0.9457,OK
+Resveratrol Lift Retinol Alternative Firming Night Moisturizer,Caudalie,Moisturizers,72.0,172,4.41,0.7744,89.0,2.9,0.8793,OK
+SHIKULIME Mega Hydrating Moisturizer,WASO,Moisturizers,36.0,540,4.66,0.7626,95.7,2.8,0.9199,OK
+Vinoclean Gentle Cleansing Almond Milk,Caudalie,Cleansers,30.0,176,4.35,0.8582,87.5,2.8,0.8847,OK
+Dew Dream- Hydrating Makeup Removing Cleansing Balm with Tiger Grass,EADEM,Cleansers,30.0,109,4.69,0.8262,97.2,2.8,0.9391,OK
+Milky Mushroom Gentle Cleansing Oil Makeup Remover,KORA Organics,Cleansers,44.0,459,4.46,0.8483,88.9,2.8,0.8952,OK
+Vitamin C Triple Exfoliating Facial,Murad,Treatments,85.0,362,4.73,0.8052,96.4,2.8,0.9348,OK
+Resurfacing Saffron AHA Masque - Radiant Rani,RANAVAT,Masks,75.0,181,4.63,0.7642,92.8,2.8,0.9069,OK
+Correct & Protect Broad Spectrum SPF 45| PA++++,Murad,Sunscreen,69.0,467,4.74,0.8294,96.4,2.8,0.9391,OK
+Pore Remedy 5% Multi-Acid Radiance Peel,Dr. Jart+,Treatments,40.0,108,4.57,0.7553,98.1,2.8,0.9232,OK
+Wild Nettle & Niacinamide Instant Firming Serum,alpyn beauty,Treatments,58.0,288,4.76,0.8517,95.8,2.8,0.9422,OK
+Wrinkle Blur Bakuchiol Eye Gel Crème,OLEHENRIKSEN,Eye Care,52.0,886,4.39,0.8069,90.2,2.8,0.889,OK
+Turmeric Glow Brightening Moisturizer,KORA Organics,Moisturizers,62.0,1018,4.5,0.8443,91.4,2.8,0.9069,OK
+The Dewy Serum Resurfacing and Plumping Treatment,Tatcha,Treatments,89.0,1391,4.64,0.8283,94.1,2.7,0.9236,OK
+Evercalm Barrier Support Face Oil,REN Clean Skincare,Moisturizers,60.0,262,4.84,0.8389,98.5,2.7,0.9557,OK
+Sugar Recovery Lip Mask Advanced Therapy,fresh,Lip Balms & Treatments,28.0,600,4.69,0.827,94.5,2.7,0.9286,OK
+Bakuchiol Hydrating Cleanser,Dr. Zenovia Skincare,Cleansers,42.0,301,4.5,0.7794,92.0,2.7,0.8981,OK
+Tan Tonic Glow Drops,St. Tropez,Self Tanners,42.0,1053,4.67,0.8377,93.9,2.7,0.9266,OK
+Essential Comfort Firming Cream,Sulwhasoo,Moisturizers,120.0,257,4.5,0.7849,88.3,2.7,0.8845,OK
+PLANTSCRIPTION Multi-powered Anti-Aging Peptide Serum,Origins,Treatments,61.0,226,4.44,0.7948,89.8,2.7,0.8883,OK
+Vital-E Antioxidant Recovery Cream,Peter Thomas Roth,Moisturizers,75.0,676,4.41,0.7998,90.4,2.7,0.8897,OK
+Retinol Remix 1% Retinol Treatment With Peptide & Tranexamic Acid,iNNBEAUTY PROJECT,Treatments,48.0,225,4.76,0.8212,96.4,2.7,0.9392,OK
+Mini First Care Activating Serum,Sulwhasoo,Mini Size,25.0,977,4.57,0.8251,91.8,2.7,0.9098,OK
+Retinol Youth Renewal Eye Masks,Murad,Eye Care,42.0,368,4.62,0.8131,93.8,2.7,0.9185,OK
+Anti-Aging First Care Activating Serum,Sulwhasoo,Treatments,89.0,977,4.57,0.8251,91.8,2.7,0.9098,OK
+Confidence in a Cream Anti-Aging Hydrating Moisturizer,IT Cosmetics,Moisturizers,20.0,2487,4.62,0.81,94.9,2.7,0.9225,OK
+Squalane + Vitamin C Rose Brightening Moisturizer,Biossance,Moisturizers,56.0,335,4.41,0.8107,91.9,2.7,0.8981,OK
+Mini Essential Comfort Firming Cream,Sulwhasoo,Moisturizers,28.0,257,4.5,0.7849,88.3,2.7,0.8845,OK
+Inflam-Aging Night Repair Treatment,Dr. Zenovia Skincare,Treatments,72.0,260,4.48,0.7204,94.6,2.7,0.8968,OK
+Santorini Grape Velvet Skin Drink,KORRES,Moisturizers,50.0,430,4.59,0.7984,93.7,2.6,0.914,OK
+Cookies N Clean Whipped Clay Pore Detox Face Mask with Salicylic Acid + Charcoal,Fenty Skin,Masks,35.0,392,4.68,0.825,95.7,2.6,0.9323,OK
+Advanced Retinol Night Repair Treatment,Dr. Zenovia Skincare,Treatments,72.0,267,4.5,0.7624,92.5,2.6,0.8973,OK
+Water Bank Blue Hyaluronic Serum,LANEIGE,Treatments,45.0,311,4.74,0.8199,94.5,2.6,0.9301,OK
+Targeted Pores Serum with BHA + PHA,SEPHORA COLLECTION,Treatments,20.0,340,4.69,0.7941,95.9,2.6,0.9278,OK
+Watermelon Glow AHA Night Treatment,Glow Recipe,Treatments,40.0,733,4.68,0.8364,93.9,2.6,0.9269,OK
+First Care Activating Serum 25th Anniversary Limited Edition,Sulwhasoo,Treatments,110.0,959,4.58,0.8276,92.2,2.6,0.9125,OK
+Gradual Tan Watermelon Daily Firming Lotion,St. Tropez,Self Tanners,29.0,388,4.32,0.8056,89.4,2.6,0.8815,OK
+Capture Totale Super Potent Eye Serum,Dior,Eye Care,85.0,1092,4.38,0.8237,89.5,2.6,0.8885,OK
+The True Cream - Aqua Bomb Sunscreen Broad Spectrum SPF 50,belif,Sunscreen,38.0,423,4.52,0.7666,94.6,2.6,0.9077,OK
+Dynamic Skin Recovery SPF50 Moisturizer,Dermalogica,Sunscreen,79.0,266,4.81,0.8428,97.7,2.6,0.9515,OK
+Cleansing Serum,Shani Darden Skin Care,Cleansers,38.0,340,4.59,0.7976,92.4,2.6,0.9086,OK
+Awaken Peptide Depuffing Eye Gel,Dermalogica,Eye Care,59.0,273,4.7,0.8009,95.2,2.6,0.9276,OK
+Vitamin Enriched Face Base Priming Moisturizer,Bobbi Brown,Moisturizers,66.0,3438,4.61,0.8182,83.0,2.6,0.8754,OK
+Radian-C Brightening Treatment Essence,LANEIGE,Moisturizers,39.0,203,4.7,0.8564,99.5,2.5,0.9541,OK
+Clear Sunscreen Stick SPF 50+,Shiseido,Sunscreen,30.0,1529,4.66,0.8259,95.2,2.5,0.9287,OK
+Signature Moisturizer,ROSE Ingleton MD,Moisturizers,85.0,120,4.7,0.85,94.2,2.5,0.9317,OK
+La Mousse OFF/ON Foaming Face Cleanser,Dior,Cleansers,50.0,561,4.42,0.8278,89.3,2.5,0.891,OK
+Lemonade Smoothing Scrub,OLEHENRIKSEN,Cleansers,35.0,1277,4.58,0.8273,93.8,2.5,0.9188,OK
+Abeille Royale Advanced Youth Watery Oil,GUERLAIN,Moisturizers,145.0,1235,4.34,0.8417,88.3,2.5,0.8843,OK
+Abeille Royale Anti-Aging Fortifying Lotion Toner,GUERLAIN,Cleansers,85.0,834,4.26,0.8054,87.9,2.5,0.871,OK
+Premier Cru Dark Circle Correcting Eye Cream,Caudalie,Eye Care,85.0,404,4.61,0.8331,94.6,2.5,0.9249,OK
+GinZing Refreshing Scrub Cleanser,Origins,Cleansers,27.0,1625,4.48,0.8346,27.1,2.5,0.6468,WATCH
+Rose & Squalane Deep Hydration Oil-Infused Serum,fresh,Treatments,60.0,979,4.58,0.812,93.4,2.5,0.9146,OK
+Glow Lip Pop Lip Balm,Glow Recipe,Lip Balms & Treatments,22.0,1049,4.57,0.871,91.6,2.5,0.9173,OK
+Mini Abeille Royale Advanced Youth Watery Oil,GUERLAIN,Mini Size,55.0,1235,4.34,0.8417,88.3,2.5,0.8843,OK
+Bye Bye Makeup 3-in-1 Makeup Melting Cleansing Balm,IT Cosmetics,Cleansers,42.0,359,4.67,0.8277,93.6,2.5,0.9238,OK
+Vinosource-Hydra Moisturizing Mask,Caudalie,Masks,42.0,161,4.76,0.834,96.3,2.5,0.9413,OK
+Capture Totale Super Potent Rich Cream,Dior,Moisturizers,130.0,678,4.55,0.8474,94.2,2.4,0.9219,OK
+Eye Recharge + Replenish Pro-Ferm Overnight Eye Cream with Bakuchiol and Peptides,TULA Skincare,Eye Care,56.0,127,4.52,0.7753,92.9,2.4,0.9023,OK
+Premier Cru Anti-Aging Serum with Niacinamide and Hyaluronic Acid,Caudalie,Treatments,139.0,212,4.75,0.8494,98.1,2.4,0.9505,OK
+Green Tea Hyaluronic Acid Hydrating Moisturizer,innisfree,Moisturizers,29.0,500,4.76,0.8196,96.8,2.4,0.9404,OK
+Radiance Resurfacing Foam,Dr. Brandt Skincare,Treatments,72.0,296,4.46,0.8476,93.6,2.4,0.9139,OK
+Bright Start Retinol Alternative Brightening Eye Cream,ILIA,Eye Care,46.0,460,4.39,0.8258,89.6,2.4,0.8897,OK
+Essential Energy Hydrating Day Cream Broad Spectrum SPF 20,Shiseido,Moisturizers,50.0,926,4.55,0.8137,94.2,2.4,0.9161,OK
+Daily Dose Bioretinol + Mineral SPF 40 with Bakuchiol,Supergoop!,Treatments,46.0,370,4.73,0.8443,97.0,2.4,0.944,OK
+Creamy Bubbling Cleanser with Vitamin C & AHAs,alpyn beauty,Cleansers,36.0,167,4.38,0.8206,85.0,2.4,0.8702,OK
+Smart Clinical Repair Wrinkle Correcting Cream,CLINIQUE,Moisturizers,68.0,1900,4.18,0.7623,89.3,2.4,0.8643,OK
+Peptide 21 Amino Acid Exfoliating Peel Pads,Peter Thomas Roth,Treatments,55.0,546,4.64,0.7842,95.2,2.4,0.921,OK
+Midnight  Recovery Omega-Rich Cloud Cream,Kiehl's Since 1851,Moisturizers,60.0,300,4.51,0.8099,90.0,2.3,0.8963,OK
+Cica Recover & Repair Multi-Use Balm,Dior,Moisturizers,60.0,611,4.64,0.8162,94.8,2.3,0.9245,OK
+Skinlongevity Long Life Herb Anti-Aging Face Serum,bareMinerals,Treatments,65.0,3727,4.43,0.7774,93.1,2.3,0.8982,OK
+Smoothing Facial Polish - Imperial Glow,RANAVAT,Cleansers,45.0,176,4.64,0.7494,95.5,2.3,0.9152,OK
+Sunshine Vitamin C + Squalane Face Oil,MILK MAKEUP,Moisturizers,39.0,967,4.37,0.8365,90.1,2.3,0.8924,OK
+Super Nova 5% THD Vitamin C + Caffeine Brightening Eye Cream,Herbivore,Eye Care,48.0,176,4.61,0.7938,94.3,2.3,0.917,OK
+Take The Day Off Charcoal Cleansing Balm Makeup Remover,CLINIQUE,Cleansers,38.0,259,4.55,0.8243,94.6,2.3,0.9196,OK
+The POREfessional Tight ’n Toned Pore-Refining AHA+PHA Toner,Benefit Cosmetics,Cleansers,34.0,700,4.64,0.8321,94.6,2.3,0.9265,OK
+The Texture Tonic AHA Liquid Exfoliating Treatment,Tatcha,Treatments,62.0,219,4.65,0.8326,93.6,2.3,0.9232,OK
+Facial Sculpting Wand,Shani Darden Skin Care,High Tech Tools,399.0,130,4.55,0.8025,90.0,2.3,0.8971,OK
+Glowscreen Body Sunscreen SPF 40 PA+++,Supergoop!,Sunscreen,42.0,262,4.44,0.8292,87.8,2.3,0.8862,OK
+Water Bank Blue Hyaluronic Eye Cream,LANEIGE,Eye Care,43.0,131,4.53,0.7966,91.6,2.3,0.9017,OK
+Water Drench Hyaluronic Cloud Rich Barrier Moisturizer,Peter Thomas Roth,Moisturizers,58.0,222,4.75,0.8242,95.5,2.3,0.9357,OK
+Scar Gel Treatment,Dr. Zenovia Skincare,Treatments,48.0,137,4.33,0.6426,89.1,2.2,0.8517,OK
+Hydra Zen Glow Liquid Lightweight Moisturizer with Hyaluronic Acid,Lancôme,Moisturizers,54.0,1511,4.41,0.7963,91.4,2.2,0.8932,OK
+Clean Pro Rose Quartz,PMD,High Tech Tools,179.0,136,4.46,0.8418,87.5,2.2,0.8883,OK
+Brighten. Tighten. Hydrate. 3-Piece Set,JLo Beauty,Value & Gift Sets,64.0,134,4.28,0.8107,90.3,2.2,0.8833,OK
+Clear Improvement Charcoal Honey Mask to Purify and Nourish,Origins,Masks,37.0,1074,4.65,0.8339,95.0,2.2,0.9287,OK
+Daily Glycolic Cleanser,Dermalogica,Cleansers,37.0,357,4.78,0.8348,98.0,2.2,0.9498,OK
+Cicapair Tiger Grass Calming Mist,Dr. Jart+,Moisturizers,25.0,551,4.43,0.8299,90.2,2.2,0.8953,OK
+Mini Skin Resolution Clarifying Acid Toner,ROSE INC,Cleansers,15.0,184,4.68,0.8238,93.5,2.2,0.9234,OK
+10% Niacinamide Night Mask,Farmacy,Masks,44.0,906,4.68,0.8453,94.9,2.2,0.9325,OK
+Skin Resolution Clean Exfoliating Acid Toner,ROSE INC,Cleansers,32.0,184,4.68,0.8238,93.5,2.2,0.9234,OK
+Benefiance Wrinkle Smoothing Retinol Serum,Shiseido,Treatments,75.0,937,4.58,0.787,94.6,2.2,0.9147,OK
+Solar Power Luminous SPF 30 Brightening Serum,ROSE INC,Treatments,46.0,267,4.44,0.8266,89.1,2.2,0.8913,OK
+Peptide + Ceramide Repairing Moisturizer,Dr. Zenovia Skincare,Moisturizers,79.0,519,4.67,0.7758,96.1,2.1,0.925,OK
+C.E.O. Afterglow Brightening Vitamin C Moisturizer,Sunday Riley,Moisturizers,22.0,533,4.65,0.8792,94.9,2.1,0.9366,OK
+Mini Revitalizing Supreme+ Youth Power Creme Moisturizer,Estée Lauder,Moisturizers,64.0,2783,4.32,0.7862,88.6,2.1,0.8747,OK
+Retinol Fast-Release Wrinkle Reducing Night Serum,Kiehl's Since 1851,Treatments,85.0,614,4.52,0.7902,93.3,2.1,0.9063,OK
+Concentrated Ginseng Renewing Serum,Sulwhasoo,Treatments,210.0,142,4.7,0.8358,97.9,2.1,0.9439,OK
+Firming Vegan Collagen Prep Serum,The Outset,Treatments,46.0,188,4.69,0.8206,96.3,2.1,0.9344,OK
+Chia + Moringa Algae Enzyme Cleansing Oil,MARA,Cleansers,58.0,241,4.88,0.8665,98.3,2.1,0.9625,OK
+Revitalizing Supreme+ Youth Power Creme Moisturizer,Estée Lauder,Moisturizers,98.0,2783,4.32,0.7862,88.6,2.1,0.8747,OK
+C.E.O. Afterglow Brightening Vitamin C Moisturizer,Sunday Riley,Moisturizers,65.0,533,4.65,0.8792,94.9,2.1,0.9366,OK
+Dewtopia 5% AHA Firming Night Crème,OLEHENRIKSEN,Moisturizers,60.0,339,4.83,0.8408,97.6,2.1,0.9522,OK
+Clarifique Exfoliating & Hydrating Face Essence with Glycolic Acid,Lancôme,Moisturizers,95.0,847,4.64,0.8187,95.7,2.0,0.929,OK
+Active Blast Concentrated Collagen Daily Treatment,FaceGym,Treatments,65.0,101,4.68,0.8354,94.1,2.0,0.9276,OK
+The Ultimate Soothing Cream,Augustinus Bader,Moisturizers,290.0,100,4.67,0.8259,94.0,2.0,0.9249,OK
+Ceramidin Cream-Infused Mask,Dr. Jart+,Masks,15.0,343,4.64,0.7896,95.9,2.0,0.9241,OK
+GOOPGLOW Vita-C Brightening Eye Cream,goop,Eye Care,58.0,100,4.21,0.775,85.0,2.0,0.8513,OK
+C5 Super Boost Vitamin C Moisturizer,Paula's Choice,Moisturizers,45.0,293,4.7,0.8357,96.9,2.0,0.9402,OK
+The Moisturizing Soft Cream Moisturizer,La Mer,Moisturizers,380.0,200,4.48,0.7975,89.0,2.0,0.8881,OK
+10% Vitamin C Brightening Serum,First Aid Beauty,Treatments,50.0,351,4.68,0.8399,95.7,2.0,0.9348,OK
+Premier Cru Anti Aging Cream Moisturizer with Hyaluronic Acid,Caudalie,Moisturizers,129.0,245,4.64,0.8255,93.1,2.0,0.9193,OK
+Restorative Niacinamide Night Cream,The Outset,Moisturizers,54.0,152,4.61,0.8245,91.4,2.0,0.9104,OK
+Vitamin C Lactic Dewy Deep Cream,Dr. Dennis Gross Skincare,Moisturizers,75.0,252,4.79,0.8269,95.6,2.0,0.9393,OK
+Overnight Hydrating Mask,SEPHORA COLLECTION,Masks,16.0,300,4.81,0.7892,98.3,2.0,0.9446,OK
+Luxury Sun Ritual Pore Smoothing Sunscreen SPF 30,Saint Jane Beauty,Sunscreen,38.0,293,4.83,0.8324,97.3,2.0,0.9493,OK
+Mini Algae + Moringa Universal Face Oil,MARA,Moisturizers,40.0,156,4.87,0.8042,98.7,1.9,0.9526,OK
+Floral Recovery Overnight Mask with Squalane,fresh,Masks,69.0,1128,4.8,0.8526,97.5,1.9,0.9516,OK
+Algae + Moringa Universal Hydrating Face Oil,MARA,Moisturizers,72.0,156,4.87,0.8042,98.7,1.9,0.9526,OK
+Circular Hydration Serum with Hyaluronic Acid,Dermalogica,Treatments,64.0,372,4.77,0.8147,98.1,1.9,0.9456,OK
+"Perfect Canvas Smooth, Prep & Plump Essence",REN Clean Skincare,Moisturizers,55.0,155,4.77,0.8517,96.8,1.9,0.9466,OK
+Advanced Génifique Night Cream with Triple Ceramide Complex,Lancôme,Moisturizers,95.0,463,4.71,0.7905,96.5,1.9,0.9316,OK
+Benefiance Wrinkle Smoothing Cream Enriched,Shiseido,Moisturizers,75.0,944,4.58,0.7994,93.8,1.9,0.9135,OK
+Discover Healthy Skin Kit,Dermalogica,Value & Gift Sets,39.5,416,4.63,0.8538,94.7,1.9,0.93,OK
+Abeille Royale Anti-Aging Double R Advanced Serum,GUERLAIN,Treatments,240.0,419,4.62,0.8329,94.3,1.9,0.924,OK
+Triple Vitamin C Brightening Bounce Cream Moisturizer,alpyn beauty,Moisturizers,49.0,225,4.54,0.872,92.4,1.8,0.9188,OK
+1% Vitamin A Retinol Serum,Farmacy,Treatments,60.0,453,4.77,0.8702,97.4,1.8,0.9521,OK
+Aqua Bomb Brightening Vitamin C Cream,belif,Moisturizers,45.0,1242,4.5,0.8173,92.8,1.8,0.9077,OK
+Essential Energy Hydrating Cream,Shiseido,Moisturizers,50.0,452,4.55,0.7997,93.8,1.8,0.9118,OK
+FIRMx Collagen Face & Eye Hydra-Gel Patches,Peter Thomas Roth,Eye Care,65.0,218,4.69,0.8532,94.0,1.8,0.931,OK
+BioLumin-C Vitamin-C Gel Moisturizer,Dermalogica,Moisturizers,69.0,271,4.64,0.8848,94.8,1.8,0.9366,OK
+Pro-Retinol Megamoisture Face Cream,Josie Maran,Moisturizers,54.0,279,4.75,0.8338,97.1,1.8,0.944,OK
+Capture Totale Firming & Wrinkle-Correcting Cream,Dior,Moisturizers,130.0,654,4.52,0.8449,92.5,1.8,0.9127,OK
+Clinical 0.3% Retinol + 2% Bakuchiol Treatment,Paula's Choice,Treatments,62.0,170,4.82,0.809,98.8,1.8,0.9508,OK
+Mochi Mochi Luminous Plumping & Hydrating Moisturizer,DAMDAM,Moisturizers,48.0,336,4.67,0.7998,93.5,1.8,0.9181,OK
+GinZing Energizing Gel Cream with Caffeine & Niacinamide,Origins,Moisturizers,36.0,119,4.6,0.8368,94.1,1.7,0.9227,OK
+Tea Elixir Niacinamide & Hyaluronic Acid Anti-Aging Serum,fresh,Treatments,80.0,1872,4.77,0.8518,97.2,1.7,0.9487,OK
+Glowy Skin Prep Besties Set,Glow Recipe,Value & Gift Sets,52.0,116,4.85,0.8666,98.3,1.7,0.9606,OK
+The Hydrating Infused Emulsion,La Mer,Moisturizers,125.0,360,4.62,0.8318,92.2,1.7,0.9158,OK
+Radiance Vitamin C Glow Serum,REN Clean Skincare,Treatments,69.0,412,4.68,0.8722,96.4,1.7,0.9432,OK
+Glass & Gloss 2-Step Facial Retexturizing & Brightening Treatment,BeautyBio,Treatments,69.0,181,4.64,0.8292,96.1,1.7,0.9318,OK
+Capture Totale Le Sérum Anti-Aging Serum,Dior,Treatments,100.0,500,4.45,0.8125,92.2,1.6,0.9014,OK
+Exfoliating Revitalizing & Energizing Caffeine Micro Polish,The Outset,Cleansers,34.0,183,4.77,0.8575,95.6,1.6,0.9432,OK
+Eye Revival Brightening Eye Cream,ROSE INC,Eye Care,55.0,188,4.69,0.8654,96.3,1.6,0.9423,OK
+Rice Drops Face Oil Hydrating Serum,DAMDAM,Moisturizers,68.0,186,4.85,0.8509,97.8,1.6,0.9562,OK
+Minty Mineral Hydration Face Mist with Aloe Vera,KORA Organics,Moisturizers,44.0,184,4.51,0.877,92.9,1.6,0.9193,OK
+Hydration Replenish Microencapsulated Plumping Gel Moisturizer,ROSE INC,Moisturizers,70.0,189,4.66,0.8255,94.2,1.6,0.9247,OK
+Hyaluronic Acid + Peptide Serum,Dr. Zenovia Skincare,Treatments,72.0,122,4.51,0.8005,95.1,1.6,0.9147,OK
+Extra-Firming + Smoothing Neck & Décolleté Moisturizer,Clarins,Moisturizers,96.0,193,4.65,0.8307,95.3,1.6,0.93,OK
+Ultralight Moisture-Boosting Botanical Oil,The Outset,Moisturizers,44.0,190,4.83,0.84,97.4,1.6,0.9509,OK
+Silk Rice Makeup-Removing Cleansing Oil,DAMDAM,Cleansers,46.0,196,4.76,0.8327,94.9,1.5,0.9353,OK
+Full Face Sculpt Kit - 14-Day Challenge,FaceGym,High Tech Tools,75.0,131,4.47,0.8626,93.1,1.5,0.9156,OK
+Face Glaze Skin Barrier Protect & Glow Moisturizer,iNNBEAUTY PROJECT,Moisturizers,25.0,194,4.62,0.8672,92.3,1.5,0.9223,OK
+Hydra Zen Gel-Cream Oil-Free Moisturizer with Salicylic Acid,Lancôme,Moisturizers,48.0,1256,4.56,0.8394,93.4,1.4,0.9182,OK
+Prisma Protect SPF 30 Moisturizer,Dermalogica,Moisturizers,69.0,141,4.36,0.8217,92.9,1.4,0.9005,OK
+Daily Milkfoliant Exfoliator,Dermalogica,Cleansers,65.0,561,4.79,0.8585,97.1,1.4,0.9507,OK
+The Silk Serum Wrinkle-Smoothing Retinol Alternative,Tatcha,Treatments,98.0,144,4.8,0.8539,96.5,1.4,0.948,OK
+(Glow)Setting 100% Mineral Powder SPF 35,Supergoop!,Sunscreen,36.0,147,4.48,0.873,88.4,1.4,0.8992,OK
+Absolue Soft Cream Revitalizing & Brightening Moisturizer,Lancôme,Moisturizers,150.0,139,4.68,0.8452,95.7,1.4,0.9354,OK
+Blue Aventurine De-Puffing Facial Roller,SEPHORA COLLECTION,Wellness,20.0,150,4.89,0.8369,98.7,1.3,0.9595,OK
+Rénergie Lift Multi-Action Ultra Dark Spot Correcting Cream SPF 30,Lancôme,Moisturizers,135.0,317,4.69,0.8276,95.6,1.3,0.9328,OK
+Cocoa Cleans'r Soothing All-Over Cleansing Bar,Fenty Skin,Cleansers,14.0,300,4.18,0.8303,83.7,1.3,0.8535,OK
+Hydrating Serum,SEPHORA COLLECTION,Treatments,20.0,300,4.81,0.8432,98.3,1.3,0.954,OK
+Retinol Firming Cream Treatment with Peptides + Hyaluronic Acid,LANEIGE,Treatments,39.0,234,4.58,0.8379,97.9,1.3,0.9369,OK
+Juneberry & Collagen Hydrating Cold Cream Cleanser,alpyn beauty,Cleansers,39.0,240,4.88,0.876,97.1,1.3,0.9591,OK
+Truth Barrier Booster Orange Ferment Vitamin C Essence,OLEHENRIKSEN,Moisturizers,48.0,602,4.81,0.8728,97.3,1.3,0.9555,OK
+The POREfessional Smooth Sip Lightweight Gel-Cream Moisturizer,Benefit Cosmetics,Moisturizers,44.0,718,4.6,0.8383,93.6,1.3,0.9209,OK
+Radiant Reveal Clean Brightening Vitamin C Serum,ROSE INC,Treatments,74.0,166,4.67,0.8682,96.4,1.2,0.9418,OK
+Self-Tan Luxe Whipped Crème Mousse,St. Tropez,Self Tanners,48.0,502,4.63,0.8718,94.6,1.2,0.9332,OK
+Berry Bright Firming Vitamin C Eye Cream,KORA Organics,Eye Care,58.0,408,4.62,0.877,92.2,1.2,0.9235,OK
+Resveratrol Lift Retinol Alternative Firming Cashmere Moisturizer,Caudalie,Moisturizers,69.0,336,4.65,0.8433,93.2,1.2,0.9231,OK
+Targeted Wrinkle Corrector,Murad,Treatments,79.0,485,4.72,0.8373,96.5,1.2,0.94,OK
+NuFACE Mini+ Petite Facial Toning Device,NuFACE,High Tech Tools,245.0,175,4.53,0.8253,94.3,1.1,0.9173,OK
+Full Spectrum 360º Refreshing Water Cream Organic Face Sunscreen SPF 50,COOLA,Sunscreen,48.0,267,4.58,0.8364,93.6,1.1,0.9197,OK
+PRO Strength Vitamin A/C/E Retinoid Treatment,Peter Thomas Roth,Treatments,65.0,178,4.74,0.8398,97.8,1.1,0.9468,OK
+Barrier+ Triple Lipid + Collagen + Niacinamide Activating Serum,Skinfix,Treatments,69.0,456,4.82,0.8373,98.2,1.1,0.9535,OK
+Brume de Beauté Beauty Mist,Gucci,Moisturizers,78.0,451,4.67,0.8547,94.2,1.1,0.9306,OK
+The POREfessional Speedy Smooth Mask,Benefit Cosmetics,Masks,39.0,471,4.71,0.876,97.0,1.1,0.9485,OK
+Phyto Nature Oxygen Cream,Dermalogica,Moisturizers,125.0,200,4.83,0.8494,99.5,1.0,0.961,OK
+Nomad’s Cream Purifying & Exfoliating AHA Cleanser,DAMDAM,Cleansers,38.0,198,4.79,0.85,97.0,1.0,0.9487,OK
+Bestsellers Trial Kit,Sulwhasoo,Value & Gift Sets,58.0,302,4.7,0.9088,94.4,1.0,0.9429,OK
+Glow Daily Vitamin C Gel Cream,REN Clean Skincare,Moisturizers,54.0,194,4.58,0.8599,93.8,1.0,0.9246,OK
+Polyglutamic Acid Dewy Sunscreen SPF 30,The INKEY List,Sunscreen,14.99,100,4.69,0.8475,97.0,1.0,0.9419,OK
+Vitamin C Brightening Toner,Dr. Zenovia Skincare,Cleansers,38.0,107,4.6,0.8102,94.4,0.9,0.9192,OK
+Overnight Vitalizing Mask,Sulwhasoo,Masks,54.0,106,4.72,0.8582,92.5,0.9,0.9273,OK
+The POREfessional Good Cleanup Foaming Cleanser,Benefit Cosmetics,Cleansers,29.0,463,4.62,0.8612,95.2,0.9,0.9331,OK
+Snow Mushroom Pore Cleanser with Exfoliating Glove,DAMDAM,Cleansers,47.0,108,4.7,0.8936,97.2,0.9,0.9517,OK
+Gentle Micellar Antioxidant Cleanser,The Outset,Cleansers,32.0,112,4.66,0.8461,92.9,0.9,0.9233,OK
+The POREfessional Deep Retreat Pore-Clearing Clay Mask,Benefit Cosmetics,Masks,39.0,707,4.77,0.8698,98.0,0.8,0.9546,OK
+Triple Acid Signature Peel,Shani Darden Skin Care,Treatments,125.0,129,4.88,0.8583,99.2,0.8,0.9643,OK
+Turmeric Glow Foaming Cleanser,KORA Organics,Cleansers,44.0,290,4.61,0.8914,92.1,0.7,0.9249,OK
+Black Tea Anti-Aging Moisturizer with Retinol-Alternative BT Matrix,fresh,Moisturizers,95.0,1389,4.84,0.9006,97.6,0.6,0.9633,OK
+Smart Response Serum,Dermalogica,Treatments,145.0,354,4.78,0.877,98.0,0.6,0.957,OK
+10 Day Results Kit,Algenist,Value & Gift Sets,88.0,258,4.8,0.9196,98.1,0.4,0.9658,OK
+Bright Start Vitamin C Antioxidant Brightening Moisturizer,TULA Skincare,Moisturizers,56.0,229,4.41,0.8751,92.6,0.4,0.9113,OK
+Equilibrium Resurfacing Retinoid Treatment,Hourglass,Treatments,110.0,132,4.87,0.8933,99.2,0.0,0.9702,OK
+Face Stone Nourishing Solid Refillable Facial Oil with Tamanu + Blue Tansy,Kate McLeod,Moisturizers,68.0,134,4.66,0.9064,94.0,0.0,0.9383,OK
+barrier+ Triple Lipid + Collagen Brightening Eye Treatment,Skinfix,Eye Care,54.0,277,4.8,0.8719,98.2,0.0,0.958,OK
+24-7 Moisture Intense Ultra Hydrating Day & Night Cream with Hyaluronic Acid + Squalane,TULA Skincare,Moisturizers,58.0,110,4.42,0.8099,90.9,0.0,0.894,OK
+Max Vitamin D-Fense Sunscreen Serum Broad Spectrum SPF 50,Peter Thomas Roth,Sunscreen,42.0,172,4.81,0.8693,98.3,0.0,0.9585,OK
+Jade Facial Roller,SEPHORA COLLECTION,Wellness,22.0,129,4.89,0.8912,99.2,0.0,0.9711,OK
+Hydro Ungrip Makeup Remover + Cleansing Water,MILK MAKEUP,Cleansers,32.0,139,4.65,0.8509,92.8,0.0,0.9231,OK
+Absolue Rich Cream Moisturizer,Lancôme,Moisturizers,270.0,127,4.8,0.901,98.4,0.0,0.9641,OK
